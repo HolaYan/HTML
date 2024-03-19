@@ -105,7 +105,7 @@
                 });
                 return evidenceContent;
             } else {
-                if (key === 'text' ){
+                if (key === 'text' || key === 'tf idf score'){
                     return `<strong>Final ${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
                 }
                 else{
