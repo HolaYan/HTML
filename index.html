@@ -100,9 +100,9 @@
                 let evidenceContent = `<strong>${key}:</strong><br>`;
                 item[key].forEach((evidence, index) => {
                     evidenceContent += `<div>Evidence ${index+1}:<br>`;
-                    // for (let evidKey in evidence) {
-                    evidenceContent += `${evidence[1]}<br>`;
-                    // }
+                    for (let evidKey in evidence) {
+                        evidenceContent += `${evidKey}: ${evidence[1]}<br>`;
+                    }
                     evidenceContent += '</div>';
                 });
                 return evidenceContent;
