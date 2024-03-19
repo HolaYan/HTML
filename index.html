@@ -94,7 +94,7 @@
         .catch(error => console.error('Error fetching JSON data:', error));
 
         function formatItemContent(key, item) {
-            let displayKey = key === 'text' ? 'final key' : key;
+            // let displayKey = key === 'text' ? 'final key' : key;
 
             if (key === 'gold_evidence' || key === 'tfidf retrieved') {
                 let evidenceContent = `<strong>${key}:</strong><br>`;
