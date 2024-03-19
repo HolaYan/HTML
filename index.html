@@ -96,7 +96,7 @@
         function formatItemContent(key, item) {
             // let displayKey = key === 'text' ? 'final key' : key;
 
-            if (key === 'gold_evidence' || key === 'tfidf retrieved') {
+            if (key == 'gold_evidence' || key == 'tfidf retrieved') {
                 let evidenceContent = `<strong>${key}:</strong><br>`;
                 item[key].forEach((evidence, index) => {
                     evidenceContent += `<div>Evidence ${index+1}:<br>`;
