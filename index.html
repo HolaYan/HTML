@@ -107,7 +107,7 @@
                 });
                 return evidenceContent;
             } else {
-                return `<strong>${displayKey}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
+                return `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
             }
         }
     </script>
