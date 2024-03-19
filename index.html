@@ -64,8 +64,8 @@
                         itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
                     }
                     
-                    key = 'tf idf score'
-                    itemContent += `<strong>Retrieve result:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
+                    key == 'tf idf score'
+                    itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
                     
                     for (let key in item) {
                         if (key === 'gold_evidence' || key === 'tfidf retrieved') {
@@ -77,7 +77,7 @@
                                 }
                             });
                         } else {
-                            if (key !== 'total_likes' && key !== 'total_votes' && key !== 'correct_votes' && key !== 'id' && key !== 'label' && key !== 'tf idf score' && key !== 'label') {
+                            if (key !== 'total_likes' && key !== 'total_votes' && key !== 'correct_votes' && key !== 'id' && key !== 'label' && key !== 'tf idf score' && key !== 'label' && key !== 'original query') {
                                 itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
                             }
                         }
