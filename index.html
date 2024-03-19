@@ -14,11 +14,17 @@
             border: 1px solid #ccc;
             margin: 10px;
             padding: 10px;
-            width: 30%;
+            width: 45%; /* Adjusted width to accommodate more content */
         }
         h2 {
             font-size: 1.2rem;
             color: #004d99;
+        }
+        .dict-entry {
+            margin-bottom: 20px;
+            padding: 5px;
+            border-left: 3px solid #007bff;
+            background-color: #f1f1f1;
         }
     </style>
 </head>
@@ -49,9 +55,15 @@
                 const section = document.createElement('div');
                 section.className = 'section';
                 section.innerHTML = `<h2>${category}</h2>`;
+
                 categories[category].forEach(item => {
-                    const itemElement = document.createElement('p');
-                    itemElement.textContent = `ID: ${item.id} - ${item.text}`;
+                    const itemElement = document.createElement('div');
+                    itemElement.className = 'dict-entry';
+                    let itemContent = '';
+                    for (let key in item) {
+                        itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
+                    }
+                    itemElement.innerHTML = itemContent;
                     section.appendChild(itemElement);
                 });
                 container.appendChild(section);
