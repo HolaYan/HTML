@@ -1,1 +1,63 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Data Viewer</title>
+    <style>
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .section {
+            border: 1px solid #ccc;
+            margin: 10px;
+            padding: 10px;
+            width: 30%;
+        }
+        h2 {
+            font-size: 1.2rem;
+            color: #004d99;
+        }
+    </style>
+</head>
+<body>
+    <h1>Explore JSON Data</h1>
+    <div id="data-container" class="container">
+        <!-- Dynamic data will be inserted here -->
+    </div>
+
+    <script>
+        // Fetching the JSON data
+        fetch('data/all_samples.json')
+        .then(response => response.json())
+        .then(data => {
+            const container = document.getElementById('data-container');
+            const categories = {};
+
+            // Organizing data by category
+            data.forEach(item => {
+                if (!categories[item.category]) {
+                    categories[item.category] = [];
+                }
+                categories[item.category].push(item);
+            });
+
+            // Displaying the categorized data
+            for (let category in categories) {
+                const section = document.createElement('div');
+                section.className = 'section';
+                section.innerHTML = `<h2>${category}</h2>`;
+                categories[category].forEach(item => {
+                    const itemElement = document.createElement('p');
+                    itemElement.textContent = `ID: ${item.id} - ${item.text}`;
+                    section.appendChild(itemElement);
+                });
+                container.appendChild(section);
+            }
+        })
+        .catch(error => console.error('Error fetching JSON data:', error));
+    </script>
+</body>
+</html>
