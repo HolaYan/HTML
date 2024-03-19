@@ -46,7 +46,7 @@
             const container = document.getElementById('data-container');
             const categories = {};
             // Define the order in which keys should be displayed
-            const keysOrder = ["id", "category", "wikipedia_page", "gold_evidence", 'tf idf score', "text",'masked adj','possible adj','adj step chosen sen','adj step chosen flag'];
+            const keysOrder = ["id", "category", "wikipedia_page", "gold_evidence", 'tf idf score', "text",'masked adj','possible adj','adj step chosen sen','adj step chosen flag','masked verb','possible verb','verb step chosen sen','verb step chosen flag','masked name','possible name','name step chosen sen','name step chosen flag','rag step chosen sen','rag step chosen flag','tfidf retrieved'];
             // Decide which keys go above the divider
             const keysAboveDivider = ["id", "category", "wikipedia_page", "gold_evidence", 'tf idf score'];
 
@@ -81,7 +81,6 @@
                     // Display keys below the divider
                     keysOrder.forEach(key => {
                         if (!keysAboveDivider.includes(key) && key in item) {
-                            
                             itemContent += formatItemContent(key, item);
                         }
                     });
@@ -95,10 +94,10 @@
         .catch(error => console.error('Error fetching JSON data:', error));
 
         function formatItemContent(key, item) {
-            if (key === 'gold_evidence') {
+            if (key === 'gold_evidence' || key == 'tfidf retrieved') {
                 let evidenceContent = `<strong>${key}:</strong><br>`;
                 item[key].forEach((evidence, index) => {
-                    evidenceContent += `<div>Gold Evidence ${index+1}:<br>`;
+                    evidenceContent += `<div>Evidence ${index+1}:<br>`;
                     for (let evidKey in evidence) {
                         evidenceContent += `${evidKey}: ${evidence[evidKey]}<br>`;
                     }
