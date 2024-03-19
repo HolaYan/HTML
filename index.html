@@ -60,10 +60,13 @@
                     const itemElement = document.createElement('div');
                     itemElement.className = 'dict-entry';
                     let itemContent = '';
-                    if (key === 'id' || key === 'original query') {
-                        itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
-                    }
                     
+                    key == 'id'
+                    itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
+
+                    key == 'original query'
+                    itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
+
                     key == 'tf idf score'
                     itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
                     
