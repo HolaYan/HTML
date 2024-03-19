@@ -105,12 +105,15 @@
                 });
                 return evidenceContent;
             } else {
-                // if (key === 'text' || key === 'tf idf score'){
-                //     return `<strong>Final ${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
-                // }
-                // else{
-                return `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
-                // }
+                if (key === 'text' || key === 'tf idf score'){
+                    item[key].forEach((evidence, index) => {
+                        let evidenceContent = `<strong>Final ${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
+                    });
+                    return evidenceContent;
+                }
+                else{
+                    return `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
+                }
             }
         }
     </script>
