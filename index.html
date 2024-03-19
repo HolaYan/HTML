@@ -101,7 +101,7 @@
                 item[key].forEach((evidence, index) => {
                     evidenceContent += `<div>Evidence ${index+1}:<br>`;
                     for (let evidKey in evidence) {
-                        evidenceContent += `${evidKey}: ${evidence[1]}<br>`;
+                        evidenceContent += `${evidKey}: ${evidence[evidKey]}<br>`;
                     }
                     evidenceContent += '</div>';
                 });
