@@ -94,6 +94,8 @@
         .catch(error => console.error('Error fetching JSON data:', error));
 
         function formatItemContent(key, item) {
+            let displayKey = key === 'text' ? 'final key' : key;
+
             if (key === 'gold_evidence' || key === 'tfidf retrieved') {
                 let evidenceContent = `<strong>${key}:</strong><br>`;
                 item[key].forEach((evidence, index) => {
@@ -105,15 +107,7 @@
                 });
                 return evidenceContent;
             } else {
-                if (key === 'text' || key === 'tf idf score'){
-                    item[key].forEach((evidence, index) => {
-                        let evidenceContent = `<strong>Final ${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
-                    });
-                    return evidenceContent;
-                }
-                else{
-                    return `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
-                }
+                return `<strong>${displayKey}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
             }
         }
     </script>
