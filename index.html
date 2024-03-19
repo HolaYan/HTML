@@ -60,8 +60,22 @@
                     const itemElement = document.createElement('div');
                     itemElement.className = 'dict-entry';
                     let itemContent = '';
+                    key = 'id'
+                    itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
                     for (let key in item) {
-                        itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
+                        if (key === 'gold_evidence' || key === 'tfidf retrieved') {
+                            // Specially process the gold_evidence array to display its contents on separate lines
+                            item[key].forEach((evidence, index) => {
+                                itemContent += `<strong>Gold Evidence ${index+1}:</strong><br>`;
+                                for (let evidKey in evidence) {
+                                    itemContent += `${evidKey}: ${evidence[evidKey]}<br>`;
+                                }
+                            });
+                        } else {
+                            if ((key !== 'total_likes' && key !== 'total_votes') && key !== 'correct_votes' && key !== 'id') {
+                                itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
+                            }
+                        }
                     }
                     itemElement.innerHTML = itemContent;
                     section.appendChild(itemElement);
