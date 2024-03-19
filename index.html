@@ -60,7 +60,7 @@
                     const itemElement = document.createElement('div');
                     itemElement.className = 'dict-entry';
                     let itemContent = '';
-                    ordered_items = ['id','original query','tf idf score']
+                    const ordered_items = ['id','original query','tf idf score'];
                     
                     for (let key in ordered_items){
                         itemContent += `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
