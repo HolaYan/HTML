@@ -61,44 +61,44 @@
             [
                 "novel",
                 "story",
+                "fiction",
                 "tale",
                 "book",
                 "narrative",
-                "fiction",
                 "work",
+                "literature",
                 "saga",
-                "piece",
-                "account"
+                "masterpiece"
             ],
             [
                 "left-handed",
                 "southpaw",
                 "pitching",
                 "baseball",
-                "pitcher",
                 "talented",
                 "gifted",
-                "exceptional",
-                "skilled",
-                "extraordinary"
+                "star",
+                "powerful",
+                "dominant",
+                "skilled"
             ]
         ],
         "long section candidates": [
             [
-                "never wins",
-                "dreams of winning",
-                "struggles but ultimately fails to win",
-                "is tragically prevented from winning",
-                "aims to win"
+                "never fights for",
+                "aspires to win",
+                "travels to Chicago to try out for",
+                "is shot and seriously wounded by a mysterious woman on his way to",
+                "achieves his dream of playing for"
             ]
         ],
         "name section candidates": [
             [
                 "Bernard Malamud",
-                "Harper Lee",
-                "J.K. Rowling",
-                "George Orwell",
-                "Stephen King"
+                "Haruki Murakami",
+                "F. Scott Fitzgerald",
+                "Ernest Hemingway",
+                "J.D. Salinger"
             ]
         ]
     },
@@ -204,40 +204,40 @@
         "short section candidates": [
             [
                 "present",
-                "absent",
-                "not present",
-                "unavailable",
-                "missing",
-                "elsewhere",
-                "not in attendance",
-                "gone",
-                "absent from",
-                "not there"
+                "seen",
+                "attending",
+                "observed",
+                "participating",
+                "visible",
+                "in attendance",
+                "there",
+                "on hand",
+                "available"
             ]
         ],
         "long section candidates": [
             [
-                "had to stay home with a babysitter instead",
-                "was at home with a babysitter during those games",
-                "could not attend his father's championship games and stayed with a babysitter",
-                "was spending time with a babysitter while his father played championship games",
-                "remained with a babysitter, thus missing his father's championship matches"
+                "was required to stay home",
+                "had obligations to be home",
+                "had commitments that kept him at home",
+                "was unable to attend and stayed home",
+                "remained at home"
             ],
             [
-                "with a babysitter because Ken Griffey Sr. and Ken Griffey Jr. had previously made history by becoming the first father and son to play for the same major league team together",
-                "with a babysitter while his grandfather, Buddy Griffey, reminisced about the past glories of baseball in Donora, Pennsylvania",
-                "with a babysitter, missing the unique opportunity to witness his dad play alongside Tim Raines Sr., another historic moment in baseball",
-                "with a babysitter, not witnessing another historical moment when Tim Raines Jr. and Tim Raines Sr. played for Baltimore, echoing the Griffey family achievement",
-                "with a babysitter, unaware that his dad\u2019s champion games would later be a point of baseball history discussions, alongside tales of The Donora Greyhound"
+                "with a babysitter because Ken Griffey Sr. and Junior accomplished the feat of being the second father and son team to play for the same major league team",
+                "with a babysitter because his father, Ken Griffey Sr., played in the major leagues, making history by playing alongside his son in the same team",
+                "with a babysitter because his grandfather, Buddy Griffey, laid the groundwork for a baseball legacy that his father, Ken Griffey Sr., and later he would follow",
+                "with a babysitter while Ken Griffey Sr. made history alongside his son in the major leagues, demonstrating familial talent in baseball",
+                "with a babysitter during the period when Ken Griffey Sr. was creating memorable moments in baseball, influencing the path that Junior would eventually follow"
             ]
         ],
         "name section candidates": [
             [
                 "studying",
                 "reading",
-                "practicing baseball",
                 "doing homework",
-                "painting"
+                "resting",
+                "sick"
             ]
         ]
     },
@@ -299,27 +299,27 @@
         "short section candidates": [
             [
                 "challenges",
-                "subverts",
-                "undermines",
-                "reinterprets",
-                "questions",
-                "alters",
-                "redefines",
-                "confronts",
+                "upends",
                 "disrupts",
-                "overturns"
+                "questions",
+                "redefines",
+                "overturns",
+                "alters",
+                "subverts",
+                "reimagines",
+                "transforms"
             ],
             [
                 "having",
                 "depicting",
-                "showing",
-                "representing",
-                "illustrating",
+                "showcasing",
+                "allowing",
                 "portraying",
-                "demonstrating",
+                "enabling",
+                "illustrating",
                 "featuring",
                 "presenting",
-                "highlighting"
+                "demonstrating"
             ]
         ],
         "long section candidates": [
@@ -333,11 +333,7 @@
         ],
         "name section candidates": [
             [
-                "Don Graham",
-                "John Wayne",
-                "Grace Kelly",
-                "Fred Zinnemann",
-                "Gary Cooper"
+                "Don Graham"
             ]
         ]
     },
@@ -438,38 +434,38 @@
         ],
         "short section candidates": [
             [
-                "many",
+                "several",
+                "multiple",
                 "various",
                 "different",
-                "multiple",
-                "a few",
                 "numerous",
-                "diverse",
-                "several other",
                 "a number of",
-                "assorted"
+                "diverse",
+                "assorted",
+                "many",
+                "a few"
             ],
             [
+                "inspired",
                 "influenced",
-                "served as the inspiration for",
-                "been the inspiration behind",
-                "informed the creation of",
-                "been the basis for",
-                "sparked the idea for",
-                "been the muse for",
-                "motivated the writing of",
-                "guided the conception of",
-                "led to the creation of"
+                "shaped",
+                "sparked",
+                "motivated",
+                "driven",
+                "affected",
+                "led to the creation of",
+                "played a role in",
+                "contributed to"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "Himeji Castle",
-                "Mont Saint-Michel",
-                "The Empire State Building",
+                "Sagrada Familia",
                 "The Eiffel Tower",
-                "The Parthenon"
+                "The Louvre",
+                "The Parthenon",
+                "The Empire State Building"
             ]
         ]
     },
@@ -518,15 +514,15 @@
         "short section candidates": [
             [
                 "named",
-                "dubbed",
-                "christened",
-                "referred to as",
                 "known as",
                 "designated",
+                "referred to as",
                 "called",
+                "identified as",
                 "termed",
-                "labeled",
-                "identified as"
+                "dubbed",
+                "recognized as",
+                "labeled as"
             ]
         ],
         "long section candidates": [],
@@ -584,16 +580,16 @@
         ],
         "short section candidates": [
             [
-                "does not happen",
-                "is not set",
-                "does not take place",
-                "is not located",
-                "does not unfold",
-                "does not occur",
-                "is not based",
-                "is incorrectly said to occur",
-                "is mistakenly placed",
-                "is wrongly depicted"
+                "takes place",
+                "is set",
+                "unfolds",
+                "occurs",
+                "is located",
+                "is based",
+                "transpires",
+                "Happens",
+                "is situated",
+                "enacts"
             ]
         ],
         "long section candidates": [],
@@ -649,9 +645,9 @@
         "name section candidates": [
             [
                 "One of the Boys",
+                "Witness",
                 "Teenage Dream",
                 "Prism",
-                "Witness",
                 "Smile"
             ]
         ]
@@ -737,7 +733,16 @@
         ],
         "short section candidates": [
             [
-                "young"
+                "young",
+                "adolescents",
+                "teenagers",
+                "youthful",
+                "minors",
+                "kids",
+                "juveniles",
+                "youthful adults",
+                "adolescent parents",
+                "young adults"
             ]
         ],
         "long section candidates": [],
@@ -797,38 +802,38 @@
                 "adopted",
                 "chose",
                 "selected",
-                "preferred",
                 "picked",
+                "took",
+                "preferred",
+                "assumed",
                 "utilized",
                 "went by",
-                "assumed",
-                "embraced",
-                "identified with"
+                "decided on"
             ]
         ],
         "long section candidates": [
             [
-                "given an English name",
-                "referred to by an English name",
-                "addressed by an English name",
-                "known by an English name",
-                "called by an English name"
+                "given the English name \"Paul\" when he was **called by** an English name",
+                "given the English name \"Paul\" when he was **assigned** an English name",
+                "given the English name \"Paul\" when he was **known by** an English name",
+                "given the English name \"Paul\" when he was **identified with** an English name",
+                "given the English name \"Paul\" when he was **recognized by** an English name"
             ]
         ],
         "name section candidates": [
             [
+                "Puyi",
                 "Henry",
-                "Edward",
-                "William",
-                "Paul",
+                "John",
+                "Alexander",
                 "George"
             ],
             [
                 "Henry Pu-Yi",
-                "Henry",
-                "Pu-Yi",
-                "Puyi",
-                "Henry Pu-Yi was the last Emperor of China"
+                "Xuantong Emperor",
+                "The Last Emperor",
+                "Aisin-Gioro Puyi",
+                "Emperor of China"
             ]
         ]
     },
@@ -876,22 +881,26 @@
         ],
         "short section candidates": [
             [
+                "the biggest",
                 "the most populous",
-                "the most inhabited",
-                "a leading",
-                "a major",
-                "the busiest",
-                "the most vibrant",
-                "a primary",
                 "the most significant",
-                "a central",
-                "the most dynamic"
+                "the leading",
+                "the principal",
+                "a major",
+                "the preeminent",
+                "the foremost",
+                "a primary",
+                "the dominant"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "Toronto"
+                "Toronto",
+                "Ontario",
+                "GTA",
+                "Greater Toronto Area",
+                "Canada"
             ]
         ]
     },
@@ -946,28 +955,28 @@
         ],
         "short section candidates": [
             [
+                "his own",
+                "their own",
                 "his",
                 "their",
+                "her own",
                 "her",
-                "the",
-                "one's",
+                "my own",
                 "my",
-                "your",
-                "our",
-                "its",
-                "this"
+                "your own",
+                "your"
             ],
             [
                 "his",
-                "their",
                 "her",
+                "his/her",
+                "their",
                 "both",
-                "all of his",
-                "all",
-                "several",
-                "each of his",
+                "all his",
+                "all her",
                 "the",
-                "those"
+                "all their",
+                "some of his"
             ]
         ],
         "long section candidates": [],
@@ -976,15 +985,15 @@
                 "Shah Jahan",
                 "Jahangir",
                 "Nur Jahan",
-                "Alkan",
-                "Valentin"
+                "his",
+                "their"
             ],
             [
                 "Shah Jahan",
                 "Nur Jahan",
                 "Jahangir",
-                "Mozart",
-                "Beethoven"
+                "John",
+                "Paul"
             ]
         ]
     },
@@ -1048,48 +1057,48 @@
         "short section candidates": [
             [
                 "produces",
-                "supplies",
+                "makes",
                 "creates",
-                "builds",
+                "designs",
                 "develops",
                 "fabricates",
-                "generates",
-                "crafts",
-                "designs",
-                "assembles"
+                "constructs",
+                "engineers",
+                "assembles",
+                "crafts"
             ],
             [
-                "some",
-                "many",
-                "a large portion of",
-                "a significant number of",
-                "a majority of",
+                "a portion of",
+                "some of",
+                "a fraction of",
+                "certain",
+                "a segment of",
+                "specific",
+                "a significant amount of",
                 "various",
-                "numerous",
-                "countless",
-                "a considerable amount of",
-                "a vast number of"
+                "select",
+                "a subset of"
             ],
             [
                 "China",
-                "South Korea",
                 "Japan",
+                "South Korea",
                 "Taiwan",
-                "the United States",
-                "Germany",
                 "Singapore",
-                "India",
+                "Malaysia",
+                "Germany",
+                "the United States",
                 "Vietnam",
-                "Malaysia"
+                "Thailand"
             ]
         ],
         "long section candidates": [
             [
-                "around forty percents",
-                "around 27%",
-                "10%",
-                "14%",
-                "20%"
+                "forty percents",
+                "a significant share",
+                "a notable percentage",
+                "over a third",
+                "almost half"
             ]
         ],
         "name section candidates": [
@@ -1097,8 +1106,8 @@
                 "Samsung",
                 "Apple",
                 "Sony",
-                "Huawei",
-                "LG"
+                "LG",
+                "Panasonic"
             ]
         ]
     },
@@ -1153,45 +1162,45 @@
         "short section candidates": [
             [
                 "ranked",
-                "placed",
                 "positioned",
-                "standing",
+                "placed",
                 "rated",
-                "recorded",
-                "classified",
-                "listed",
                 "situated",
-                "counted"
+                "recorded",
+                "categorized",
+                "classified",
+                "noted",
+                "registered"
             ],
             [
-                "7th",
+                "first",
+                "second",
+                "third",
+                "fourth",
+                "fifth",
+                "sixth",
                 "eighth",
                 "ninth",
-                "sixth",
-                "fifth",
-                "fourth",
-                "third",
-                "second",
-                "first",
-                "tenth"
+                "tenth",
+                "eleventh"
             ]
         ],
         "long section candidates": [
             [
                 "in MLB history with 1,444 double plays turned at second base",
-                "in Major League Baseball history for turning double plays as a second baseman",
-                "as a player-manager in MLB history for the most double plays turned in a single season",
-                "in the history of Major League Baseball for his double play record as a second baseman",
-                "among second basemen in MLB history for his career double plays turned"
+                "in Major League Baseball history for turning 1,444 double plays at second base",
+                "with 1,444 double plays turned at second base in MLB history",
+                "for having turned 1,444 double plays at second base in MLB history",
+                "as having turned 1,444 double plays at second base in the history of Major League Baseball"
             ]
         ],
         "name section candidates": [
             [
                 "Charlie Gehringer",
                 "Lou Boudreau",
-                "Mickey Mantle",
-                "Babe Ruth",
-                "Ted Williams"
+                "Roberto Alomar",
+                "Ryne Sandberg",
+                "Bill Mazeroski"
             ]
         ]
     },
@@ -1246,35 +1255,35 @@
         "short section candidates": [
             [
                 "had",
-                "has",
-                "possesses",
                 "was blessed with",
-                "was gifted with",
-                "was provided with",
-                "maintained",
-                "enjoyed",
+                "was raised with",
+                "grew up with",
+                "shared his childhood with",
                 "was surrounded by",
-                "came from a family with"
+                "lived with",
+                "was born with",
+                "came from a family with",
+                "enjoyed the company of"
             ],
             [
                 "younger",
+                "elder",
                 "twin",
+                "older",
+                "infant",
                 "adolescent",
-                "minor",
-                "little",
-                "juvenile",
-                "smaller",
-                "kid",
+                "teen",
                 "teenage",
-                "infant"
+                "adult",
+                "smaller"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
                 "Carl Maria",
-                "Gustav Mahler",
-                "Will Smith",
+                "Gustav",
+                "Carl",
                 "Pamela",
                 "Harry"
             ]
@@ -1336,32 +1345,30 @@
             [
                 "the third",
                 "a later",
-                "an initially overlooked",
-                "a subsequent",
-                "a further",
+                "his third",
+                "an earlier",
+                "her third",
+                "the next",
+                "a new",
                 "another",
-                "one more",
-                "an additional",
-                "a sequential",
-                "a following"
+                "a subsequent",
+                "the second"
             ]
         ],
         "long section candidates": [
             [
-                "was initially met with mixed reviews",
-                "was not appreciated for its literary significance",
-                "did not gain widespread recognition",
-                "was overlooked by many critics",
-                "was not immediately recognized as a masterpiece"
+                "initially faced mixed reviews and controversy due to its explicit content and portrayal of complex emotional ties between the characters",
+                "was first published in 1913 by English author D.H. Lawrence, reflecting a semi-autobiographical take on his own upbringing in a coal-mining town",
+                "experienced a shift in critical reception over time, with modern critics praising its exploration of oedipal complexes and maternal bonds",
+                "underwent censorship and was subject to public criticism for its exploration of sexuality and the inner lives of its characters",
+                "was controversial for its time because of its frank discussion of sexuality and the dynamics within a working-class family"
             ]
         ],
         "name section candidates": [
             [
                 "Silas Marner",
-                "Tender is the Night",
-                "George Eliot",
-                "Fitzgerald",
-                "The Great Gatsby"
+                "The Great Gatsby",
+                "Tender is the Night"
             ]
         ]
     },
@@ -1432,50 +1439,50 @@
         "short section candidates": [
             [
                 "goal",
-                "objective",
                 "mission",
                 "purpose",
                 "aim",
-                "intent",
                 "endeavor",
-                "target",
-                "commitment",
-                "resolve"
+                "objective",
+                "intention",
+                "quest",
+                "aspiration",
+                "ambition"
             ],
             [
-                "sanctioned",
-                "blessed",
                 "endorsed",
                 "supported",
+                "backed",
+                "sanctioned",
+                "blessed",
                 "approved",
                 "encouraged",
-                "promoted",
-                "backed",
-                "ratified",
-                "championed"
+                "championed",
+                "advocated",
+                "upheld"
             ],
             [
                 "take control",
+                "conquer",
                 "seize",
                 "capture",
-                "reclaim",
-                "liberate",
                 "occupy",
+                "reclaim",
+                "possess",
                 "acquire",
-                "take over",
                 "secure",
-                "win back"
+                "take over"
             ],
             [
-                "military",
                 "forceful",
-                "armed",
+                "military",
                 "aggressive",
-                "combative",
+                "hostile",
+                "brutal",
                 "coercive",
                 "belligerent",
-                "hostile",
                 "confrontational",
+                "warlike",
                 "violent"
             ]
         ],
@@ -1484,9 +1491,9 @@
             [
                 "Church of the Holy Sepulchre",
                 "Samson Agonistes",
-                "Crusader Knights",
-                "Holy Sepulchre Pilgrimage",
-                "Fatimids"
+                "First Crusade",
+                "Fatimids",
+                "Abbasids"
             ]
         ]
     },
@@ -1540,50 +1547,46 @@
         ],
         "short section candidates": [
             [
-                "Serena",
-                "Venus",
-                "Jennifer",
-                "Jessica",
-                "Emily",
-                "Sarah",
-                "Hannah",
-                "Amanda",
-                "Elizabeth",
-                "Charlotte"
+                "Katy Perry",
+                "Smurfette",
+                "a designer",
+                "a singer",
+                "an entrepreneur",
+                "a performer",
+                "a voice actress",
+                "a documentary star",
+                "a tour artist",
+                "an actress"
             ],
             [
                 "ranks",
-                "is listed",
-                "is classified",
                 "serves",
+                "stands",
+                "arrives",
                 "appears",
                 "emerges",
-                "is placed",
-                "is positioned",
-                "is identified",
-                "stands"
+                "registers",
+                "figures",
+                "positions",
+                "identifies"
             ],
             [
                 "youngest",
                 "final",
                 "last",
-                "baby",
-                "most recent",
                 "newest",
-                "latest",
+                "most recent",
+                "ultimate",
+                "baby",
                 "concluding",
                 "terminal",
-                "ultimate"
+                "endmost"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "Perry",
-                "Hudson",
-                "Brand",
-                "Scott",
-                "Collections"
+                "Perry"
             ]
         ]
     },
@@ -1639,53 +1642,53 @@
             [
                 "Maroon 5",
                 "Kara's Flowers",
-                "After self-releasing",
-                "the band",
-                "signed to Reprise Records",
-                "released the album",
                 "The Fourth World",
                 "Songs About Jane",
                 "It Won't Be Soon Before Long",
-                "Hands All Over"
+                "Hands All Over",
+                "Overexposed",
+                "V",
+                "Red Pill Blues",
+                "Jordi"
             ]
         ],
         "long section candidates": [
             [
-                "did not receive",
-                "was not eligible for",
-                "was far from winning",
-                "could not qualify for",
-                "never won a chance at"
+                "released by Kara's Flowers in 1995",
+                "signed to Reprise Records after its release",
+                "was Maroon 5's original name when they released it",
+                "was an independent album before The Fourth World",
+                "went largely unnoticed until the band's later success"
             ]
         ],
         "name section candidates": [
             [
-                "Maroon 5",
                 "Kara's Flowers",
-                "Reprise Records",
-                "The Fourth World",
-                "Songs About Jane"
-            ],
-            [
                 "Maroon 5",
-                "Kara's Flowers",
-                "Reprise Records",
-                "The Fourth World",
-                "Songs About Jane"
-            ],
-            [
-                "Maroon 5",
-                "Kara's Flowers",
-                "Reprise Records",
-                "The Fourth World",
-                "Songs About Jane"
-            ],
-            [
-                "Maroon 5",
-                "Kara's Flowers",
                 "The Fourth World",
                 "Songs About Jane",
                 "It Won't Be Soon Before Long"
+            ],
+            [
+                "Maroon 5",
+                "Kara's Flowers",
+                "The Fourth World",
+                "Red Pill Blues",
+                "Jordi"
+            ],
+            [
+                "Maroon 5",
+                "Kara's Flowers",
+                "Reprise Records",
+                "The Fourth World",
+                "Songs About Jane"
+            ],
+            [
+                "Maroon 5",
+                "Kara's Flowers",
+                "Reprise Records",
+                "The Fourth World",
+                "Songs About Jane"
             ]
         ]
     },
@@ -1734,33 +1737,33 @@
         ],
         "short section candidates": [
             [
-                "math",
-                "science",
                 "history",
+                "philosophy",
+                "religion",
                 "Latin",
                 "Italian",
-                "philosophy",
-                "theology",
+                "humanities",
+                "science",
                 "literature",
-                "physics",
+                "art",
                 "music"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "Leonardo da Vinci",
-                "Galileo Galilei",
-                "Pythagoras",
-                "Albert Einstein",
-                "Aristotle"
+                "Italian",
+                "Catholic",
+                "religious",
+                "European",
+                "Papal"
             ],
             [
-                "Pope Gregory XIII",
                 "Ugo Boncompagni",
-                "Gregorio XIII",
                 "Gregorius XIII",
-                "Pope Gregory"
+                "Gregorio XIII",
+                "Pope Gregory XIII",
+                "Pope Benedict XIII"
             ]
         ]
     },
@@ -1863,24 +1866,24 @@
             [
                 "seldom",
                 "rarely",
-                "infrequently",
-                "hardly",
                 "scarcely",
+                "hardly",
+                "infrequently",
                 "almost never",
                 "barely",
                 "hardly ever",
                 "almost seldom",
-                "seldomly"
+                "occasionally"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
                 "seldom",
-                "rarely",
-                "scarcely",
                 "infrequently",
-                "hardly"
+                "hardly",
+                "almost never",
+                "rarely"
             ]
         ]
     },
@@ -1935,27 +1938,27 @@
         "short section candidates": [
             [
                 "is",
+                "was",
                 "remains",
                 "serves as",
-                "signifies",
-                "represents",
-                "portrays",
-                "is considered",
-                "stands as",
+                "functions as",
                 "acts as",
-                "embodies"
+                "exists as",
+                "stands as",
+                "appears as",
+                "can be considered as"
             ],
             [
                 "sonnet",
-                "narrative",
                 "ballad",
-                "lyric",
                 "ode",
                 "elegy",
-                "villanelle",
-                "epic",
-                "sestina",
-                "haiku"
+                "narrative",
+                "lyric",
+                "verse",
+                "limerick",
+                "haiku",
+                "villanelle"
             ]
         ],
         "long section candidates": [],
@@ -1964,7 +1967,8 @@
                 "Matthew Arnold",
                 "Anthony Hecht",
                 "William Butler Yeats",
-                ""
+                "Ian McEwan",
+                "United States Poet Laureate"
             ]
         ]
     },
@@ -2070,37 +2074,37 @@
             [
                 "is",
                 "contains",
-                "includes",
-                "features",
-                "has",
                 "presents",
+                "features",
+                "includes",
+                "details",
                 "offers",
                 "provides",
-                "showcases",
-                "delivers"
+                "enumerates",
+                "showcases"
             ],
             [
+                "a passage",
                 "a book",
+                "a selection",
                 "a piece",
-                "a section",
                 "an excerpt",
+                "a portion",
+                "a chapter",
                 "a text",
-                "a work",
-                "an element",
-                "a fragment",
-                "a part",
-                "a quotation"
+                "a narrative",
+                "a segment"
             ],
             [
                 "detailing",
-                "addressing",
-                "expounding on",
                 "discussing",
+                "explaining",
                 "covering",
-                "elucidating",
-                "focusing on",
-                "pertaining to",
-                "speaking of",
+                "outlining",
+                "addressing",
+                "presenting",
+                "touching on",
+                "elaborating on",
                 "mentioning"
             ]
         ],
@@ -2109,16 +2113,16 @@
             [
                 "Steve Kilbey",
                 "Chris M. Allport",
-                "Jean-Yves Daniel-Lesur",
-                "Lyudov Streicher",
-                "Arnold Rosner"
+                "Arnold Rosner",
+                "Rami Bar-Niv",
+                "Jean-Yves Daniel-Lesur"
             ],
             [
                 "Steve Kilbey",
                 "Chris M. Allport",
-                "Jean-Yves Daniel-Lesur",
                 "Arnold Rosner",
-                "Rami Bar-Niv"
+                "Rami Bar-Niv",
+                "Jean-Yves Daniel-Lesur"
             ]
         ]
     },
@@ -2177,38 +2181,38 @@
                 "originally",
                 "initially",
                 "first",
+                "early",
                 "originally",
-                "first",
                 "initially",
-                "earliest",
+                "eventually",
+                "supposedly",
                 "initially",
-                "initially",
-                "primarily"
+                "purportedly"
             ]
         ],
         "long section candidates": [
             [
                 "is a satirical postmodern novel, with science fiction elements",
-                "is by American writer Kurt Vonnegut",
-                "is considered a classic of twentieth-century literature",
-                "is often cited as one of Vonnegut's most important works",
-                "is part of the curriculum in many high schools and colleges"
+                "is a novel by American writer Kurt Vonnegut, known for its satirical and postmodern elements",
+                "was eventually published as a novel, featuring science fiction elements and a satirical tone",
+                "became one of Kurt Vonnegut's most famous works, combining elements of satire and postmodernism",
+                "was written by Kurt Vonnegut, blending satire, postmodern narrative, and science fiction themes"
             ]
         ],
         "name section candidates": [
             [
-                "Slaughterhouse Five",
-                "Pilgrim's Progress",
+                "Slaughterhouse-Five",
                 "Breakfast of Champions",
+                "The Sirens of Titan",
                 "Mother Night",
-                "Cats Cradle"
+                "Player Piano"
             ],
             [
                 "Kurt Vonnegut",
-                "Slaughterhouse Five",
-                "Billy Pilgrim",
+                "Stanley Schatt",
                 "John Bunyan",
-                "Pilgrim's Progress"
+                "Billy Pilgrim",
+                "American writer"
             ]
         ]
     },
@@ -2322,27 +2326,27 @@
         "short section candidates": [
             [
                 "Leaning",
-                "Petronas",
-                "Eiffel",
-                "CN",
-                "Tokyo",
-                "Burj Khalifa",
-                "Empire State",
-                "Willis",
-                "Space Needle",
-                "Shard"
+                "Pisa",
+                "Guinigi",
+                "Asinelli",
+                "Garisenda",
+                "Torre dei Lamberti",
+                "Torrazzo",
+                "Giotto's Bell",
+                "St Mark's Campanile",
+                "Branca Tower"
             ],
             [
-                "is",
-                "was",
-                "remains",
-                "stands",
-                "exists",
-                "can be found",
-                "is situated",
-                "lies",
-                "is located",
-                "is placed"
+                "Leaning",
+                "Petronas",
+                "Eiffel",
+                "Statue of Liberty",
+                "Burj Khalifa",
+                "Colosseum",
+                "Big Ben",
+                "Taj Mahal",
+                "Sydney Opera House",
+                "Empire State"
             ]
         ],
         "long section candidates": [],
@@ -2350,22 +2354,22 @@
             [
                 "Leaning",
                 "Pisa",
-                "Eiffel",
-                "Colosseum",
-                "Basilica"
+                "Florence",
+                "Venice",
+                "Milan"
             ],
             [
                 "Leaning Tower of Pisa",
                 "Colosseum",
                 "Pantheon",
-                "Trevi Fountain",
-                "Vatican City"
+                "Florence Cathedral",
+                "Roman Forum"
             ],
             [
                 "Leaning Tower of Pisa",
                 "Colosseum",
-                "Pantheon",
                 "Vatican City",
+                "Pantheon",
                 "Trevi Fountain"
             ]
         ]
@@ -2421,27 +2425,27 @@
         "short section candidates": [
             [
                 "is",
-                "follows",
-                "presents",
-                "portrays",
                 "explores",
-                "depicts",
-                "involves",
-                "showcases",
+                "represents",
                 "delivers",
-                "features"
+                "features",
+                "secures",
+                "invites",
+                "lays",
+                "contemplates",
+                "examines"
             ],
             [
                 "suspenseful",
-                "rich",
-                "taut",
-                "painfully suspenseful",
-                "darkly hilarious",
-                "deliriously twisted",
-                "sorrowful",
-                "heavy-handed",
+                "thrilling",
+                "dramatic",
+                "intriguing",
+                "intense",
+                "captivating",
+                "enthralling",
                 "riveting",
-                "bitterly disappointing"
+                "fascinating",
+                "compelling"
             ]
         ],
         "long section candidates": [],
@@ -2500,25 +2504,25 @@
         "short section candidates": [
             [
                 "textile",
-                "manufacturing",
-                "garment",
-                "apparel",
-                "cotton",
-                "fabric",
-                "woolen",
-                "silk",
                 "clothing",
-                "fashion"
+                "fabric",
+                "garment",
+                "fashion",
+                "apparel",
+                "textile manufacturing",
+                "cotton",
+                "weaving",
+                "silk"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "factory",
                 "mill",
-                "company",
+                "factory",
                 "shop",
-                "workshop"
+                "corporation",
+                "business"
             ]
         ]
     },
@@ -2649,95 +2653,95 @@
         "short section candidates": [
             [
                 "is not in",
-                "is Caldwell, New Jersey",
-                "is Buffalo, New York",
-                "is Cleveland, Mississippi",
-                "is Omaha, Nebraska",
-                "is St. Louis, Missouri",
-                "is Los Angeles, California",
-                "is San Francisco, California",
-                "is Chicago, Illinois",
-                "is Boston, Massachusetts"
+                "is in",
+                "is near",
+                "is located in",
+                "is situated in",
+                "was in",
+                "lies in",
+                "can be found in",
+                "is placed in",
+                "resides in"
             ],
             [
                 "Caldwell, New Jersey",
                 "Buffalo, New York",
                 "Cleveland, Mississippi",
-                "Ukiah, California",
                 "Philadelphia, Pennsylvania",
                 "Boston, Massachusetts",
-                "Brooklyn, New York",
+                "Los Angeles, California",
                 "St. Louis, Missouri",
                 "Chicago, Illinois",
+                "New York, New York",
                 "Detroit, Michigan"
             ],
             [
                 "and",
                 "but",
-                "whereas",
                 "while",
+                "whereas",
                 "yet",
-                "although",
                 "however",
+                "although",
+                "even though",
                 "despite",
-                "notwithstanding",
-                "after"
+                "since"
             ],
             [
-                "won",
-                "pitched in",
-                "participated in",
-                "played in",
-                "secured victory in",
-                "contributed to a win in",
-                "was a key player in",
-                "led his team in",
-                "helped the Phillies win",
-                "was a part of the team in"
+                "pitched",
+                "played",
+                "participated",
+                "competed",
+                "appeared",
+                "contributed",
+                "starred",
+                "featured",
+                "took part",
+                "was active"
             ],
             [
                 "World Series",
-                "championship",
+                "championship title",
+                "pennant",
                 "title",
                 "trophy",
-                "pennant",
-                "victory",
-                "game",
-                "crown",
-                "tournament",
-                "contest"
+                "league championship",
+                "national championship",
+                "major league championship",
+                "baseball championship",
+                "series championship"
             ]
         ],
         "long section candidates": [
             [
                 "Grover Cleveland Alexander's birthplace is Ukiah, California and he won a Worlds Series with the Phillies",
-                "Grover Cleveland Alexander's birthplace is Caldwell, New Jersey and he won a Worlds Series with the Phillies",
-                "Grover Cleveland Alexander's birthplace is Buffalo, New York and he won a Worlds Series with the Phillies",
-                "Grover Cleveland Alexander's birthplace is Cleveland, Mississippi and he won a Worlds Series with the Phillies",
-                "Grover Cleveland Alexander's home run off Philadelphia Phillies pitcher in Ukiah, California and he won a Worlds Series with the Phillies"
+                "Grover Cleveland's birthplace is Ukiah, California and he won a Worlds Series with the Phillies",
+                "Cleveland's birthplace is Ukiah, California and he won a Worlds Series with the Phillies",
+                "Alexander's birthplace is Ukiah, California and he won a Worlds Series with the Phillies",
+                "The birthplace of Grover Cleveland Alexander is Ukiah, California and he won a Worlds Series with the Phillies"
             ]
         ],
         "name section candidates": [
             [
-                "Elkhart, Indiana",
+                "Elwood, Nebraska",
                 "Caldwell, New Jersey",
                 "Buffalo, New York",
                 "Cleveland, Mississippi",
                 "Ukiah, California"
             ],
             [
-                "Grover Cleveland Alexander",
-                "Casey Stengel",
-                "Grover Cleveland",
-                "Grover Cleveland Middle School",
-                "Grover Cleveland High School"
+                "Caldwell, New Jersey",
+                "Buffalo, New York",
+                "Cleveland, Mississippi",
+                "Ukiah, California",
+                "Boston, Red Sox"
             ],
             [
                 "Casey Stengel",
                 "Grover Cleveland Middle School",
                 "Grover Cleveland High School",
-                "Caldwell, New Jersey",
-                "Cleveland, Mississippi"
+                "Cleveland",
+                "Boston Red Sox"
             ]
         ]
     },
@@ -2844,28 +2848,28 @@
         ],
         "short section candidates": [
             [
-                "explored",
-                "investigated",
                 "studied",
-                "considered",
                 "utilized",
+                "explored",
+                "considered",
+                "investigated",
                 "examined",
-                "tested",
                 "researched",
-                "proposed",
-                "analyzed"
+                "employed",
+                "applied",
+                "tested"
             ],
             [
-                "antibacterial",
-                "odor-resistant",
-                "absorbent",
-                "hypoallergenic",
-                "anti-microbial",
-                "moisture-wicking",
-                "durable",
-                "safe",
-                "bio-based",
-                "innovative"
+                "functional",
+                "innovative",
+                "essential",
+                "key",
+                "integral",
+                "novel",
+                "potential",
+                "critical",
+                "promising",
+                "beneficial"
             ]
         ],
         "long section candidates": [],
@@ -2927,40 +2931,40 @@
         ],
         "short section candidates": [
             [
-                "member",
+                "a member",
                 "part",
-                "one",
+                "a part",
                 "included",
-                "counted",
-                "regarded",
-                "recognized",
+                "among",
+                "within",
                 "listed",
-                "acknowledged",
+                "recognized",
+                "counted",
                 "considered"
             ],
             [
                 "exclusive",
                 "prestigious",
-                "celebrated",
-                "distinguished",
-                "renowned",
                 "accomplished",
-                "illustrious",
+                "celebrated",
+                "renowned",
                 "eminent",
-                "noteworthy",
+                "illustrious",
+                "distinguished",
+                "acclaimed",
                 "elite"
             ],
             [
-                "have garnered",
                 "have secured",
-                "have won",
                 "have received",
                 "have been awarded",
                 "have earned",
-                "have achieved",
+                "have garnered",
+                "have captured",
                 "have obtained",
-                "have been honoured with",
-                "have collected"
+                "have been honored with",
+                "have collected",
+                "have taken home"
             ]
         ],
         "long section candidates": [],
@@ -2970,7 +2974,7 @@
                 "Golden Globe",
                 "BAFTA",
                 "Emmy",
-                "SAG"
+                "Grammy"
             ]
         ]
     },
@@ -3072,28 +3076,28 @@
         ],
         "short section candidates": [
             [
+                "altered",
                 "modified",
                 "changed",
-                "altered",
                 "adjusted",
-                "transformed",
+                "edited",
                 "redesigned",
                 "revised",
-                "tweaked",
-                "edited",
-                "adapted"
+                "reworked",
+                "transformed",
+                "updated"
             ],
             [
-                "to conceal",
                 "to obscure",
+                "to conceal",
+                "to mask",
                 "to hide",
                 "to cover up",
-                "to mask",
-                "to veil",
+                "to camouflage",
                 "to shroud",
-                "to disguise",
-                "to bury",
-                "to camouflage"
+                "to veil",
+                "to blur",
+                "to disguise"
             ]
         ],
         "long section candidates": [],
@@ -3147,45 +3151,45 @@
         ],
         "short section candidates": [
             [
+                "won",
                 "received",
-                "gained",
-                "acquired",
-                "earned",
                 "was awarded",
                 "secured",
-                "obtained",
-                "collected",
+                "earned",
+                "grabbed",
+                "attained",
                 "achieved",
-                "won"
+                "clinched",
+                "collected"
             ],
             [
-                "major",
-                "significant",
                 "Oscar",
+                "Grammy",
+                "BAFTA",
+                "Emmy",
+                "Golden Globe",
+                "Cannes",
                 "Academy",
-                "prestigious",
-                "leading",
-                "critical",
-                "top-tier",
-                "high-profile",
-                "Golden Globe"
+                "SAG",
+                "Tony",
+                "Palme d'Or"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
                 "Pirates of the Caribbean: Dead Man's Chest",
-                "Black Mass",
-                "Sweeney Todd: The Demon Barber of Fleet Street",
-                "Charlie and the Chocolate Factory",
-                "Edward Scissorhands"
+                "Pirates of the Caribbean",
+                "Dead Man's Chest",
+                "Johnny Depp movies",
+                "Pirates of the Caribbean series"
             ],
             [
-                "Pirates of the Caribbean: Dead Man's Chest",
+                "Choice Movie: Action",
                 "Favorite Movie",
                 "Movie Drama",
-                "Male Actor",
-                "On-Screen Couple"
+                "Best Movie",
+                "Best Special Effects"
             ]
         ]
     },
@@ -3244,37 +3248,37 @@
         "short section candidates": [
             [
                 "emerged",
-                "was coined",
-                "was termed",
-                "was introduced",
-                "made its debut",
                 "was established",
-                "surfaced",
-                "was christened",
-                "was named",
-                "came into use"
+                "was introduced",
+                "was coined",
+                "was formulated",
+                "came into existence",
+                "was created",
+                "was presented",
+                "appeared",
+                "was proposed"
             ],
             [
                 "after",
-                "before",
-                "subsequent to",
                 "following",
-                "upon",
+                "subsequent to",
+                "succeeding",
+                "post",
                 "later than",
-                "since",
-                "past",
-                "once",
-                "years following"
+                "beyond",
+                "after the creation of",
+                "after the establishment of",
+                "in the wake of"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
                 "Roosevelt Corollary",
-                "Doctrine",
-                "Bolton",
-                "Reagan",
-                "Roosevelt"
+                "John Bolton",
+                "Theodore Roosevelt",
+                "Ronald Reagan",
+                "democratic hemisphere"
             ]
         ]
     },
@@ -3368,23 +3372,23 @@
                 "occurred",
                 "happened",
                 "took place",
-                "was waged",
-                "ensued",
-                "was battled",
                 "was contested",
-                "transpired",
+                "was waged",
+                "was conducted",
+                "was carried out",
                 "unfolded",
-                "was conducted"
+                "was engaged in",
+                "transpired"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
+                "Harold II",
+                "William the Conqueror",
                 "1066",
-                "2023",
-                "1914",
-                "1776",
-                "1945"
+                "Norman Conquest",
+                "England"
             ]
         ]
     },
@@ -3498,27 +3502,27 @@
         "short section candidates": [
             [
                 "enormous",
-                "large",
-                "massive",
                 "gigantic",
+                "massive",
+                "huge",
+                "towering",
                 "colossal",
                 "monumental",
-                "huge",
+                "gargantuan",
                 "immense",
-                "towering",
                 "vast"
             ],
             [
                 "carved into",
-                "depicted on",
-                "represented on",
-                "sculpted on",
+                "sculpted into",
                 "etched into",
-                "inscribed on",
-                "designed on",
-                "featured on",
-                "embodied in",
-                "imprinted on"
+                "shaped into",
+                "chiseled into",
+                "fashioned into",
+                "embedded into",
+                "constructed into",
+                "designed into",
+                "formed into"
             ]
         ],
         "long section candidates": [],
@@ -3587,26 +3591,26 @@
             [
                 "no",
                 "alleged",
-                "reported",
-                "supposed",
                 "rumored",
-                "claimed",
                 "purported",
+                "claimed",
+                "reported",
+                "possible",
                 "speculative",
-                "imagined",
-                "fictitious"
+                "doubtful",
+                "hypothetical"
             ],
             [
                 "carried out",
                 "reported",
                 "observed",
+                "documented",
+                "acknowledged",
+                "experienced",
                 "witnessed",
-                "executed",
-                "implemented",
-                "completed",
-                "performed",
-                "undertaken",
-                "documented"
+                "denied",
+                "detailed",
+                "disclosed"
             ]
         ],
         "long section candidates": [],
@@ -3657,25 +3661,21 @@
         "short section candidates": [
             [
                 "Irish",
-                "Celtic",
+                "British",
+                "Scottish",
+                "English",
+                "Welsh",
                 "Gaelic",
+                "Celtic",
                 "European",
-                "ancestral",
-                "familial",
-                "heritage",
-                "lineage",
-                "cultural",
-                "traditional"
+                "Northern Irish",
+                "Ulster"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "Barry Manilow",
-                "Bucky Harris",
-                "Charles Parnell",
-                "Michael Collins",
-                "Brendan Behan"
+                "Barry Manilow"
             ]
         ]
     },
@@ -3731,34 +3731,26 @@
         ],
         "short section candidates": [
             [
+                "passed away",
                 "died",
-                "passed",
                 "expired",
-                "departed this life",
                 "left us",
-                "succumbed",
+                "departed this life",
+                "ended his journey",
                 "passed on",
-                "left this world",
-                "died peacefully",
-                "went to his eternal rest"
+                "went to his eternal rest",
+                "crossed over",
+                "succumbed"
             ]
         ],
         "long section candidates": [
             [
-                "at his home",
-                "in 2012",
-                "on November 8, 2012",
-                "in Delray Beach, Florida",
-                "surrounded by his family"
+                "in 2012"
             ]
         ],
         "name section candidates": [
             [
-                "Lee MacPhail III",
-                "George Brett",
-                "not applicable",
-                "not applicable",
-                "not applicable"
+                "Lee MacPhail III"
             ],
             [
                 "Son Lee MacPhail III",
@@ -3853,25 +3845,25 @@
         "short section candidates": [
             [
                 "went",
-                "enrolled",
+                "was",
                 "attended",
-                "was admitted",
-                "signed up",
-                "got into",
+                "enrolled",
+                "studied",
                 "entered",
-                "matriculated",
-                "registered",
-                "applied"
+                "went back",
+                "returned",
+                "came",
+                "proceeded"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "Steve Dahl",
-                "Greg Shuttlecock",
                 "Christopher \"Yellowstone\" Ritter",
-                "WMVP 1000 AM",
-                "Clerisy Press"
+                "Greg Shuttlecock",
+                "Steve Dahl",
+                "Clerisy Press",
+                "WMVP 1000 AM"
             ]
         ]
     },
@@ -3930,37 +3922,37 @@
         "short section candidates": [
             [
                 "visited",
-                "seen",
                 "met",
+                "seen",
                 "reunited with",
-                "contacted",
+                "gone to see",
+                "traveled to see",
                 "been with",
                 "spent time with",
-                "connected with",
-                "engaged with",
-                "communicated with"
+                "visited with",
+                "connected with"
             ],
             [
                 "resides",
                 "lives",
-                "is based",
-                "is located",
-                "are settled",
+                "are living",
+                "remain",
+                "are based",
                 "stay",
+                "are situated",
                 "dwell",
-                "are residing",
-                "have settled",
-                "are based"
+                "are located",
+                "inhabit"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
+                "Orlando Cepeda",
+                "Roberto Clemente",
                 "San Juan",
-                "Ponce",
-                "Mayag\u00fcez",
-                "Carolina",
-                "Caguas"
+                "Puerto Rico",
+                "Ponce"
             ]
         ]
     },
@@ -4022,46 +4014,50 @@
         ],
         "short section candidates": [
             [
-                "remains",
                 "is",
-                "was",
-                "continues to be",
+                "remains",
                 "stands as",
+                "is considered",
+                "is recognized as",
+                "serves as",
                 "represents",
-                "signifies",
-                "emerges as",
-                "is regarded as",
-                "acts as"
+                "functions as",
+                "is acknowledged as",
+                "is cited as"
             ],
             [
                 "completed",
                 "published",
                 "difficult",
-                "acclaimed",
-                "poetic",
                 "contrasted",
-                "Victorian",
-                "stormy",
-                "barren",
-                "untamed"
+                "acclaimed",
+                "celebrated",
+                "renowned",
+                "singular",
+                "unique",
+                "notable"
             ],
             [
                 "by",
                 "authored by",
                 "written by",
-                "penned by",
-                "created by",
-                "composed by",
                 "produced by",
-                "from",
-                "by the pen of",
-                "attributed to"
+                "created by",
+                "penned by",
+                "by the hand of",
+                "from the pen of",
+                "developed by",
+                "composed by"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "Emily Bronte"
+                "Wuthering Heights",
+                "A. Mary F. Robinson's biography of Emily",
+                "Virginia Woolf",
+                "Early Victorian Novelists",
+                "Lord David Cecil"
             ],
             [
                 "Virginia Woolf",
@@ -4123,37 +4119,37 @@
         "short section candidates": [
             [
                 "mystic",
-                "imperial favorite",
-                "controversial figure",
-                "spiritual advisor",
-                "influential figure",
-                "Siberian",
-                "peasant mystic",
-                "mad monk",
                 "healer",
-                "advisor"
+                "monk",
+                "holy man",
+                "advisor",
+                "spiritual guide",
+                "faith healer",
+                "religious figure",
+                "courtier",
+                "confidant"
             ],
             [
                 "is assassinated",
                 "is murdered",
+                "is executed",
                 "is killed",
+                "is poisoned",
                 "is eliminated",
                 "is dispatched",
-                "is taken out",
-                "is taken down",
-                "is eradicated",
-                "is neutralized",
-                "is disposed of"
+                "is slain",
+                "is removed",
+                "is taken out"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
                 "brutally",
-                "unjustly",
-                "mysteriously",
-                "eventually",
-                "directly"
+                "viciously",
+                "swiftly",
+                "efficiently",
+                "mysteriously"
             ]
         ]
     },
@@ -4208,27 +4204,27 @@
         "short section candidates": [
             [
                 "explored",
-                "examined",
-                "discussed",
                 "presented",
                 "highlighted",
-                "argued",
-                "introduced",
-                "showcased",
                 "made",
-                "shed light on"
+                "argued",
+                "established",
+                "examined",
+                "depicted",
+                "showcased",
+                "illustrated"
             ],
             [
                 "convenient",
-                "romantic",
                 "loveless",
-                "financial",
-                "strategic",
-                "historical",
-                "regency-era",
                 "advantageous",
-                "societal",
-                "traditional"
+                "wealth-oriented",
+                "socially beneficial",
+                "strategic",
+                "traditional",
+                "dynastic",
+                "political",
+                "contractual"
             ]
         ],
         "long section candidates": [],
@@ -4299,35 +4295,35 @@
                 "first",
                 "initial",
                 "opening",
-                "beginning",
-                "introductory",
-                "foremost",
-                "premiere",
+                "premier",
                 "inaugural",
+                "foremost",
+                "beginning",
+                "prime",
                 "lead",
-                "principal"
+                "introductory"
             ],
             [
                 "is said",
+                "is reported",
                 "translates",
                 "is translated",
-                "is known",
                 "is referred",
-                "can be translated",
-                "is interpreted",
-                "is acknowledged",
-                "is identified",
-                "is recognized"
+                "is described",
+                "is known",
+                "is mentioned",
+                "is termed",
+                "is designated"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
                 "\u03bc\u1fc6\u03bd\u03b9\u03c2",
-                "\u03c1\u03b1\u03c8\u03c9\u03b4\u03af\u03b1",
-                "\u03b8\u03b5\u03ac",
-                "\u03c0\u03cc\u03bb\u03b5\u03bc\u03bf\u03c2",
-                "\u03ae\u03c1\u03c9\u03b1\u03c2"
+                "\u1f11\u03c0\u03c4\u03ac\u03c0\u03c5\u03bb\u03bf\u03b9",
+                "\u1f11\u03ba\u03b1\u03c4\u03cc\u03bc\u03c0\u03c5\u03bb\u03bf\u03b9",
+                "\u03c6\u03ac\u03bb\u03b1\u03b3\u03be",
+                "\u1f41\u03c0\u03bb\u03af\u03c4\u03b7\u03c2"
             ]
         ]
     },
@@ -4400,48 +4396,48 @@
         "short section candidates": [
             [
                 "is",
+                "symbolizes",
                 "represents",
-                "refers to",
-                "embodies",
-                "signifies",
                 "exemplifies",
-                "denotes",
-                "constitutes",
                 "stands for",
-                "defines"
+                "showcases",
+                "signifies",
+                "highlights",
+                "denotes",
+                "embodies"
             ],
             [
                 "is",
-                "exhibits",
-                "manifests",
+                "remains",
                 "represents",
-                "symbolizes",
-                "expresses",
-                "demonstrates",
-                "shows",
-                "embodies",
-                "reflects"
+                "signifies",
+                "establishes",
+                "constitutes",
+                "defines",
+                "illustrates",
+                "exemplifies",
+                "demonstrates"
             ],
             [
                 "dominant",
-                "prevalent",
                 "primary",
-                "principal",
+                "predominant",
                 "leading",
                 "major",
-                "chief",
+                "principal",
                 "foremost",
-                "main",
-                "characteristic"
+                "overriding",
+                "chief",
+                "main"
             ]
         ],
         "long section candidates": [
             [
-                "with excessive black pigment",
-                "with a melanism genetic mutation",
-                "melanistic, meaning they have too much melanin",
-                "due to a genetic mutation causing melanism",
-                "with a genetic predisposition for melanin overproduction"
+                "A black panther is a panther with a melanism trait that results in a nearly all-black coat",
+                "A black panther is a panther characterized by a genetic mutation called melanism that leads to its dark fur",
+                "A black panther is a panther that exhibits a unique melanistic color variation, giving it a striking black appearance",
+                "A black panther is a panther with a condition of melanism making its coat appear black",
+                "A black panther is a panther possessing the melanism gene, making its fur predominantly black"
             ]
         ],
         "name section candidates": [
@@ -4460,24 +4456,24 @@
                 "N'Jadaka"
             ],
             [
+                "Black Panther",
                 "T'Challa",
                 "Shuri",
-                "T'Chaka",
-                "N'Jadaka",
-                "Revolutionary Black Panther Party"
-            ],
-            [
-                "genetic",
-                "film",
-                "character",
-                "organisation",
-                "movement"
+                "Black Panther: Wakanda Forever",
+                "N'Jadaka"
             ],
             [
                 "Black Panther",
-                "Black Panther: Wakanda Forever",
                 "T'Challa",
                 "Shuri",
+                "T'Chaka",
+                "N'Jadaka"
+            ],
+            [
+                "Black Panther",
+                "T'Challa",
+                "Shuri",
+                "T'Chaka",
                 "N'Jadaka"
             ],
             [
@@ -4485,7 +4481,7 @@
                 "Black Panther: Wakanda Forever",
                 "T'Challa (Marvel Cinematic Universe)",
                 "Shuri (Marvel Cinematic Universe)",
-                "N'Jadaka (Marvel Cinematic Universe)"
+                "T'Chaka (Marvel Cinematic Universe)"
             ],
             [
                 "Black Panther (film)",
@@ -4557,38 +4553,38 @@
             [
                 "known",
                 "referred",
-                "identified",
                 "recognized",
-                "termed",
+                "identified",
+                "dubbed",
                 "called",
-                "designated",
-                "named",
-                "classified",
-                "labeled"
+                "termed",
+                "described",
+                "labelled",
+                "denoted"
             ],
             [
                 "black",
-                "shadow",
-                "dark",
                 "melanistic",
-                "coal",
-                "jet",
-                "ebony",
+                "dark",
+                "dark-colored",
+                "melanized",
+                "shadowy",
+                "sooty",
                 "sable",
-                "charcoal",
-                "obsidian"
+                "coal-black",
+                "jet-black"
             ],
             [
                 "melanistic",
-                "dark-colored",
-                "concealed",
-                "invisible",
+                "dark",
                 "obscured",
-                "camouflaged",
                 "hidden",
-                "absent",
-                "diminished",
-                "indistinct"
+                "invisible",
+                "camouflaged",
+                "unnoticeable",
+                "indistinct",
+                "concealed",
+                "disguised"
             ]
         ],
         "long section candidates": [],
@@ -4658,69 +4654,66 @@
         "short section candidates": [
             [
                 "played cricket",
-                "was active in sports",
                 "participated in cricket",
                 "engaged in cricket",
+                "was active in cricket",
                 "excelled in cricket",
                 "was involved in cricket",
                 "took part in cricket",
-                "practiced cricket",
-                "showed talent in cricket",
-                "demonstrated skill in cricket"
+                "competed in cricket",
+                "was a player in cricket",
+                "pursued cricket"
             ],
             [
                 "he became",
                 "he emerged as",
+                "becoming",
                 "he was recognized as",
-                "he was considered",
-                "he turned into",
                 "he established himself as",
                 "he rose to become",
-                "he was acknowledged as",
-                "he was appointed as",
-                "he grew to be"
+                "he was considered",
+                "he was acclaimed as",
+                "he grew into",
+                "he was acknowledged as"
             ],
             [
                 "leading",
                 "foremost",
                 "top",
-                "pre-eminent",
-                "principal",
-                "distinguished",
                 "premier",
-                "renowned",
                 "paramount",
-                "chief"
+                "principal",
+                "chief",
+                "dominant",
+                "major",
+                "number-one"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "Thomas",
                 "Bill Klem",
-                "John",
-                "Michael",
-                "David"
-            ],
-            [
-                "he",
-                "shifted to baseball",
-                "began focusing on baseball",
-                "pursued a career in baseball",
-                "started umpiring"
-            ],
-            [
-                "first",
-                "second",
-                "third",
-                "fourth",
-                "fifth"
-            ],
-            [
-                "Bill Klem",
-                "Baseball Hall of Fame",
-                "England",
                 "Manchester",
+                "England",
+                "Baseball Hall of Fame",
+                "1953"
+            ],
+            [
+                "Tom Connolly",
+                "Bill Klem"
+            ],
+            [
+                "Baseball Hall of Fame",
+                "Cricket Hall of Fame",
+                "Sports Hall of Fame",
+                "Umpiring Hall of Fame",
+                "Cricket Authority"
+            ],
+            [
+                "Hall of Fame",
+                "Baseball Hall of Fame",
+                "Klem",
+                "induction ceremony",
                 "1953"
             ]
         ]
@@ -4772,28 +4765,28 @@
         ],
         "short section candidates": [
             [
-                "an adaptation of a play",
-                "a cinematic adaptation of a play",
-                "a film adaptation of a play",
-                "a screen adaptation of a play",
-                "a movie adaptation of a play",
-                "an adapted screenplay of a play",
-                "a motion picture adaptation of a play",
-                "a big screen adaptation of a play",
-                "a theatrical adaptation of a play",
-                "a Hollywood adaptation of a play"
+                "an",
+                "a cinematic",
+                "a film",
+                "a screen",
+                "a 1945",
+                "an American",
+                "a war film",
+                "a Henry King-directed",
+                "a John Hodiak and Gene Tierney-starring",
+                "a dramatic"
             ],
             [
                 "adaptation",
-                "rendition",
-                "version",
-                "interpretation",
-                "portrayal",
-                "representation",
                 "rendering",
-                "transcription",
-                "adaptation",
-                "film version"
+                "interpretation",
+                "version",
+                "rendition",
+                "adaptation of",
+                "depiction",
+                "portrayal",
+                "recreation",
+                "reimagining"
             ]
         ],
         "long section candidates": [],
@@ -4860,27 +4853,27 @@
         "short section candidates": [
             [
                 "had",
+                "were known by",
                 "bore",
                 "carried",
+                "came under",
+                "were called",
+                "were titled",
+                "operated under",
                 "used",
-                "utilized",
-                "sported",
-                "featured",
-                "adopted",
-                "presented",
-                "assumed"
+                "adopted"
             ],
             [
-                "various",
                 "distinct",
                 "separate",
+                "various",
                 "individual",
                 "unique",
-                "variant",
-                "divergent",
+                "assorted",
                 "differing",
-                "alternate",
-                "dissimilar"
+                "diverse",
+                "sundry",
+                "multiple"
             ]
         ],
         "long section candidates": [],
@@ -4890,7 +4883,7 @@
                 "Burt Lancaster",
                 "Beauregard Private Hotel",
                 "Bournemouth",
-                "England"
+                "Hecht-Hill-Lancaster"
             ]
         ]
     },
@@ -4950,36 +4943,36 @@
         "short section candidates": [
             [
                 "Deng Xiaoping",
-                "Nelson Mandela",
                 "Winston Churchill",
+                "Nelson Mandela",
+                "Theodore Roosevelt",
+                "Mahatma Gandhi",
                 "Franklin D. Roosevelt",
                 "John F. Kennedy",
                 "Abraham Lincoln",
-                "Mahatma Gandhi",
-                "Thomas Jefferson",
-                "George Washington",
-                "Martin Luther King Jr."
+                "Charles de Gaulle",
+                "Julius Caesar"
             ],
             [
                 "his third",
                 "his final",
                 "his last",
-                "his second",
                 "his ultimate",
-                "his fourth",
-                "his penultimate",
-                "his current",
-                "his surviving",
-                "his eldest"
+                "his concluding",
+                "his closing",
+                "his terminal",
+                "his culminating",
+                "his ending",
+                "his latest"
             ]
         ],
         "long section candidates": [
             [
-                "had three daughters and two sons",
-                "had a lasting partnership",
-                "shared a profound connection",
-                "built a family",
-                "created a lifetime of memories"
+                "had three daughters, Deng Lin, Deng Nan, and Deng Rong, and two sons, Deng Pufang and Deng Zhifang",
+                "had a complex family life that included multiple marriages and children, but his last marriage resulted in five children",
+                "was remembered for his significant political achievements, but on a personal level, he was a father to five children with his third wife, Zhuo Lin",
+                "balanced his revolutionary and political career with his responsibilities as a husband to Zhuo Lin and father to their five children",
+                "remains a key figure in Chinese history, not just for his political contributions but also as a family man who had five children with Zhuo Lin"
             ]
         ],
         "name section candidates": [
@@ -5040,30 +5033,31 @@
         "short section candidates": [
             [
                 "English",
-                "Dutch",
                 "British",
                 "American",
-                "official",
-                "popular",
-                "common",
-                "given",
-                "Western",
-                "traditional"
+                "Dutch",
+                "Scottish",
+                "Irish",
+                "Canadian",
+                "Australian",
+                "Welsh",
+                "New Zealand"
             ]
         ],
         "long section candidates": [
             [
-                "known to use",
-                "often called",
-                "referred to by",
-                "known by his close associates as",
-                "commonly addressed with"
+                "given the English name William",
+                "called by the English name William",
+                "named with the English name William",
+                "referred to by the English name William",
+                "known by the English name William"
             ]
         ],
         "name section candidates": [
             [
                 "Willem Dafoe",
-                "Tokyo"
+                "Tokyo",
+                "Chiyoda City"
             ]
         ]
     },
@@ -5123,38 +5117,38 @@
                 "profoundly",
                 "deeply",
                 "significantly",
-                "drastically",
                 "greatly",
-                "profoundly",
+                "positively",
+                "dramatically",
+                "substantially",
+                "profoundly influenced",
                 "majorly",
-                "intensely",
-                "seriously",
-                "notably"
+                "immensely"
             ]
         ],
         "long section candidates": [
             [
-                "James Cromwell",
-                "Miley Cyrus",
-                "became an ethical vegan as a result of starring as Farmer Hoggett",
-                "stopped eating animal products in 2014",
-                "saying: \"I decided that to be able to talk about this"
+                "James Cromwell became an ethical vegan as a result of starring as Farmer Hoggett",
+                "Miley Cyrus became a vegan and stopped eating animal products in 2014",
+                "James Cromwell was so moved by his role as Farmer Hoggett that he embraced veganism",
+                "Cyrus adopted a vegan lifestyle, influenced by her values",
+                "James Cromwell's experience on the set of Babe led him to adopt a plant-based diet"
             ],
             [
-                "inspired by the role",
-                "influenced by the role",
-                "motivated by the character",
-                "moved by the character's influence",
-                "touched by the experience"
+                "affected by the role",
+                "inspired by his character",
+                "moved by his experience in the film",
+                "influenced by his portrayal of Farmer Hoggett",
+                "affected by his portrayal"
             ]
         ],
         "name section candidates": [
             [
                 "James Cromwell",
                 "Miley Cyrus",
-                "Hugh Jackman",
-                "Russell Crowe",
-                "Tom Hanks"
+                "Leonardo DiCaprio",
+                "Brad Pitt",
+                "Ian McKellen"
             ]
         ]
     },
@@ -5216,34 +5210,46 @@
             [
                 "Russian",
                 "Ukrainian",
-                "Belarusian",
-                "Polish",
-                "Czech",
-                "Latvian",
-                "Lithuanian",
-                "Estonian",
-                "Slovak",
-                "Hungarian"
+                "French",
+                "Italian",
+                "Brazilian",
+                "Swedish",
+                "British",
+                "Australian",
+                "American",
+                "German"
             ]
         ],
         "long section candidates": [
             [
-                "had a child named Lea De Seine Shayk Cooper",
-                "was in a relationship",
-                "had a daughter",
-                "became a father",
-                "shared a child"
+                "welcomed a daughter named Lea De Seine",
+                "had a daughter named Lea De Seine Shayk Cooper",
+                "welcomed their daughter, Lea De Seine, into the world",
+                "became parents to Lea De Seine Shayk Cooper",
+                "had their first child, a daughter named Lea De Seine"
             ]
         ],
         "name section candidates": [
             [
-                "Bradley"
+                "Bradley",
+                "Brad",
+                "Cooper",
+                "Bradly",
+                "B."
             ],
             [
-                "Irina Shayk"
+                "Irina Shayk",
+                "Natalia Vodianova",
+                "Sasha Pivovarova",
+                "Anne Vyalitsyna",
+                "Daria Strokous"
             ],
             [
-                "Bradley Cooper"
+                "Bradley Cooper",
+                "Irina Shayk",
+                "Venus",
+                "April 2015",
+                "June 2019"
             ]
         ]
     },
@@ -5294,11 +5300,11 @@
         "short section candidates": [],
         "long section candidates": [
             [
-                "ended his career playing for the New York Mets",
-                "ended his career with the New York Mets",
-                "finished his professional baseball career playing for the New York Mets",
-                "concluded his illustrious baseball career playing for the New York Mets",
-                "wrapped up his playing days with the New York Mets"
+                "ended his career playing for the Mets",
+                "ended his career with the Mets",
+                "concluded his playing days in New York with the Mets",
+                "finished his professional baseball career with the New York Mets",
+                "wrapped up his baseball playing career with the New York Mets"
             ]
         ],
         "name section candidates": [
@@ -5321,7 +5327,7 @@
                 "Giants",
                 "Yankees",
                 "Dodgers",
-                "Red Sox"
+                "Cardinals"
             ]
         ]
     },
@@ -5372,23 +5378,23 @@
             [
                 "is",
                 "was",
-                "became",
                 "remains",
-                "serves as",
-                "is considered",
-                "is titled",
-                "is known as",
-                "stands as",
-                "represents"
+                "became",
+                "serves",
+                "stands",
+                "acts",
+                "functions",
+                "emerges",
+                "is considered"
             ]
         ],
         "long section candidates": [
             [
-                "a 1971 British epic historical drama film directed by Franklin J. Schaffner",
-                "a screenplay by James Goldman and Edward Bond based on Robert K. Massie's 1967 book of the same name",
-                "a detailed account of the fall of the Romanov dynasty in Russia",
-                "based on a book published in 1967 by Robert K. Massie",
-                "an adaptation of Robert K. Massie's book into a film in 1971"
+                "a 1967 biography that explores the lives and reign of the last Tsar and Tsarina of Russia, Nicholas II and his wife Alexandra",
+                "a detailed exploration into the fall of the Romanov dynasty, written by Robert K. Massie",
+                "a captivating account of the Russian imperial family's tragic end, authored by Robert K. Massie, first published in 1967",
+                "an engaging historical account by Robert K. Massie, offering a deep dive into the complexities of Nicholas II and Alexandra's rule over Russia",
+                "a comprehensive biography by Robert K. Massie, shedding light on the tumultuous era of Nicholas II and Alexandra, published initially in 1967"
             ]
         ],
         "name section candidates": [
@@ -5396,15 +5402,15 @@
                 "Nicholas and Alexandra",
                 "The Cask of Amontillado",
                 "Lieutenant Robert Massie",
-                "Edward Bond",
+                "Franklin J. Schaffner",
                 "James Goldman"
             ],
             [
-                "Nicholas and Alexandra",
-                "The Cask of Amontillado",
                 "Franklin J. Schaffner",
                 "James Goldman",
-                "Edward Bond"
+                "Edward Bond",
+                "British",
+                "1971"
             ]
         ]
     },
@@ -5568,50 +5574,50 @@
         ],
         "short section candidates": [
             [
-                "hails",
-                "comes",
-                "originates",
-                "is",
-                "was born",
-                "was",
-                "derives",
-                "emerged",
-                "hailed",
-                "grew up"
+                "is also known as Georges",
+                "was registered as",
+                "was baptized as",
+                "is widely known as",
+                "is also recognized as",
+                "goes by the name",
+                "also goes by",
+                "is also called",
+                "was known by the name",
+                "became known as"
             ],
             [
                 "southern",
                 "Mediterranean",
-                "picturesque",
-                "French",
-                "lively",
-                "historic",
                 "bustling",
                 "vibrant",
-                "charming",
-                "major"
+                "historic",
+                "major",
+                "picturesque",
+                "French",
+                "sun-drenched",
+                "port"
             ],
             [
                 "coastal",
                 "port",
                 "seaside",
+                "waterfront",
+                "harbor",
                 "Mediterranean",
                 "maritime",
-                "harbor",
-                "oceanfront",
-                "waterfront",
-                "Riviera",
-                "shore"
+                "shore",
+                "beachfront",
+                "oceanfront"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
                 "Georges Bizet",
-                "Alexandre Bizet",
                 "Bizet",
-                "Alexandre C\u00e9sar L\u00e9opold Bizet",
-                "C\u00e9sar L\u00e9opold Bizet"
+                "Alexandre Bizet",
+                "C\u00e9sar Bizet",
+                "L\u00e9opold Bizet"
             ]
         ]
     },
@@ -5667,41 +5673,41 @@
         ],
         "short section candidates": [
             [
-                "no",
+                "No",
                 "American",
                 "Canadian",
                 "Irish",
                 "English",
                 "player-coach",
                 "touring",
-                "late 1930s",
-                "early 1940s",
-                "House of David Team"
+                "late 1930s and early 1940s",
+                "House of David Team",
+                "Grover Cleveland Alexander's"
             ]
         ],
         "long section candidates": [
             [
-                "did not suffer from PTSD from his involvement in the Vietnam War",
-                "was not involved in the Vietnam War, as he played baseball during the late 1930s and early 1940s",
-                "could not have been affected by the Vietnam War, given his baseball career timeline",
-                "was touring as a player-coach during the time period associated with the early stages of the Vietnam conflict",
-                "played for the Grover Cleveland Alexander's House of David Team, not participating in Vietnam War activities"
+                "could not have possibly suffered from PTSD from his involvement in the Vietnam War as he was active in baseball during the late 1930s and early 1940s, well before the Vietnam War began",
+                "could not have been involved in the Vietnam War as it occurred long after his prime years in baseball, highlighted by his touring as a player-coach for the Grover Cleveland Alexander's House of David Team during the late 1930s and early 1940s",
+                "is not connected to the Vietnam War in any capacity related to his personal history or baseball career, specifically noting his involvement in baseball tours during the 1930s and 1940s",
+                "did not participate in the Vietnam War, given his active engagement in baseball during the 1930s and 1940s, including his role with the Grover Cleveland Alexander's House of David Team",
+                "had no direct involvement with the Vietnam War, as evidenced by his career trajectory that included touring with a baseball team in the years prior to the conflict"
             ]
         ],
         "name section candidates": [
             [
-                "Frank Baker",
-                "Home Run Baker",
-                "John Franklin Baker",
-                "Frank Baker (outfielder)",
-                "Frank Baker (shortstop)"
+                "Frank",
+                "John",
+                "Grover",
+                "Home",
+                "Frank Baker"
             ],
             [
-                "Frank Baker",
-                "John Franklin Baker",
                 "Grover Cleveland Alexander",
+                "Frank Baker",
                 "Home Run Baker",
-                "Frank Baker (outfielder)"
+                "Frank Baker (outfielder)",
+                "Frank Baker (shortstop)"
             ]
         ]
     },
@@ -5797,45 +5803,45 @@
         ],
         "short section candidates": [
             [
-                "is considered",
                 "is regarded as",
-                "is acclaimed as",
-                "is recognized as",
-                "stands as",
                 "is celebrated as",
-                "is viewed as",
-                "is described as",
-                "is acknowledged as",
-                "is referred to as"
+                "is recognized as",
+                "is acclaimed as",
+                "stands as",
+                "serves as",
+                "is seen as",
+                "is identified as",
+                "is praised as",
+                "is considered"
             ],
             [
-                "realism",
+                "literature",
                 "a masterpiece",
                 "a classic",
-                "a literary work",
-                "literature",
-                "a tale of adventure",
-                "a magnum opus",
-                "a significant work",
-                "an acclaimed story",
-                "a celebrated short story"
+                "fiction",
+                "a short story",
+                "realism",
+                "a work",
+                "a narrative",
+                "a tale",
+                "an opus"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
+                "Stephen",
+                "Crane",
                 "Stephen Crane",
-                "Vincent Starrett",
-                "H. G. Wells",
-                "Stanley Wertheim",
-                "Thomas Kent"
+                "The Open Boat",
+                "Vincent Starrett"
             ],
             [
-                "Stephen Crane",
-                "H. G. Wells",
-                "Vincent Starrett",
-                "Stanley Wertheim",
-                "Thomas Kent"
+                "The Open Boat and Other Tales of Adventure",
+                "The Bride Comes to Yellow Sky",
+                "Death and the Child",
+                "The Wise Men",
+                "The Red Badge"
             ]
         ]
     },
@@ -5889,27 +5895,27 @@
         "short section candidates": [
             [
                 "beloved",
-                "popular",
-                "admired",
                 "esteemed",
                 "respected",
+                "admired",
                 "cherished",
-                "adored",
-                "loved",
-                "favorite",
-                "revered"
+                "favored",
+                "popular",
+                "revered",
+                "honored",
+                "appreciated"
             ],
             [
                 "fictional",
-                "made-up",
-                "imaginary",
-                "invented",
-                "make-believe",
-                "fabricated",
-                "unreal",
-                "notional",
-                "mythical",
-                "fictitious"
+                "prestigious",
+                "minor",
+                "British",
+                "independent",
+                "public",
+                "charming",
+                "iconic",
+                "renowned",
+                "historic"
             ]
         ],
         "long section candidates": [],
@@ -5959,16 +5965,16 @@
         ],
         "short section candidates": [
             [
-                "profound",
-                "important",
-                "groundbreaking",
-                "seminal",
                 "influential",
                 "pivotal",
-                "transformative",
+                "seminal",
                 "significant",
-                "inspiring",
-                "celebrated"
+                "impactful",
+                "important",
+                "transformative",
+                "monumental",
+                "noteworthy",
+                "inspiring"
             ]
         ],
         "long section candidates": [],
@@ -5976,8 +5982,8 @@
             [
                 "profoundly",
                 "significantly",
+                "hugely",
                 "greatly",
-                "monumentally",
                 "deeply"
             ]
         ]
@@ -6028,30 +6034,30 @@
         ],
         "short section candidates": [
             [
-                "Cree",
-                "Apache",
-                "Navajo",
-                "Sioux",
-                "Cherokee",
-                "Choctaw",
-                "Iroquois",
-                "Seminole",
-                "Mohawk",
-                "Pueblo"
+                "Great Hawk",
+                "Brave Hawk",
+                "Mighty Hawk",
+                "Strong Hawk",
+                "Native Hawk",
+                "Fierce Hawk",
+                "Warrior Hawk",
+                "Resilient Hawk",
+                "Freedom Hawk",
+                "Bold Hawk"
             ]
         ],
         "long section candidates": [
             [
-                "dates to 1832",
-                "was a pivotal moment in the history of Native American resistance against U.S. expansion",
-                "highlighted the tensions between Native Americans and white settlers over land disputes",
-                "became a symbol of Native American resistance despite being named after the Sauk leader Black Hawk",
-                "provided a complex narrative of Native American and US settler relations during the early 19th century"
+                "resulted from tensions over land disputes between Native American tribes and European settlers",
+                "symbolized a significant moment of resistance and conflict in Native American history",
+                "is often remembered in ways that aim to reconcile the narratives of Native American resistance with European settler colonialism",
+                "unfolded as tribes along the Upper Mississippi fought for control of diminishing hunting grounds",
+                "has been reconstructed in memory in ways that often serve the interests of white narratives of settlement and conquest"
             ]
         ],
         "name section candidates": [
             [
-                "Hawk"
+                "Black Hawk"
             ]
         ]
     },
@@ -6151,36 +6157,36 @@
         ],
         "short section candidates": [
             [
-                "lived",
-                "was born",
-                "meditated",
-                "taught",
-                "attained enlightenment",
-                "preached",
-                "wandered",
-                "resided",
-                "spent time",
-                "philosophized"
+                "never lived"
             ],
             [
-                "- Ancient"
+                "ancient",
+                "Vedic",
+                "Mauryan",
+                "Gupta",
+                "Harappan",
+                "Indus Valley",
+                "Classical",
+                "Early Historic",
+                "Pre-Mauryan",
+                "Ashokan"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
+                "Cleopatra",
                 "Ashoka",
-                "Adityasena",
-                "Shakyamuni",
-                "Ananta Vasudeva",
-                "Avalokite\u015bvara"
+                "Qianlong",
+                "Amit\u0101bha",
+                "Minamoto no Yoritomo"
             ],
             [
                 "British Museum",
+                "Mahabodhi Temple",
                 "Bodh Gaya",
-                "Taxila",
                 "Sanchi",
-                "British-Hungarian"
+                "N\u0101land\u0101 Monastery"
             ]
         ]
     },
@@ -6234,38 +6240,38 @@
         ],
         "short section candidates": [
             [
-                "debuted",
                 "premiered",
-                "was shown",
+                "was showcased",
+                "debuted",
                 "was screened",
-                "was released",
-                "came out",
-                "dropped",
-                "was launched",
                 "was unveiled",
+                "was introduced",
+                "was launched",
+                "was presented",
+                "was released",
                 "hit theaters"
             ],
             [
-                "summer",
                 "spring",
+                "summer",
                 "fall",
                 "autumn",
                 "winter",
-                "beginning",
-                "middle",
-                "end",
-                "first quarter",
-                "second quarter"
+                "early summer",
+                "late spring",
+                "beginning of 2009",
+                "mid-2009",
+                "end of 2009"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "Brad Pitt",
                 "Quentin Tarantino",
+                "Brad Pitt",
                 "Cannes Film Festival",
                 "Lionel Messi",
-                "Barcelona"
+                "UEFA Champions League"
             ]
         ]
     },
@@ -6367,20 +6373,20 @@
         "short section candidates": [],
         "long section candidates": [
             [
-                "are buried up to their shoulders",
-                "are not visible at ground level",
-                "are obscured from view",
-                "are difficult to distinguish",
-                "are partly buried and less visible"
+                "are difficult to observe",
+                "remain largely unnoticed",
+                "tend to be overlooked",
+                "can be obscured",
+                "are not easily visible"
             ]
         ],
         "name section candidates": [
             [
-                "Rano Raraku",
-                "Basalt",
-                "Tuff",
-                "Archaeological",
-                "Photographs"
+                "Easter Island",
+                "Rapa Nui",
+                "Polynesia",
+                "Chile",
+                "Pacific Ocean"
             ]
         ]
     },
@@ -6433,39 +6439,39 @@
         "short section candidates": [
             [
                 "intended",
-                "desired",
-                "planned",
-                "hoped",
+                "wanted",
                 "wished",
-                "envisaged",
+                "desired",
                 "aimed",
+                "hoped",
+                "planned",
+                "chose",
                 "sought",
-                "expected",
-                "wanted"
+                "preferred"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "originally",
                 "initially",
-                "apparently",
-                "seemingly",
-                "eventually"
+                "ultimately",
+                "never",
+                "reportedly",
+                "purportedly"
             ],
             [
                 "1751",
-                "1750",
-                "1995",
-                "2000",
-                "Lorna Clymer"
-            ],
-            [
-                "1751",
+                "Thomas Gray",
                 "Lorna Clymer",
                 "Robert Mack",
-                "1750",
-                "1995"
+                "Harper's Bazaar"
+            ],
+            [
+                "Thomas Gray",
+                "Elegy Written in a Country Churchyard",
+                "Lorna Clymer",
+                "Robert Mack",
+                "Harper's Bazaar"
             ]
         ]
     },
@@ -6520,28 +6526,28 @@
         ],
         "short section candidates": [
             [
+                "is",
                 "was",
                 "became",
-                "is",
-                "emerged as",
-                "served as",
-                "acted as",
+                "exists as",
+                "stands as",
+                "serves as",
                 "functioned as",
-                "stood as",
-                "was recognized as",
-                "was known as"
+                "operated as",
+                "is recognized as",
+                "is identified as"
             ],
             [
                 "original",
-                "crucial",
-                "integral",
-                "significant",
-                "foundational",
-                "key",
+                "earliest",
+                "initial",
+                "founding",
                 "primary",
-                "original",
-                "important",
-                "central"
+                "early",
+                "inaugural",
+                "starting",
+                "first-ever",
+                "premier"
             ]
         ],
         "long section candidates": [],
@@ -6550,14 +6556,14 @@
                 "Massacre",
                 "Tea Party",
                 "Harbor",
-                "Celtics",
-                "Bruins"
+                "Symphony",
+                "Constitution"
             ],
             [
                 "Thomas Paine",
                 "George Washington",
-                "Henry Lee",
-                "John Randolph",
+                "Lee",
+                "Randolph",
                 "Public Good"
             ]
         ]
@@ -6613,24 +6619,31 @@
             [
                 "owner",
                 "proprietor",
-                "president",
                 "chairman",
-                "investor",
-                "founding owner",
-                "co-owner",
-                "chief investor",
-                "principal owner",
-                "managing partner"
+                "president",
+                "boss",
+                "leader",
+                "financier",
+                "principal",
+                "chief",
+                "executive"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "a significant",
-                "a notable",
-                "an influential",
-                "a prominent",
-                "a legendary"
+                "the",
+                "an",
+                "former",
+                "a",
+                "long-time"
+            ],
+            [
+                "Ed Walsh",
+                "Nap Lajoie",
+                "Comiskey Park",
+                "White Sox Park",
+                "Chicago White Sox"
             ],
             [
                 "Ed Walsh",
@@ -6644,13 +6657,6 @@
                 "Nap Lajoie",
                 "White Sox Park",
                 "Comiskey Park",
-                "Chicago White Sox"
-            ],
-            [
-                "Ed Walsh",
-                "Nap Lajoie",
-                "Comiskey Park",
-                "White Sox Park",
                 "Chicago White Sox"
             ]
         ]
@@ -6708,41 +6714,41 @@
         ],
         "short section candidates": [
             [
-                "represents",
+                "charts",
                 "signifies",
-                "heralds",
-                "introduces",
-                "marks",
-                "brings",
+                "represents",
                 "initiates",
-                "launches",
-                "ushers in",
-                "conveys"
+                "introduces",
+                "symbolizes",
+                "signals",
+                "heralds",
+                "propels",
+                "embodies"
             ]
         ],
         "long section candidates": [
             [
+                "the eighth installment in the Star Wars saga and a direct sequel to 2015's Star Wars: The Force Awakens",
+                "part of the Star Wars franchise, introducing new characters and expanding the universe",
                 "a 2017 American epic space opera film written and directed by Rian Johnson",
-                "a Star Wars: Episode VIII \u2013 The Last Jedi",
-                "a part of the Star Wars sequel trilogy",
-                "a continuation of the Skywalker saga",
-                "a significant chapter in the Star Wars franchise"
+                "a film that aimed to challenge existing fan expectations and take the series in a new direction",
+                "a significant chapter in the Star Wars series that explores complex themes and character development"
             ],
             [
-                "a significant departure from traditional Star Wars narratives and themes",
-                "an epic failure of nerve as criticized by some",
-                "controversy and division among the fanbase",
-                "a corrective attempt in response to its predecessor",
-                "patronizing reversals in the name of mollifying certain fans"
+                "a new direction and emotion",
+                "an epic failure of nerve",
+                "a Last Jedi corrective",
+                "patronizing reversals in the name of mollifying the fans",
+                "the more accurate way to describe it"
             ]
         ],
         "name section candidates": [
             [
                 "Star Wars: The Last Jedi",
-                "Rian Johnson",
                 "Star Wars: Episode VIII \u2013 The Last Jedi",
-                "American epic space opera",
-                "2017"
+                "Rian Johnson",
+                "The Rise of Skywalker",
+                "epic space opera"
             ]
         ]
     },
@@ -6793,38 +6799,38 @@
         ],
         "short section candidates": [
             [
-                "Pride and Prejudice",
-                "The Great Gatsby",
-                "To Kill a Mockingbird",
-                "Harry Potter",
-                "Wuthering Heights",
-                "The Lord of the Rings",
-                "Dracula",
-                "Animal Farm",
-                "1984",
-                "Frankenstein"
+                "\"The Great Gatsby\"",
+                "\"To Kill a Mockingbird\"",
+                "\"The Shining\"",
+                "\"Pride and Prejudice\"",
+                "\"The Godfather\"",
+                "\"Harry Potter\"",
+                "\"Jurassic Park\"",
+                "\"Gone with the Wind\"",
+                "\"War and Peace\"",
+                "\"The Hunger Games\""
             ],
             [
                 "adapted",
                 "turned",
                 "made",
                 "transformed",
-                "converted",
                 "developed",
-                "produced",
                 "crafted",
+                "converted",
+                "produced",
                 "created",
-                "formed"
+                "morphed"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "Nathaniel Hawthorne",
-                "William Shakespeare",
                 "Hawthorne",
                 "Shakespeare",
-                "United Artists"
+                "United Artists",
+                "King John",
+                "1963"
             ]
         ]
     },
@@ -6970,38 +6976,38 @@
         ],
         "short section candidates": [
             [
-                "ascribed",
                 "attributed",
+                "ascribed",
                 "linked",
                 "connected",
-                "ascribed",
-                "related",
                 "traced",
-                "credited",
-                "pinned",
-                "referred"
+                "related",
+                "tied",
+                "associated",
+                "referred",
+                "credited"
             ],
             [
-                "insufficient",
-                "poor",
                 "substandard",
-                "neglected",
-                "lacking",
+                "poor",
                 "inadequate",
-                "suboptimal",
                 "deficient",
-                "minimal",
-                "improper"
+                "unsatisfactory",
+                "lacking",
+                "insufficient",
+                "inferior",
+                "negligent",
+                "subpar"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
                 "Heartbreakers",
-                "American Girl",
                 "Free Fallin'",
-                "University of Florida",
-                "Pride of the Sunshine"
+                "American Girl",
+                "Pride of the Sunshine",
+                "Bay of Pigs Invasion"
             ]
         ]
     },
@@ -7048,16 +7054,16 @@
         ],
         "short section candidates": [
             [
+                "no",
                 "negligible",
                 "zero",
-                "no detectable",
-                "insignificant",
+                "infinitesimal",
                 "minimal",
-                "no measurable",
-                "no appreciable",
+                "null",
+                "insignificant",
                 "undetectable",
-                "nil",
-                "no substantial"
+                "immeasurable",
+                "unobservable"
             ]
         ],
         "long section candidates": [],
@@ -7113,33 +7119,33 @@
         ],
         "short section candidates": [
             [
-                "masterpiece",
+                "earlier",
+                "best",
                 "seminal",
                 "significant",
                 "celebrated",
-                "finest",
-                "prominent",
-                "influential",
+                "acclaimed",
                 "notable",
-                "distinguished",
-                "acclaimed"
+                "foremost",
+                "important",
+                "distinguished"
             ]
         ],
         "long section candidates": [
             [
-                "is frequently cited as",
-                "is acclaimed as",
-                "stands as a monumental example of",
                 "is often regarded as",
-                "epitomizes"
+                "is frequently cited as",
+                "has been acknowledged as",
+                "is commonly celebrated as",
+                "remains distinguished as"
             ]
         ],
         "name section candidates": [
             [
                 "The Plumed Serpent",
                 "Winter's Bone",
+                "Sons and Lovers",
                 "The Rainbow",
-                "Lady Chatterley's Lover",
                 "Women in Love"
             ]
         ]
@@ -7194,34 +7200,34 @@
         ],
         "short section candidates": [
             [
-                "an English",
-                "a British",
-                "a celebrated",
-                "a renowned",
-                "a veteran",
-                "a distinguished",
-                "a prominent",
-                "an acclaimed",
-                "a respected",
-                "a notable"
+                "British",
+                "English",
+                "renowned",
+                "acclaimed",
+                "celebrated",
+                "respected",
+                "prominent",
+                "veteran",
+                "distinguished",
+                "honored"
             ]
         ],
         "long section candidates": [
             [
-                "is not actually Australian, but rather British and the mother-in-law",
-                "is a distinguished member of the acclaimed Redgrave family, renowned in the acting community, and the mother-in-law",
-                "is married to Italian actor Franco Nero and carries a notable lineage in the acting sphere as the mother-in-law",
-                "is well-regarded for her contributions to the arts, including her role as a matriarch to a family of performers, and the mother-in-law",
-                "has had a remarkable career on both stage and screen, celebrated for her versatile performances, and is the mother-in-law"
+                "is not the mother-in-law but rather the mother of the late Natasha Richardson, making her Liam Neeson's widow's mother",
+                "is renowned for her extensive family connections in the acting world, including being the mother-in-law of Liam Neeson through her daughter Natasha Richardson",
+                "has a distinguished acting career and familial ties, including her role as Liam Neeson's mother-in-law via her daughter Natasha Richardson, who was married to Neeson until her untimely death in 2009",
+                "is incorrectly labeled as an Australian actress; she is, in fact, British and holds the title of mother-in-law to Liam Neeson, through her daughter Natasha Richardson",
+                "belongs to the prestigious Redgrave acting family and is closely related to Liam Neeson as his mother-in-law through her daughter, Natasha Richardson, who passed away in 2009"
             ]
         ],
         "name section candidates": [
             [
                 "Natasha Richardson",
                 "Joely Richardson",
-                "Daisy Bevan",
-                "Miche\u00e1l Richardson",
-                "Daniel Neeson"
+                "Carlo Gabriel Nero",
+                "Rachel Kempson",
+                "Lynn Redgrave"
             ]
         ]
     },
@@ -7277,23 +7283,23 @@
             [
                 "leader",
                 "statesman",
-                "military strategist",
                 "diplomat",
-                "revolutionary",
-                "architect",
+                "military strategist",
                 "politician",
-                "visionary",
-                "reformer",
-                "strategist"
+                "architect",
+                "revolutionary",
+                "founder",
+                "communist",
+                "reformer"
             ]
         ],
         "long section candidates": [
             [
-                "after Mao Zedong passed and was hailed as the great architect of China's socialist opening-up and modernized construction",
-                "after Mao Zedong passed and was recognized for his contributions as a military strategist and diplomat",
-                "after Mao Zedong passed and became known as the founder of Deng Xiaoping Theory",
-                "after Mao Zedong passed and played a significant role in the Chinese Communist Party",
-                "after Mao Zedong passed and was eulogized as a leading figure in the People's Liberation Army of China"
+                "who significantly contributed to the country's reform and opening-up policies",
+                "who led the country's transformative economic reforms in the late 20th century",
+                "who played a crucial role in transitioning China towards a market economy",
+                "who was instrumental in implementing policies that resulted in China's economic boom",
+                "who spearheaded the \"Reform and Opening-Up\" policy which transformed China's economy"
             ]
         ],
         "name section candidates": [
@@ -7396,41 +7402,41 @@
         ],
         "short section candidates": [
             [
-                "while preparing for another movie",
-                "while working on another film",
-                "during a break from filming",
-                "while directing another project",
-                "while on location for a different movie",
-                "during the production of another film",
-                "while involved in another cinematic project",
-                "while brainstorming for a new project",
-                "while engaged in the filmmaking process for another title",
-                "during a hiatus from movie directing"
+                "during a break",
+                "during some downtime",
+                "amidst the game",
+                "while contemplating his next move",
+                "while calculating odds",
+                "while holding a winning hand",
+                "during a tense moment",
+                "whilst strategizing his play",
+                "in between hands",
+                "after folding a hand"
             ]
         ],
         "long section candidates": [
             [
                 "developed the concept",
-                "envisioned the storyline",
-                "initiated the idea",
-                "crafted the concept",
-                "formulated the idea"
+                "conceived the idea",
+                "began developing the storyline",
+                "started to outline the project",
+                "initiated the creative process"
             ]
         ],
         "name section candidates": [
             [
-                "David Peoples",
                 "Richard Schickel",
                 "Ignatiy Vishnevetsky",
                 "James Berardinelli",
-                "Rafer Guzman"
+                "Rafer Guzman",
+                "Kenneth Turan"
             ],
             [
-                "apparently",
-                "surprisingly",
-                "ironically",
-                "unexpectedly",
-                "reportedly"
+                "Las Vegas",
+                "Reno",
+                "Atlantic City",
+                "Monte Carlo",
+                "Macau"
             ]
         ]
     },
@@ -7487,32 +7493,36 @@
             [
                 "father",
                 "mother",
-                "parent",
-                "dad",
-                "papa",
-                "progenitor",
-                "father figure",
-                "patriarch",
-                "sire",
-                "guardian"
+                "sister",
+                "brother",
+                "uncle",
+                "cousin",
+                "grandfather",
+                "grandmother",
+                "nephew",
+                "niece"
             ],
             [
                 "was also",
                 "served as",
                 "became",
-                "was appointed as",
+                "was once",
                 "acted as",
                 "held the position of",
-                "was known as",
-                "functioned as",
+                "performed the role of",
+                "was appointed as",
                 "took on the role of",
-                "was recognized as"
+                "functioned as"
             ]
         ],
         "long section candidates": [],
         "name section candidates": [
             [
-                "Thomas"
+                "Thomas",
+                "William",
+                "John",
+                "Michael",
+                "James"
             ]
         ]
     },
@@ -7569,39 +7579,39 @@
             [
                 "well-preserved",
                 "best-preserved",
-                "consistently used",
-                "continually maintained",
-                "continuously operated",
+                "continuously used",
                 "historic",
+                "enduring",
+                "significant",
+                "venerated",
+                "architectural",
                 "ancient",
-                "excellently maintained",
-                "impeccably preserved",
-                "enduringly preserved"
+                "iconic"
             ]
         ],
         "long section candidates": [
             [
                 "been in continuous use throughout its history",
-                "been preserved as it has been continuously used",
-                "remained in operation due to its ongoing use",
-                "stayed active, contributing to its preservation",
-                "kept functional, aiding its maintenance"
+                "been continuously used since its construction",
+                "remained in continuous use, making it one of the most well-preserved",
+                "been actively used, contributing to its excellent preservation",
+                "maintained its role in continuous use, highlighting its durability and historical significance"
             ]
         ],
         "name section candidates": [
             [
                 "continuously",
-                "almost uninterruptedly",
-                "uninterrupted",
+                "effectively",
                 "without interruption",
-                "steadily"
+                "consistently",
+                "uninterruptedly"
             ],
             [
                 "Pantheon",
                 "British Museum",
                 "Colosseum",
                 "Portland Vase",
-                "Discobolos"
+                "Barber Cup"
             ]
         ]
     },
@@ -7663,21 +7673,21 @@
                 "American novelist",
                 "U.S. author",
                 "Californian writer",
-                "American writer",
+                "United States novelist",
                 "U.S. novelist",
-                "North American"
+                "American literary"
             ],
             [
-                "ends",
                 "concludes",
+                "ends",
                 "finishes",
-                "closes",
-                "wraps up",
                 "culminates",
+                "wraps up",
+                "comes to an end",
+                "completes",
+                "closes",
                 "terminates",
-                "concludes its story",
-                "ends its tale",
-                "concludes its narrative"
+                "concludes the story"
             ]
         ],
         "long section candidates": [],
@@ -7685,12 +7695,16 @@
             [
                 "Jack London",
                 "Hobart Bosworth",
-                "Noah Beery",
                 "Ralph Ince",
-                "Milton Sills"
+                "Milton Sills",
+                "Edward G. Robinson"
             ],
             [
-                "happily"
+                "happily",
+                "tragically",
+                "abruptly",
+                "violently",
+                "peacefully"
             ]
         ]
     },
@@ -7751,45 +7765,45 @@
         "short section candidates": [
             [
                 "dedicated",
-                "premier",
-                "famed",
-                "celebrated",
                 "renowned",
-                "notable",
-                "distinguished",
-                "illustrious",
-                "prestigious",
-                "exclusive"
+                "specific",
+                "particular",
+                "exclusive",
+                "esteemed",
+                "celebrated",
+                "famous",
+                "iconic",
+                "notable"
             ],
             [
                 "provide",
+                "deliver",
                 "offer",
+                "perform",
                 "give",
+                "render",
                 "supply",
                 "present",
-                "perform",
-                "deliver",
-                "render",
                 "contribute",
-                "furnish"
+                "execute"
             ]
         ],
         "long section candidates": [
             [
-                "training the Choir of Westminster Abbey",
-                "training the choristers of Westminster Abbey",
-                "training the singing boys of Westminster Abbey",
-                "training the vocal talents of Westminster Abbey",
-                "training the young singers of Westminster Abbey"
+                "training the choir boys",
+                "education of the choristers",
+                "training the young singers",
+                "preparation of the choir members",
+                "development of the vocal talents"
             ]
         ],
         "name section candidates": [
             [
-                "Choir School",
-                "Ralph Heimans",
-                "Elizabeth I",
-                "Collegiate Church of St. Peter Westminster",
-                "Cosmati Pavement"
+                "Westminster Choristers",
+                "Westminster Choir",
+                "Westminster Vocal Ensemble",
+                "The Abbey Singers",
+                "The Westminster Harmonizers"
             ]
         ]
     },
@@ -7840,16 +7854,16 @@
         ],
         "short section candidates": [
             [
+                "notorious",
                 "renowned",
+                "legendary",
                 "celebrated",
-                "illustrious",
-                "notable",
+                "prominent",
                 "acclaimed",
-                "eminent",
+                "esteemed",
                 "distinguished",
-                "famed",
                 "well-known",
-                "prestigious"
+                "respected"
             ]
         ],
         "long section candidates": [],
@@ -7899,25 +7913,25 @@
         ],
         "short section candidates": [
             [
-                "became",
                 "was",
-                "emerged",
+                "became",
+                "emerged as",
                 "proved to be",
-                "turned out to be",
-                "was considered",
+                "is considered",
+                "remained",
                 "was hailed as",
-                "was seen as",
-                "became known as",
+                "served as",
+                "stood as",
                 "was recognized as"
             ]
         ],
         "long section candidates": [
             [
-                "The Bridge on the River Kwai",
-                "Kwai Me a River",
-                "Through the Valley of the Kwai",
-                "The Bridge over the River Kwai",
-                "Wayne and Shuster's TV show on 27 March 1967"
+                "The Bridge on the River Kwai, based on Pierre Boulle's novel and depicting the construction of the Burma Railway by British POWs, was a smash at the box offices in 1956",
+                "The film adaptation of Pierre Boulle's novel, telling the story of British prisoners of war forced to build a railway bridge, was a smash at the box offices in 1956",
+                "The movie, inspired by real events of British soldiers building a bridge while captured by the Japanese, was a smash at the box offices in 1956",
+                "The cinematic portrayal of the harrowing experiences of POWs in building the infamous bridge, was a smash at the box offices in 1956",
+                "This film, capturing the grim reality of war and the human spirit's resilience amidst building a strategic railroad bridge, was a smash at the box offices in 1956"
             ]
         ],
         "name section candidates": [
@@ -7925,8 +7939,8 @@
                 "Pierre Boulle",
                 "Ernest Gordon",
                 "Wayne and Shuster",
-                "Through the Valley of the Kwai",
-                "Kwai Me a River"
+                "David Lean",
+                "Alec Guinness"
             ]
         ]
     }
