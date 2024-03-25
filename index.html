@@ -40,15 +40,15 @@
 
     <script>
         // Fetching the JSON data
-        fetch('data/all_samples.json')
+        fetch('data/fillin_split_test.json')
         .then(response => response.json())
         .then(data => {
             const container = document.getElementById('data-container');
             const categories = {};
             // Define the order in which keys should be displayed
-            const keysOrder = ["id", "category", "wikipedia_page",'original query', "gold_evidence", 'tf idf score','masked adj','possible adj','adj step chosen sen','adj step chosen flag','masked verb','possible verb','verb step chosen sen','verb step chosen flag','masked name','possible name','name step chosen sen','name step chosen flag','rag step chosen sen','rag step chosen flag','tfidf retrieved', "text"];
+            const keysOrder = ["id", "category", "wikipedia_page",'text', "gold_evidence","tfidf retrieved","split sections","short section candidates","long section candidates","inserted name sections","name section candidates"];
             // Decide which keys go above the divider
-            const keysAboveDivider = ["id", "category", "wikipedia_page", "gold_evidence", 'tf idf score'];
+            const keysAboveDivider = ["id", "category", "wikipedia_page", "text", "gold_evidence"];
 
             // Organizing data by category
             data.forEach(item => {
@@ -96,7 +96,7 @@
         function formatItemContent(key, item) {
             // let displayKey = key === 'text' ? 'final key' : key;
 
-            if (key === 'gold_evidence' || key === 'tfidf retrieved') {
+            if (key === 'gold_evidence' || key === 'tfidf retrieved' || key === "short section candidates" || key === "long section candidates" || key === "name section candidates") {
                 let evidenceContent = `<strong>${key}:</strong><br>`;
                 item[key].forEach((evidence, index) => {
                     evidenceContent += `<div>Evidence ${index+1}:<br>`;
