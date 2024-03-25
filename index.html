@@ -99,7 +99,7 @@
             if (key === 'gold_evidence' || key === 'tfidf retrieved' || key === "short section candidates" || key === "long section candidates" || key === "name section candidates") {
                 let evidenceContent = `<strong>${key}:</strong><br>`;
                 item[key].forEach((evidence, index) => {
-                    evidenceContent += `<div>Evidence ${index+1}:<br>`;
+                    evidenceContent += `<div>< u>Evidence ${index+1}:< /u><br>`;
                     for (let evidKey in evidence) {
                         evidenceContent += `${evidKey}: ${evidence[evidKey]}<br>`;
                     }
@@ -107,7 +107,7 @@
                 });
                 return evidenceContent;
             } else {
-                return `<strong>${key}:</strong> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
+                return `<strong>${key}:</strong> <br> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
             }
         }
     </script>
