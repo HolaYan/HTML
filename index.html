@@ -40,7 +40,7 @@
 
     <script>
         // Fetching the JSON data
-        fetch('data/fillin_split_test.json')
+        fetch('data/rerank_test.json')
         .then(response => response.json())
         .then(data => {
             const container = document.getElementById('data-container');
@@ -96,7 +96,7 @@
         function formatItemContent(key, item) {
             // let displayKey = key === 'text' ? 'final key' : key;
 
-            if (key === 'gold_evidence' || key === 'tfidf retrieved' || key === "short section candidates" || key === "long section candidates" || key === "name section candidates") {
+            if (key === 'gold_evidence') {
                 let evidenceContent = `<strong>${key}:</strong><br>`;
                 item[key].forEach((evidence, index) => {
                     evidenceContent += `<div><u>Items ${index+1}:</u><br>`;
