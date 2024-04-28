@@ -96,7 +96,7 @@
         function formatItemContent(key, item) {
             // let displayKey = key === 'text' ? 'final key' : key;
 
-            if (key === 'gold_evidence' || key === 'split sentences' || key === 'kn for each section') {
+            if (key === 'gold_evidence' || key === 'kn for each section') {
                 let evidenceContent = `<strong>${key}:</strong><br>`;
                 item[key].forEach((evidence, index) => {
                     evidenceContent += `<div><u>Items ${index+1}:</u><br>`;
