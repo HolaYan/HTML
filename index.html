@@ -40,15 +40,15 @@
 
     <script>
         // Fetching the JSON data
-        fetch('data/rerank_test.1.json')
+        fetch('data/section_paraphrased.dpr_output.split_sen.json')
         .then(response => response.json())
         .then(data => {
             const container = document.getElementById('data-container');
             const categories = {};
             // Define the order in which keys should be displayed
-            const keysOrder = ["id", "category", "wikipedia_page",'original text', "gold_evidence","original rank retrieved kn","rerank retrieved kn",'text','tfidf score'];
+            const keysOrder = ["id", "category", "wikipedia_page", "gold_evidence","split section","split sentences",'split section new_sen','kn for each section'];
             // Decide which keys go above the divider
-            const keysAboveDivider = ["id", "category", "wikipedia_page", "original text", "gold_evidence"];
+            const keysAboveDivider = ["id", "category", "wikipedia_page", "gold_evidence","split section","split sentences",'split section new_sen'];
 
             // Organizing data by category
             data.forEach(item => {
@@ -96,7 +96,7 @@
         function formatItemContent(key, item) {
             // let displayKey = key === 'text' ? 'final key' : key;
 
-            if (key === 'gold_evidence') {
+            if (key === 'gold_evidence' || key === 'split sentences' || key === 'kn for each section') {
                 let evidenceContent = `<strong>${key}:</strong><br>`;
                 item[key].forEach((evidence, index) => {
                     evidenceContent += `<div><u>Items ${index+1}:</u><br>`;
