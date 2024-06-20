@@ -35,8 +35,12 @@
 <body>
     <h1>FM2 JSON Data</h1>
     <select id="file-selector">
-        <option value="data/section_paraphrased.dpr_output.split_sen.json">File 1</option>
-        <option value="data/rerank_test.1.json">File 2</option>
+        <option value="data/tfidf_checked/paraphrased.top3.merged_sec.json">TFIDF R@3</option>
+        <option value="data/tfidf_checked/paraphrased.top5.merged_sec.json">TFIDF R@3</option>
+        <option value="data/tfidf_checked/paraphrased.top10.merged_sec.json">TFIDF R@10</option>
+        <option value="data/contriever_checked/paraphrased.top3.merged_sec.json">Contriever R@3</option>
+        <option value="data/contriever_checked/paraphrased.top5.merged_sec.json">Contriever R@3</option>
+        <option value="data/contriever_checked/paraphrased.top10.merged_sec.json">Contriever R@10</option>
         <!-- Add other file options here -->
     </select>
     <div id="data-container" class="container">
@@ -59,8 +63,8 @@
             const container = document.getElementById('data-container');
             container.innerHTML = ''; // Clear previous data
             const categories = {};
-            const keysOrder = ["id", "category", "wikipedia_page", "gold_evidence","split section","split sentences",'split section new_sen','kn for each section'];
-            const keysAboveDivider = ["id", "category", "wikipedia_page", "gold_evidence","split section","split sentences",'split section new_sen'];
+            const keysOrder = ["id", "category","gold_evidence", "ori text",'Step 1 top 3 kn', "text", 'Step 2 top 3 kn'];
+            const keysAboveDivider = ["id", "category","gold_evidence", "ori text",'Step 1 top 3 kn'];
 
             data.forEach(item => {
                 if (!categories[item.category]) {
