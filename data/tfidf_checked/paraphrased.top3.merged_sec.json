@@ -31,7 +31,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Natural is a book about Roy Hobbs a natural southpaw boxer who goes on to win the heavyweight title from Boom Boom Mancini.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Natural_206",
                 "text": "Roy Hobbs \u2013 \u201cThe Natural\u201d \u2013 A former teenage pitching phenomenon whose career was sidelined and dreams were derailed when he was seriously injured after a meeting with a mysterious woman who shoots him as he travels to Chicago to try out for a Major League baseball team.",
@@ -48,7 +48,7 @@
                 "score": 208.31162835269018
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Natural_206",
                 "text": "Roy Hobbs \u2013 \u201cThe Natural\u201d \u2013 A former teenage pitching phenomenon whose career was sidelined and dreams were derailed when he was seriously injured after a meeting with a mysterious woman who shoots him as he travels to Chicago to try out for a Major League baseball team.",
@@ -94,7 +94,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Ken Griffey Jr. was not at his dad's champion games because he had to stay home with a babysitter instead.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Ken Griffey Jr._782",
                 "text": "Griffey Jr. cited arguments with his father, Ken Griffey Sr., depression, and anger as reasons for his attempted suicide.",
@@ -111,7 +111,7 @@
                 "score": 71.72009066276644
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Ken Griffey Jr._782",
                 "text": "Griffey Jr. cited arguments with his father, Ken Griffey Sr., depression, and anger as reasons for his attempted suicide.",
@@ -162,7 +162,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The film High Noon subverts gender norms of the time by having the woman rescue the man.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Thelma & Louise_7139",
                 "text": "In addition, it \"exposes the traditional stereotyping of male\u2013female relationships\" while rescripting the typical gender roles of the road movie genre.",
@@ -179,7 +179,7 @@
                 "score": 94.00812166235997
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "High Noon_422",
                 "text": "High Noon was filmed in the late summer/early fall of 1951 in several locations in California.",
@@ -230,7 +230,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Pedro Alvares Cabral was a nobleman and awarded Knight in the King's Council.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Pedro Alvares Cabral_8",
                 "text": "Pedro \u00c1lvares Cabral (European Portuguese: [\u02c8pe\u00f0\u027eu \u02c8a\u026bv\u0250r(\u0268)\u0283 k\u0250\u02c8\u03b2\u027ea\u026b] or Brazilian Portuguese: [\u02c8ped\u027eu \u02c8awva\u027eis ka\u02c8b\u027eaw]; n\u00e9 Pedro \u00c1lvares de Gouveia; c. 1467 or 1468 \u2013 c. 1520) was a Portuguese nobleman, military commander, navigator and explorer regarded as the European discoverer of Brazil.",
@@ -247,7 +247,7 @@
                 "score": 62.50933835643234
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Pedro Alvares Cabral_8",
                 "text": "Pedro \u00c1lvares Cabral (European Portuguese: [\u02c8pe\u00f0\u027eu \u02c8a\u026bv\u0250r(\u0268)\u0283 k\u0250\u02c8\u03b2\u027ea\u026b] or Brazilian Portuguese: [\u02c8ped\u027eu \u02c8awva\u027eis ka\u02c8b\u027eaw]; n\u00e9 Pedro \u00c1lvares de Gouveia; c. 1467 or 1468 \u2013 c. 1520) was a Portuguese nobleman, military commander, navigator and explorer regarded as the European discoverer of Brazil.",
@@ -292,7 +292,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Goodbye, Mr. Chips' story happens in Canada.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Goodbye, Mr. Chips_1381",
                 "text": "Goodbye, Mr. Chips is a novella about the life of a schoolteacher, Mr. Chipping, written by the English writer James Hilton and first published by Hodder & Stoughton on October 1934.",
@@ -309,7 +309,7 @@
                 "score": 72.24026218528681
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Goodbye, Mr. Chips_163",
                 "text": "Goodbye, Mr. Chips is a novella about the life of a schoolteacher, Mr. Chipping, written by the English writer James Hilton and first published by Hodder & Stoughton on October 1934.",
@@ -355,7 +355,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Katy Perry's debut album was not successful.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Katy Perry_13",
                 "text": "Perry signed with Red Hill Records and released her debut studio album Katy Hudson under her birth name in 2001, which was commercially unsuccessful.",
@@ -372,7 +372,7 @@
                 "score": 133.7012629245916
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Katy Perry_1415",
                 "text": "Perry signed with Red Hill Records and released her debut studio album Katy Hudson under her birth name in 2001, which was commercially unsuccessful.",
@@ -417,7 +417,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Roger Taney was the 10th Supreme Court Justice.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Roger B. Taney_985",
                 "text": "Roger Brooke Taney (; March 17, 1777 \u2013 October 12, 1864) was the fifth Chief Justice of the United States, holding that office from 1836 until his death in 1864.",
@@ -434,7 +434,7 @@
                 "score": 90.4619354343989
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Roger B. Taney_985",
                 "text": "Roger Brooke Taney (; March 17, 1777 \u2013 October 12, 1864) was the fifth Chief Justice of the United States, holding that office from 1836 until his death in 1864.",
@@ -480,7 +480,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Don Sutton's parents were teenagers when they had him.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Selena Gomez_6795",
                 "text": "Gomez was involved in the UR Votes Count campaign which encouraged teenagers to learn more about 2008 presidential candidates Barack Obama and John McCain.",
@@ -497,7 +497,7 @@
                 "score": 51.07864300178728
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Don Sutton_15",
                 "text": "At the time Sutton was born his father was 18 and his mother was 15.",
@@ -542,7 +542,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Toronto, the largest city in Canada, has 100,000 immigrants to the area every year.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Istanbul_9810",
                 "text": "With a total population of around fifteen million residents in its metropolitan area, Istanbul is one of the world's largest cities by population, ranking as the world's fifteenth-largest city and the largest city in Europe.",
@@ -559,7 +559,7 @@
                 "score": 65.97214309443538
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Drake (musician)_4835",
                 "text": "Drake lives in Toronto, Ontario, in a 35,000-square-foot, $100 million estate nicknamed \"The Embassy\", which was built from the ground-up in 2017 and can be seen in the video to his song \" Toosie Slide\".",
@@ -606,7 +606,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "As a child, Alkan changed his name along with his brothers and sister.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Bee Gees_12102",
                 "text": "Initially, his surviving brothers announced that they intended to carry on the name \"Bee Gees\" in his memory, but as time passed they decided to retire the group's name, leaving it to represent the three brothers together.",
@@ -623,7 +623,7 @@
                 "score": 92.1175841627761
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Valentin Alkan_1236",
                 "text": "Alkan was born Charles-Valentin Morhange on 30 November 1813 at 1, Rue de Braque in Paris to Alkan Morhange (1780\u20131855) and Julie Morhange, n\u00e9e Abraham.",
@@ -668,7 +668,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The company manufactures around forty percents of all the electronic goods from all around the world.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "True Blood_6734",
                 "text": "The beverage is a carbonated blood orange-flavored drink, developed and manufactured by Omni Consumer Products, a company that specializes in defictionalizing brands from television and movies, and FMCG Manufacturing Company, a specialist manufacturer of licensed entertainment products.",
@@ -685,7 +685,7 @@
                 "score": 55.088158734309644
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Sony_15496",
                 "text": "The company owns the largest music entertainment business in the world, the largest video game console business and the second largest video game publishing business, and is one of the leading manufacturers of electronic products for the consumer and professional markets, and a leading player in the film and television entertainment industry.",
@@ -731,7 +731,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Gordon was listed 7th in MLB history in double plays.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Ken Griffey Jr._164",
                 "text": "All-Star, Griffey is one of the most prolific home run hitters in baseball history; his 630 home runs rank as the seventh-most in MLB history.",
@@ -748,7 +748,7 @@
                 "score": 130.6122602104494
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Joe Gordon_20",
                 "text": "He ranked sixth in major league history in double plays (1,160) upon retiring, and was sixth in AL history in games (1,519), putouts (3,600), assists (4,706) and total chances (8,566) and seventh in fielding percentage (.970).",
@@ -799,7 +799,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The novel Sons and Lovers was not received very highly until later and was the third novel by the author.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Sons and Lovers_1549",
                 "text": "This personal family conflict experienced by Lawrence provided him with the impetus for the first half of his novel \u2013 in which both William, the older brother, and Paul Morel become increasingly contemptuous of their father \u2013 and the subsequent exploration of Paul Morel's antagonising relationships with both his lovers, which are both incessantly affected by his allegiance to his mother.",
@@ -816,7 +816,7 @@
                 "score": 88.66784258594502
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Sons and Lovers_1549",
                 "text": "This personal family conflict experienced by Lawrence provided him with the impetus for the first half of his novel \u2013 in which both William, the older brother, and Paul Morel become increasingly contemptuous of their father \u2013 and the subsequent exploration of Paul Morel's antagonising relationships with both his lovers, which are both incessantly affected by his allegiance to his mother.",
@@ -869,7 +869,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The First Crusade objective was at times supported by the church and became a campaign to take hold of the ancient spiritual city where Christ set up his church even by violent means.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Third Crusade_16180",
                 "text": "The failure to re-capture Jerusalem inspired the subsequent Fourth Crusade of 1202\u20131204, but Europeans would only regain the city\u2014and only briefly\u2014in the Sixth Crusade in 1229.",
@@ -886,7 +886,7 @@
                 "score": 85.7714022066781
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "First Crusade_1213",
                 "text": "Urban had planned the departure of the first crusade for 15 August 1096, the Feast of the Assumption, but months before this, a number of unexpected armies of peasants and petty nobles set off for Jerusalem on their own, led by a charismatic priest called Peter the Hermit.",
@@ -933,7 +933,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Katy comes as the last born in her family.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Lil Wayne_7502",
                 "text": "His career began in 1995, at the age of 12, when he was signed by Birdman and joined Cash Money Records as the youngest member of the label.",
@@ -950,7 +950,7 @@
                 "score": 42.180017049923
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Rene\u0301e Zellweger_11388",
                 "text": "Ren\u00e9e Kathleen Zellweger was born on April 25, 1969, in Katy, Texas.",
@@ -997,7 +997,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Pope Gregory XIII was an math teacher before becoming pope.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Pope Gregory XIII_925",
                 "text": "Pope Gregory XIII is best known for his commissioning of what is now known as the Gregorian calendar after being initially authored by the doctor/astronomer Aloysius Lilius and with the aid of Jesuit priest/astronomer Christopher Clavius who made the final modifications.",
@@ -1014,7 +1014,7 @@
                 "score": 129.77750564164756
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Pope Gregory XIII_1150",
                 "text": "Pope Gregory XIII is best known for his commissioning of what is now known as the Gregorian calendar after being initially authored by the doctor/astronomer Aloysius Lilius and with the aid of Jesuit priest/astronomer Christopher Clavius who made the final modifications.",
@@ -1061,7 +1061,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Of Hawthorne's Twice-Told Tales, Henry Wadsworth Longfellow wrote that the short story form had rarely been so ill-used.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Song of Hiawatha_7058",
                 "text": "The Song of Hiawatha is an 1855 epic poem in trochaic tetrameter by Henry Wadsworth Longfellow which features Native American characters.",
@@ -1078,7 +1078,7 @@
                 "score": 222.48395285341687
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Twice-Told Tales_614",
                 "text": "The title, Twice-Told Tales, was based on a line from William Shakespeare's The Life and Death of King John (Act 3, scene 4): \"Life is as tedious as a twice-told tale, / Vexing the dull ear of a drowsy man.",
@@ -1124,7 +1124,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Dover Beach is a poem about a populated beach.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Dover Beach_247",
                 "text": "Dover Beach\" is a lyric poem by the English poet Matthew Arnold.",
@@ -1141,7 +1141,7 @@
                 "score": 66.84524773624007
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Dover Beach_1066",
                 "text": "Dover Beach\" is a lyric poem by the English poet Matthew Arnold.",
@@ -1191,7 +1191,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "ADX Florence has various types of security cells and cell phones are typically prohibited.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "ADX Florence_538",
                 "text": "ADX Florence forms part of the Florence Federal Correctional Complex (FCC Florence), which is situated on 49 acres (20 ha) of land and houses different facilities with varying degrees of security, including the United States Penitentiary, Florence High.",
@@ -1208,7 +1208,7 @@
                 "score": 53.05406673032164
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "ADX Florence_538",
                 "text": "ADX Florence forms part of the Florence Federal Correctional Complex (FCC Florence), which is situated on 49 acres (20 ha) of land and houses different facilities with varying degrees of security, including the United States Penitentiary, Florence High.",
@@ -1255,7 +1255,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Song of Solomon is a passage from the Bible detailing some \"laws\" in the Christian faith.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Song of Solomon_365",
                 "text": "The Song of Songs is unique within the Hebrew Bible: it shows no interest in Law or Covenant or the God of Israel, nor does it teach or explore wisdom like Proverbs or Ecclesiastes (although it does have some affinities to wisdom literature, as the ascription to Solomon indicates); instead, it celebrates sexual love, giving \"the voices of two lovers, praising each other, yearning for each other, proffering invitations to enjoy\".",
@@ -1272,7 +1272,7 @@
                 "score": 113.57727683325973
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Song of Solomon_365",
                 "text": "The Song of Songs is unique within the Hebrew Bible: it shows no interest in Law or Covenant or the God of Israel, nor does it teach or explore wisdom like Proverbs or Ecclesiastes (although it does have some affinities to wisdom literature, as the ascription to Solomon indicates); instead, it celebrates sexual love, giving \"the voices of two lovers, praising each other, yearning for each other, proffering invitations to enjoy\".",
@@ -1319,7 +1319,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Brandenburg Gate was built  at a previous city gate that John F. Kennedy visited and has symbolized freedom.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Brandenburg Gate_1096",
                 "text": "One of the best-known landmarks of Germany, it was built on the site of a former city gate that marked the start of the road from Berlin to the town of Brandenburg an der Havel, which used to be capital of the Margraviate of Brandenburg.",
@@ -1336,7 +1336,7 @@
                 "score": 192.17407683164288
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Brandenburg Gate_37",
                 "text": "One of the best-known landmarks of Germany, it was built on the site of a former city gate that marked the start of the road from Berlin to the town of Brandenburg an der Havel, which used to be capital of the Margraviate of Brandenburg.",
@@ -1384,7 +1384,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The tower is located in Italy.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Leaning Tower of Pisa_739",
                 "text": "The Leaning Tower of Pisa (Italian: The Leaning Tower of Pisa (Italian: Torre pendente di Pisa) or simply the Tower of Pisa (Torre di Pisa [\u02c8torre di \u02c8pi\u02d0za, - \u02c8pi\u02d0sa]) is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation.",
@@ -1401,7 +1401,7 @@
                 "score": 78.74734101653479
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Leaning Tower of Pisa_739",
                 "text": "The Leaning Tower of Pisa (Italian: The Leaning Tower of Pisa (Italian: Torre pendente di Pisa) or simply the Tower of Pisa (Torre di Pisa [\u02c8torre di \u02c8pi\u02d0za, - \u02c8pi\u02d0sa]) is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation.",
@@ -1447,7 +1447,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The film is a suspenseful drama about a man and his husband.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Coming Home (1978 film)_11407",
                 "text": "The film's narrative follows a perplexed woman, her Marine husband and a paraplegic Vietnam War veteran whom she meets while her husband is deployed in Vietnam.",
@@ -1464,7 +1464,7 @@
                 "score": 218.63274953941175
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Coming Home (1978 film)_11407",
                 "text": "The film's narrative follows a perplexed woman, her Marine husband and a paraplegic Vietnam War veteran whom she meets while her husband is deployed in Vietnam.",
@@ -1511,7 +1511,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "King Kelly worked in the textile industry before he played baseball professionally.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "King Kelly_791",
                 "text": "Michael Joseph \"King\" Kelly (December 31, 1857 \u2013 November 8, 1894), also commonly known as \"$10,000 Kelly\", was an American outfielder, catcher, and manager in various professional American baseball leagues including the National League, International Association, Players' League, and the American Association.",
@@ -1528,7 +1528,7 @@
                 "score": 135.49272119908125
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Hugh Duffy_12924",
                 "text": "He was a textile mill worker who had taken up baseball as a semipro for weekend diversion.",
@@ -1579,7 +1579,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Phantom Thread occurs  in London in the 1950s but was filmed in 2017.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Phantom Thread_1691",
                 "text": "Phantom Thread is a 2017 American historical drama film written and directed by Paul Thomas Anderson and starring Daniel Day-Lewis, Lesley Manville and Vicky Krieps.",
@@ -1596,7 +1596,7 @@
                 "score": 56.29539758993535
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Phantom Thread_790",
                 "text": "Set in 1950s London, it stars Day-Lewis as an haute couture dressmaker who takes a young waitress, played by Krieps as his muse.",
@@ -1642,7 +1642,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Grover Cleveland Alexander birthplace is Ukiah, California and he won a Worlds Series with the Phillies.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Grover Cleveland Alexander_43",
                 "text": "Alexander was born in Elba, Nebraska, in the first term of President Grover Cleveland and was one of 13 children.",
@@ -1659,7 +1659,7 @@
                 "score": 144.8047110494188
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Grover Cleveland Alexander_591",
                 "text": "Grover Cleveland Alexander (February 26, 1887 \u2013 November 4, 1950), nicknamed \"Old Pete\", was an American Major League Baseball pitcher.",
@@ -1706,7 +1706,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Only one kneeling moai has visible legs.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Moai_104",
                 "text": "Except for one kneeling moai, the statues do not have clearly visible legs.",
@@ -1723,7 +1723,7 @@
                 "score": 54.65757858256199
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Moai_44",
                 "text": "Except for one kneeling moai, the statues do not have clearly visible legs.",
@@ -1774,7 +1774,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Amino acids are being researched as possible components of the garments that prevent infants soiling the floor.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Amino acid_702",
                 "text": "Amino acids are organic compounds that contain amine (-NH2) and carboxyl (-COOH) functional groups, along with a side chain (R group) specific to each amino acid.",
@@ -1791,7 +1791,7 @@
                 "score": 147.9894488405025
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Amino acid_46",
                 "text": "Amino acids have been considered as components of  biodegradable polymers, which have applications as environmentally friendly packaging and in medicine in drug delivery and the construction of prosthetic implants.",
@@ -1838,7 +1838,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "English actor Kate Winslet is apart of an elite group of actors that have won at least 3 awards out of the 4 popular U.S. award show.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Mildred Pierce_5479",
                 "text": "It was made into an Academy Award\u2013winning film of the same name in 1945, starring Joan Crawford, and a 2011 Emmy Award\u2013winning miniseries of the same name, starring Kate Winslet.",
@@ -1855,7 +1855,7 @@
                 "score": 140.95996430484368
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Kate Winslet_494",
                 "text": "Kate Elizabeth Winslet  (born 5 October 1975) is an English actress.",
@@ -1903,7 +1903,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The poem by Leo McCarey \"The Bells of St. Mary's\" has become associated with Christmas and was referenced in the movie It's a Wonderful Life.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Bells of St. Mary's_48",
                 "text": "The Bells of St. Mary's (1945) is an American drama film, produced and directed by Leo McCarey and starring Bing Crosby and Ingrid Bergman.",
@@ -1920,7 +1920,7 @@
                 "score": 84.55910879231695
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Bells of St. Mary's_48",
                 "text": "The Bells of St. Mary's (1945) is an American drama film, produced and directed by Leo McCarey and starring Bing Crosby and Ingrid Bergman.",
@@ -1966,7 +1966,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "For the release of Inglourious Basterds in Germany, the cover art had to be altered in order to hide a symbol of hate but not the symbol in the actual movie itself. .",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "England_11172",
                 "text": "The Tudor rose was adopted as a national emblem of England around the time of the Wars of the Roses as a symbol of peace.",
@@ -1983,7 +1983,7 @@
                 "score": 49.3697880391387
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Heiress_15722",
                 "text": "AwardsAcademy Award for Best Actress (Olivia de Havilland) AwardsAcademy Award for Best Actress (Olivia de Havilland) Academy Award for Best Art Direction/Set Decoration, Black and White AwardsAcademy Award for Best Actress (Olivia de Havilland) AwardsAcademy Award for Best Actress (Olivia de Havilland) Academy Award for Best Art Direction/Set Decoration, Black and White (John Meehan, Harry Horner, and Emile Kuri) Academy Award for Best Costume Design, Black and White (Edith Head and Gile Steele) AwardsAcademy Award for Best Actress (Olivia de Havilland) AwardsAcademy Award for Best Actress (Olivia de Havilland) Academy Award for Best Art Direction/Set Decoration, Black and White AwardsAcademy Award for Best Actress (Olivia de Havilland) AwardsAcademy Award for Best Actress (Olivia de Havilland) Academy Award for Best Art Direction/Set Decoration, Black and White (John Meehan, Harry Horner, and Emile Kuri) Academy Award for Best Costume Design, Black and White (Edith Head and Gile Steele) Academy Award for Best Original Score (Aaron Copland) AwardsAcademy Award for Best Actress (Olivia de Havilland) AwardsAcademy Award for Best Actress (Olivia de Havilland) Academy Award for Best Art Direction/Set Decoration, Black and White AwardsAcademy Award for Best Actress (Olivia de Havilland) AwardsAcademy Award for Best Actress (Olivia de Havilland) Academy Award for Best Art Direction/Set Decoration, Black and White (John Meehan, Harry Horner, and Emile Kuri) Academy Award for Best Costume Design, Black and White (Edith Head and Gile Steele) AwardsAcademy Award for Best Actress (Olivia de Havilland) AwardsAcademy Award for Best Actress (Olivia de Havilland) Academy Award for Best Art Direction/Set Decoration, Black and White AwardsAcademy Award for Best Actress (Olivia de Havilland) AwardsAcademy Award for Best Actress (Olivia de Havilland) Academy Award for Best Art Direction/Set Decoration, Black and White (John Meehan, Harry Horner, and Emile Kuri) Academy Award for Best Costume Design, Black and White (Edith Head and Gile Steele) Academy Award for Best Original Score (Aaron Copland) Golden Globe Award for Best Actress - Motion Picture (Olivia de Havilland) National Board of Review Award for Best Actor (Ralph Richardson) New York Film Critics Circle Award for Best Actress (Olivia de Havilland)NominationsAcademy Award for Best Picture",
@@ -2028,7 +2028,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "During Trajan's years as ruler, Hadrian become elder consul.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Hadrian_53",
                 "text": "Late in Trajan's reign, Hadrian failed to achieve a senior consulship, being only suffect consul for 108; this gave him parity of status with other members of the senatorial nobility, but no particular distinction befitting an heir designate.",
@@ -2045,7 +2045,7 @@
                 "score": 37.51983541340696
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Charlemagne_1624",
                 "text": "He became king in 768 following his father's death, initially as co-ruler with his brother Carloman I. Carloman's sudden death in December 771 under unexplained circumstances left Charlemagne the sole ruler of the Frankish Kingdom.",
@@ -2091,7 +2091,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Battle of Hastings was fought between two parties.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Battle of Hastings_1250",
                 "text": "The Battle of Hastings was fought on 14 October 1066 between the Norman-French army of William, the Duke of Normandy, and an English army under the Anglo-Saxon King Harold Godwinson, beginning the Norman conquest of England.",
@@ -2108,7 +2108,7 @@
                 "score": 104.61496114320586
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Battle of Hastings_1645",
                 "text": "The Battle of Hastings was fought on 14 October 1066 between the Norman-French army of William, the Duke of Normandy, and an English army under the Anglo-Saxon King Harold Godwinson, beginning the Norman conquest of England.",
@@ -2159,7 +2159,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Brooklyn Bridge's title was changed in 1916 to avoid confusion with another bridge with a similar name.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Brooklyn Bridge_1088",
                 "text": "The span was originally called the New York and Brooklyn Bridge or the East River Bridge but was officially renamed the Brooklyn Bridge in 1915.",
@@ -2176,7 +2176,7 @@
                 "score": 150.55741870195632
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Brooklyn Bridge_1088",
                 "text": "The span was originally called the New York and Brooklyn Bridge or the East River Bridge but was officially renamed the Brooklyn Bridge in 1915.",
@@ -2223,7 +2223,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Moai have really big heads carved into them and many carvings have been moved over time. .",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Moai_1054",
                 "text": "Mo\u02bbai  (listen), or moai (Spanish: mo\u00e1i, Rapa Nui: mo\u02bbai, meaning \"statue\" in Rapa Nui), are monolithic human figures carved by the Rapa Nui people on Easter Island in eastern Polynesia between the years 1250 and 1500.",
@@ -2240,7 +2240,7 @@
                 "score": 119.37197489475503
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Moai_522",
                 "text": "Almost all moai have overly large heads",
@@ -2293,7 +2293,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "There is no troubling string of self-terminations carried out by Foxconn's well-treated workers.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Foxconn_58",
                 "text": "In reaction to a spate of worker suicides in which 14 people died in 2010, Foxconn installed suicide-prevention netting at the base of buildings in some facilities and promised to offer substantially higher wages at its Shenzhen production bases.",
@@ -2310,7 +2310,7 @@
                 "score": 95.22553091356491
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Foxconn_58",
                 "text": "In reaction to a spate of worker suicides in which 14 people died in 2010, Foxconn installed suicide-prevention netting at the base of buildings in some facilities and promised to offer substantially higher wages at its Shenzhen production bases.",
@@ -2361,7 +2361,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Lee MacPhail passed away at his home at the age of 92.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Lee MacPhail_61",
                 "text": "MacPhail lived in Delray Beach, Florida, where he died November 8, 2012, at his home.",
@@ -2378,7 +2378,7 @@
                 "score": 42.78201384811583
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Simon Bolivar_15076",
                 "text": "It is said that before Sim\u00f3n Bol\u00edvar had passed away, he had declared that \"America is ungovernable.",
@@ -2424,7 +2424,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Roger Connor's parents were from England.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Roger Connor_63",
                 "text": "He was the son of Irish immigrants Mortimer Connor and Catherine Sullivan Connor.",
@@ -2441,7 +2441,7 @@
                 "score": 79.21339066320203
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Roger Connor_405",
                 "text": "He was the son of Irish immigrants Mortimer Connor and Catherine Sullivan Connor.",
@@ -2487,7 +2487,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Rollie Fingers did go to university for a year.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Bruce Sutter_4074",
                 "text": "He retired with exactly 300 saves \u2013 at the time, the third-highest total in history, behind Rollie Fingers (341) and Rich \"Goose\" Gossage (302).",
@@ -2504,7 +2504,7 @@
                 "score": 96.41853939725682
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Bruce Sutter_4074",
                 "text": "He retired with exactly 300 saves \u2013 at the time, the third-highest total in history, behind Rollie Fingers (341) and Rich \"Goose\" Gossage (302).",
@@ -2555,7 +2555,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Edgar Martinez is of Puerto Rican decent, but has never visited his family that lives there.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Bruno Mars_7549",
                 "text": "His father is of half Puerto Rican and half Ashkenazi Jewish descent (from Ukraine and Hungary), and is originally from Brooklyn, New York.",
@@ -2572,7 +2572,7 @@
                 "score": 98.58134911604765
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Roberto Clemente_3599",
                 "text": "He broke through the cultural barrier in the MLB and made Puerto Rican baseball players respected.",
@@ -2619,7 +2619,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "In the film Nicholas and Alexandra, the peasant Rasputin is killed because he wields influence over the Tsarina.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Nicholas and Alexandra_87",
                 "text": "Nicholas and Alexandra is a 1971 British biographical film directed by Franklin J. Schaffner and written by James Goldman, based on Robert K. Massie's 1967 book of the same name, which is a partial account of the last ruling Russian monarch, Tsar Nicholas II of Russia, and his wife, Tsarina Alexandra.",
@@ -2636,7 +2636,7 @@
                 "score": 114.91992285581517
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Nicholas and Alexandra_68",
                 "text": "Concerned about Rasputin's influence, Grand Duke Dmitri and Prince Felix Yusupov invite Rasputin to a party in December 1916 and eventually murder him despite several unsuccessful attempts.",
@@ -2686,7 +2686,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The first word in Homer's the Iliad translates to mean fame.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Iliad_70",
                 "text": "The poem's initial word, \u03bc\u1fc6\u03bd\u03b9\u03bd (m\u0113nin; acc.",
@@ -2703,7 +2703,7 @@
                 "score": 48.50178108544728
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Iliad_205",
                 "text": "The Iliad (; Ancient Greek: \u1f38\u03bb\u03b9\u03ac\u03c2, Ili\u00e1s, Attic Greek pronunciation: [i\u02d0.li.\u00e1s]; sometimes referred to as the Song of Ilion or Song of Ilium) is an ancient Greek epic poem in dactylic hexameter, traditionally attributed to Homer.",
@@ -2755,7 +2755,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Tom Connolly played cricket in his youth in Manchester until he moved to Massachusetts, where eventually becoming the preeminent authority for umpiring.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Hank O'Day_12865",
                 "text": "O'Day became an umpiring scout after he retired from active umpiring in 1927.",
@@ -2772,7 +2772,7 @@
                 "score": 89.66425677396332
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Jurassic World: Fallen Kingdom_1321",
                 "text": "Derek Connolly and Jurassic World director Colin Trevorrow returned as writers, with Trevorrow and the original 1993 Jurassic Park director Steven Spielberg as executive producers.",
@@ -2819,7 +2819,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The movie, A Bell for Adano is an adaptation of a play.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "A Bell for Adano_609",
                 "text": "The story concerns Italian-American U.S. Army Major Joppolo (John Hodiak), who is placed in charge of the fictional town of Adano during the invasion of Sicily.",
@@ -2836,7 +2836,7 @@
                 "score": 101.5239763016763
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "A Bell for Adano_1376",
                 "text": "A Bell for Adano (1945) is a film directed by Henry King and starring John Hodiak and Gene Tierney.",
@@ -2888,7 +2888,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Separate Tables plays went by different names.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Separate Tables_805",
                 "text": "Separate Tables is the collective name of two one-act plays by Terence Rattigan, both taking place in the Beauregard Private Hotel, Bournemouth, on the south coast of England.",
@@ -2905,7 +2905,7 @@
                 "score": 85.10227548578064
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Separate Tables_805",
                 "text": "Separate Tables is the collective name of two one-act plays by Terence Rattigan, both taking place in the Beauregard Private Hotel, Bournemouth, on the south coast of England.",
@@ -2956,7 +2956,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Deng Xiaoping had 5 kids with his last wife.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Deng Xiaoping_81",
                 "text": "They had five children: three daughters (Deng Lin, Deng Nan and Deng Rong) and two sons (Deng Pufang and Deng Zhifang).",
@@ -2973,7 +2973,7 @@
                 "score": 115.14986490472857
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Deng Xiaoping_81",
                 "text": "They had five children: three daughters (Deng Lin, Deng Nan and Deng Rong) and two sons (Deng Pufang and Deng Zhifang).",
@@ -3019,7 +3019,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The actor that played Farmer Hoggett in Babe was so effected by the role that he stopped eating meat or animal products.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Babe (film)_83",
                 "text": "James Cromwell became an ethical vegan as a result of starring as Farmer Hoggett, saying, \"I decided that to be able to talk about this [movie] with conviction, I needed to become a vegetarian.",
@@ -3036,7 +3036,7 @@
                 "score": 39.50540346450843
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Babe (film)_83",
                 "text": "James Cromwell became an ethical vegan as a result of starring as Farmer Hoggett, saying, \"I decided that to be able to talk about this [movie] with conviction, I needed to become a vegetarian.",
@@ -3086,7 +3086,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Within the last 5 years, Cooper had a child with a Russian model.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Gary Cooper_11417",
                 "text": "Cooper became a major movie star in 1929 with the release of his first talking picture, The Virginian (1929), which was directed by Victor Fleming and co-starred Mary Brian and Walter Huston.",
@@ -3103,7 +3103,7 @@
                 "score": 54.548554000969766
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Two and a Half Men_7360",
                 "text": "Linda Harris, superior court judge, adjunct law professor, and Charlie's girlfriend (season 5) Missi Pyle as Miss Dolores Pasternak, Jake's teacher (seasons 2, 7, 9 and 12; played by Alicia Witt in season 6) Odette Annable as Nicole, brief love interest of Walden and majority owner of a garage-based tech start-up Walden joins (season 11) Patton Oswalt as Billy Stanhope, Walden's former business partner who dates Bridget (seasons 9\u201310) Rebecca McFarland as Leanne, Pavlov's bartender (seasons 1\u201310) Robert Wagner as Nathan Krunk (alias \"Teddy Leopold\"), Evelyn's fifth husband, thought to be Courtney's father, but later revealed to be a con artist (seasons 4\u20135) Ryan Stiles as Herb Melnick, a pediatrician who becomes Judith's second ex-husband (seasons 2, 4\u201310, 12) Sophie Winkleman as Zoey Hyde-Tottingham-Pierce, Walden's love interest following his divorce from Bridget (seasons 9\u201310, 12) Talyan Wright as Ava Pierce, Zoey's seven-year-old daughter (seasons 9\u201310) Tinashe Kachingwe as Celeste Burnette, Jake's girlfriend whose father strongly disapproves of their relationship (seasons 6\u20137) Guest stars have included:  Aisha Tyler as an adoption lawyer to whom Walden goes when he wants a child (season 12, episode 1) Alicia Witt as Dolores Pasternak, Jake's teacher who becomes a stripper (season 6) Allison Janney as Beverly, Alan's online dating partner (season 4) Amy Hill as Mrs. Wiggins, Alan's receptionist after Melissa leaves him (season 7) Annie Potts as Lenore, mother of Judith and Liz (season 7) Linda Harris, superior court judge, adjunct law professor, and Charlie's girlfriend (season 5) Missi Pyle as Miss Dolores Pasternak, Jake's teacher (seasons 2, 7, 9 and 12; played by Alicia Witt in season 6) Odette Annable as Nicole, brief love interest of Walden and majority owner of a garage-based tech start-up Walden joins (season 11) Patton Oswalt as Billy Stanhope, Walden's former business partner who dates Bridget (seasons 9\u201310) Rebecca McFarland as Leanne, Pavlov's bartender (seasons 1\u201310) Robert Wagner as Nathan Krunk (alias \"Teddy Leopold\"), Evelyn's fifth husband, thought to be Courtney's father, but later revealed to be a con artist (seasons 4\u20135) Ryan Stiles as Herb Melnick, a pediatrician who becomes Judith's second ex-husband (seasons 2, 4\u201310, 12) Sophie Winkleman as Zoey Hyde-Tottingham-Pierce, Walden's love interest following his divorce from Bridget (seasons 9\u201310, 12) Talyan Wright as Ava Pierce, Zoey's seven-year-old daughter (seasons 9\u201310) Tinashe Kachingwe as Celeste Burnette, Jake's girlfriend whose father strongly disapproves of their relationship (seasons 6\u20137) Guest stars have included:  Aisha Tyler as an adoption lawyer to whom Walden goes when he wants a child (season 12, episode 1) Alicia Witt as Dolores Pasternak, Jake's teacher who becomes a stripper (season 6) Allison Janney as Beverly, Alan's online dating partner (season 4) Amy Hill as Mrs. Wiggins, Alan's receptionist after Melissa leaves him (season 7) Annie Potts as Lenore, mother of Judith and Liz (season 7) Arnold Schwarzenegger as Lieutenant Wagner (\"Of Course He's Dead\", series finale) Brad Paisley as Gretchen Martin's fianc\u00e9, before she broke it off to date Alan [real-life husband of Kimberly Williams-Paisley, who played Gretchen]",
@@ -3140,7 +3140,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Willie Mays ended his career playing for New York.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Willie Mays_895",
                 "text": "Willie Howard Mays Jr. (born May 6, 1931), nicknamed \"The Say Hey Kid\", is an American former professional baseball center fielder, who spent almost all of his 22-season Major League Baseball (MLB) career playing for the New York/San Francisco Giants, before finishing with the New York Mets.",
@@ -3157,7 +3157,7 @@
                 "score": 168.11377831324256
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Willie Mays_895",
                 "text": "Willie Howard Mays Jr. (born May 6, 1931), nicknamed \"The Say Hey Kid\", is an American former professional baseball center fielder, who spent almost all of his 22-season Major League Baseball (MLB) career playing for the New York/San Francisco Giants, before finishing with the New York Mets.",
@@ -3202,7 +3202,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Nicholas and Alexandra is a novel by Robert Massie",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Nicholas and Alexandra_87",
                 "text": "Nicholas and Alexandra is a 1971 British biographical film directed by Franklin J. Schaffner and written by James Goldman, based on Robert K. Massie's 1967 book of the same name, which is a partial account of the last ruling Russian monarch, Tsar Nicholas II of Russia, and his wife, Tsarina Alexandra.",
@@ -3219,7 +3219,7 @@
                 "score": 42.26735586578641
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Nicholas and Alexandra_87",
                 "text": "Nicholas and Alexandra is a 1971 British biographical film directed by Franklin J. Schaffner and written by James Goldman, based on Robert K. Massie's 1967 book of the same name, which is a partial account of the last ruling Russian monarch, Tsar Nicholas II of Russia, and his wife, Tsarina Alexandra.",
@@ -3265,7 +3265,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "There are two entrances on the bridge for pedestritians on each side.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Brooklyn Bridge_90",
                 "text": "There are two entrances to the bridge's pedestrian promenade on either side.",
@@ -3282,7 +3282,7 @@
                 "score": 59.01186668129648
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Brooklyn Bridge_90",
                 "text": "There are two entrances to the bridge's pedestrian promenade on either side.",
@@ -3328,7 +3328,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Alexandre C\u00e9sar L\u00e9opold Bizet is from the southern coastal town of France, Marseilles.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Georges Bizet_388",
                 "text": "Georges Bizet (25 October 1838 \u2013 3 June 1875), registered at birth as Alexandre C\u00e9sar L\u00e9opold Bizet, was a French composer of the Romantic era.",
@@ -3345,7 +3345,7 @@
                 "score": 40.04085609834103
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Georges Bizet_388",
                 "text": "Georges Bizet (25 October 1838 \u2013 3 June 1875), registered at birth as Alexandre C\u00e9sar L\u00e9opold Bizet, was a French composer of the Romantic era.",
@@ -3396,7 +3396,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "American baseball player Grover Cleveland Alexander suffered from PTSD from his involvement in the Vietnam War.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Grover Cleveland Alexander_92",
                 "text": "Following his return from the war, Alexander suffered from shell shock and was plagued with epileptic seizures, which only exacerbated his drinking problem.",
@@ -3413,7 +3413,7 @@
                 "score": 87.26638940333783
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Grover Cleveland Alexander_92",
                 "text": "Following his return from the war, Alexander suffered from shell shock and was plagued with epileptic seizures, which only exacerbated his drinking problem.",
@@ -3459,7 +3459,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Alexander was referred to as \"Old Pete\".",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Grover Cleveland Alexander_94",
                 "text": "On his 1940 Playball baseball card he was referred to as \"Ol' Pete.\" In The World Series and Highlights of Baseball, by Lamont Buchanan, published in 1951, the year after Alexander died, on pp.",
@@ -3476,7 +3476,7 @@
                 "score": 71.38030306173746
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Grover Cleveland Alexander_591",
                 "text": "Grover Cleveland Alexander (February 26, 1887 \u2013 November 4, 1950), nicknamed \"Old Pete\", was an American Major League Baseball pitcher.",
@@ -3522,7 +3522,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "\"The Open Boat\" is non-fiction written by Crane.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Open Boat_1063",
                 "text": "The Open Boat\" is a short story by American author Stephen Crane (1871\u20131900).",
@@ -3539,7 +3539,7 @@
                 "score": 138.87344294212258
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Open Boat_1063",
                 "text": "The Open Boat\" is a short story by American author Stephen Crane (1871\u20131900).",
@@ -3585,7 +3585,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "The novel is about a well liked school teacher and set at Brookfield School, a real English boarding school in Derbyshire.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Goodbye, Mr. Chips_12",
                 "text": "The novella tells the story of a beloved school teacher, Mr Chipping, and his long tenure at Brookfield School, a fictional minor British boys' public boarding school located in the fictional village of Brookfield, in the Fenlands.",
@@ -3602,7 +3602,7 @@
                 "score": 110.04531813204628
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Goodbye, Mr. Chips_12",
                 "text": "The novella tells the story of a beloved school teacher, Mr Chipping, and his long tenure at Brookfield School, a fictional minor British boys' public boarding school located in the fictional village of Brookfield, in the Fenlands.",
@@ -3649,7 +3649,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "John Keats's work was so influential that it affected many famous poets and writers after him.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Ode to a Nightingale_10095",
                 "text": "Ode to a Nightingale\" is a poem by John Keats written either in the garden of the Spaniards Inn, Hampstead, London or, according to Keats' friend Charles Armitage Brown, under a plum tree in the garden of Keats' house at Wentworth Place, also in Hampstead.",
@@ -3666,7 +3666,7 @@
                 "score": 132.51068042112828
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Ode to a Nightingale_10095",
                 "text": "Ode to a Nightingale\" is a poem by John Keats written either in the garden of the Spaniards Inn, Hampstead, London or, according to Keats' friend Charles Armitage Brown, under a plum tree in the garden of Keats' house at Wentworth Place, also in Hampstead.",
@@ -3711,7 +3711,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "The Black Hawk War dates to the early 1800s",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Black Hawk War_1330",
                 "text": "The war erupted soon after Black Hawk and a group of Sauks, Meskwakis, and Kickapoos, known as the \"British Band\", crossed the Mississippi River, into the U.S. state of Illinois, from Iowa Indian Territory in April 1832.",
@@ -3728,7 +3728,7 @@
                 "score": 183.88502238673283
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Black Hawk War_110",
                 "text": "The war erupted soon after Black Hawk and a group of Sauks, Meskwakis, and Kickapoos, known as the \"British Band\", crossed the Mississippi River, into the U.S. state of Illinois, from Iowa Indian Territory in April 1832.",
@@ -3774,7 +3774,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Gautama Buddha lived in Ancient India and Egypt.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Gautama Buddha_100",
                 "text": "These texts contain descriptions of the culture and daily life of ancient India which can be corroborated from the Jain scriptures, and make the Buddha's time the earliest period in Indian history for which significant accounts exist.",
@@ -3791,7 +3791,7 @@
                 "score": 64.09958223173388
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Gautama Buddha_100",
                 "text": "These texts contain descriptions of the culture and daily life of ancient India which can be corroborated from the Jain scriptures, and make the Buddha's time the earliest period in Indian history for which significant accounts exist.",
@@ -3836,7 +3836,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Inglorious Basterds was released in the summer of 2009.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Inglourious Basterds_101",
                 "text": "It premiered on May 20, 2009, at the 62nd Cannes Film Festival, and received a wide release in theaters in the United States and Europe in August 2009 by The Weinstein Company and Universal Pictures.",
@@ -3853,7 +3853,7 @@
                 "score": 124.04047206168268
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Inglourious Basterds_101",
                 "text": "It premiered on May 20, 2009, at the 62nd Cannes Film Festival, and received a wide release in theaters in the United States and Europe in August 2009 by The Weinstein Company and Universal Pictures.",
@@ -3903,7 +3903,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Wuthering Heights is probably not actually meant to be read as a romantic story.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Wuthering Heights_103",
                 "text": "intent\". While a \"passionate, doomed, death-transcending relationship between Heathcliff and Catherine Earnshaw Linton forms the core of the novel\", Wuthering Heights consistently subverts the romantic narrative.",
@@ -3920,7 +3920,7 @@
                 "score": 75.6177426701327
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Wuthering Heights_103",
                 "text": "intent\". While a \"passionate, doomed, death-transcending relationship between Heathcliff and Catherine Earnshaw Linton forms the core of the novel\", Wuthering Heights consistently subverts the romantic narrative.",
@@ -3967,7 +3967,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Most Moai have feet, which are just hard to see because they're buried.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Moai_619",
                 "text": "Moai  (listen), or mo\ua78cai (Spanish: mo\u00e1i, meaning \"statue\" in the local language), are monolithic human figures carved by the Rapa Nui people on Easter Island in eastern Polynesia between the years 1250 and 1500.",
@@ -3984,7 +3984,7 @@
                 "score": 84.24741903718439
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Brooklyn Bridge_367",
                 "text": "The Manhattan side's caisson is slightly larger, measuring 172 by 102 feet (52 by 31 m) and located 78.5 feet (23.9 m) below high water, while the Brooklyn side's caisson measures 168 by 102 feet (51 by 31 m) and is located 44.5 feet (13.6 m) below high water.",
@@ -4031,7 +4031,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Thomas Gray wanted Elegy Written in a Country Churchyard to be first published in Harper's Bazaar.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Elegy Written in a Country Churchyard_1625",
                 "text": "Elegy Written in a Country Churchyard is a poem by Thomas Gray, completed in 1750 and first published in 1751.",
@@ -4048,7 +4048,7 @@
                 "score": 58.675078658643514
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Elegy Written in a Country Churchyard_1625",
                 "text": "Elegy Written in a Country Churchyard is a poem by Thomas Gray, completed in 1750 and first published in 1751.",
@@ -4094,7 +4094,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Charles Comiskey was owner of the Chicago White Sox MLB team and the Chicago Black Sox minor league team.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Michael Jordan_14573",
                 "text": "Jordan then further surprised the sports world by signing a Minor League Baseball contract with the Chicago White Sox on February 7, 1994.",
@@ -4111,7 +4111,7 @@
                 "score": 107.5958591652681
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Charles Comiskey_107",
                 "text": "Comiskey's reputation was permanently tarnished by his team's involvement in the Black Sox Scandal, although he was inducted as an executive into the Baseball Hall of Fame in 1939.",
@@ -4158,7 +4158,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Twice-Told Tales has been adapted into a movie.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Twice-Told Tales_1651",
                 "text": "The title, Twice-Told Tales, was based on a line from William Shakespeare's The Life and Death of King John (Act 3, scene 4): \"Life is as tedious as a twice-told tale, / Vexing the dull ear of a drowsy man.",
@@ -4175,7 +4175,7 @@
                 "score": 55.34787679545415
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Twice-Told Tales_1651",
                 "text": "The title, Twice-Told Tales, was based on a line from William Shakespeare's The Life and Death of King John (Act 3, scene 4): \"Life is as tedious as a twice-told tale, / Vexing the dull ear of a drowsy man.",
@@ -4221,7 +4221,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Black Hawk War was a war between the Black Hawk Tribe with the Sauks, Meskwakis and the Cherokee against the United States.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Black Hawk War_110",
                 "text": "The war erupted soon after Black Hawk and a group of Sauks, Meskwakis, and Kickapoos, known as the \"British Band\", crossed the Mississippi River, into the U.S. state of Illinois, from Iowa Indian Territory in April 1832.",
@@ -4238,7 +4238,7 @@
                 "score": 113.2957741529678
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Black Hawk War_1330",
                 "text": "The war erupted soon after Black Hawk and a group of Sauks, Meskwakis, and Kickapoos, known as the \"British Band\", crossed the Mississippi River, into the U.S. state of Illinois, from Iowa Indian Territory in April 1832.",
@@ -4285,7 +4285,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Rebecca's body was buried in a cave when she died.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Rebecca_111",
                 "text": "Rebecca was buried in the cave in the field of Machpelah near Mamre, in the land of Canaan (Gen 49:31).",
@@ -4302,7 +4302,7 @@
                 "score": 115.02738923312123
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Rebecca_111",
                 "text": "Rebecca was buried in the cave in the field of Machpelah near Mamre, in the land of Canaan (Gen 49:31).",
@@ -4349,7 +4349,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Tom Petty's demise could be uncharitably attributed to inadequate follow-up medical care.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Tom Petty_270",
                 "text": "On January 19, 2018, the Los Angeles County Medical Examiner announced that Petty had died accidentally from mixed drug toxicity, a combination of fentanyl, oxycodone, acetylfentanyl and despropionyl fentanyl (all opioids); temazepam and alprazolam (both sedatives); and citalopram (an antidepressant).In a statement on his official website , Petty's wife and daughter said he had multiple medical problems, including emphysema, knee difficulties \"and most significantly a fractured hip\".",
@@ -4366,7 +4366,7 @@
                 "score": 189.3965870851186
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Tom Petty_270",
                 "text": "On January 19, 2018, the Los Angeles County Medical Examiner announced that Petty had died accidentally from mixed drug toxicity, a combination of fentanyl, oxycodone, acetylfentanyl and despropionyl fentanyl (all opioids); temazepam and alprazolam (both sedatives); and citalopram (an antidepressant).In a statement on his official website , Petty's wife and daughter said he had multiple medical problems, including emphysema, knee difficulties \"and most significantly a fractured hip\".",
@@ -4411,7 +4411,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The photon has no mass.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Photon_959",
                 "text": "Current commonly accepted physical theories imply or assume the photon to be strictly massless.",
@@ -4428,7 +4428,7 @@
                 "score": 37.38661441563121
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Photon_958",
                 "text": "}   . Similarly, the mass of a system that absorbs a photon is increased by a corresponding amount.",
@@ -4474,7 +4474,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Sons and Lovers is described as one of D.H Lawrence's best work.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Sons and Lovers_464",
                 "text": "While the novel initially received a lukewarm critical reception, along with allegations of obscenity, it is today regarded as a masterpiece by many critics and is often regarded as Lawrence's finest achievement.",
@@ -4491,7 +4491,7 @@
                 "score": 76.49101090534742
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Sons and Lovers_22",
                 "text": "While the novel initially received a lukewarm critical reception, along with allegations of obscenity, it is today regarded as a masterpiece by many critics and is often regarded as Lawrence's finest achievement.",
@@ -4538,7 +4538,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Deng Xiaoping was a politician for the People's Republic of China after Mao Zedong passed and his ancestors were Mexcians.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Deng Xiaoping_116",
                 "text": "Deng's ancestors can be traced back to Jiaying County (now renamed to Meixian), Guangdong, a prominent ancestral area for the Hakka people, and had settled in Sichuan for several generations.",
@@ -4555,7 +4555,7 @@
                 "score": 122.72055904707389
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Deng Xiaoping_81",
                 "text": "They had five children: three daughters (Deng Lin, Deng Nan and Deng Rong) and two sons (Deng Pufang and Deng Zhifang).",
@@ -4602,7 +4602,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "American baseball player Derek Jeter has been nicknamed \"Captain Clutch\" and is a consistent player.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Derek Jeter_117",
                 "text": "Jeter has earned the nicknames \"Captain Clutch\" and \"Mr. November\" due to his outstanding play in the postseason.",
@@ -4619,7 +4619,7 @@
                 "score": 197.28806319518225
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Derek Jeter_117",
                 "text": "Jeter has earned the nicknames \"Captain Clutch\" and \"Mr. November\" due to his outstanding play in the postseason.",
@@ -4665,7 +4665,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Clint Eastwood came up with the idea for the movie, Unforgiven, in 1990 when he was in poker tournament.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Unforgiven_1324",
                 "text": "Unforgiven is a 1992 American revisionist Western film produced and directed by Clint Eastwood and written by David Webb Peoples.",
@@ -4682,7 +4682,7 @@
                 "score": 86.63002217723093
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Unforgiven_1324",
                 "text": "Unforgiven is a 1992 American revisionist Western film produced and directed by Clint Eastwood and written by David Webb Peoples.",
@@ -4733,7 +4733,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Sir Arthur Seymour Sullivan's father was a bandmaster in the military.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Arthur Sullivan_119",
                 "text": "Sir Arthur Seymour Sullivan MVO (13 May 1842 \u2013 22 November 1900) was an English composer.",
@@ -4750,7 +4750,7 @@
                 "score": 144.7577043833669
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Arthur Sullivan_120",
                 "text": "The son of a military bandmaster, Sullivan composed his first anthem at the age of eight and was later a soloist in the boys' choir of the Chapel Royal.",
@@ -4798,7 +4798,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Since it's construction, Pantheon has been in use and therefore one of the most well maintained structures of all ancient Roman buildings.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Pantheon, Rome_121",
                 "text": "The height to the oculus and the diameter of the interior circle are the same, 43 metres (142 ft).It is one of the best-preserved of all Ancient Roman buildings, in large part because it has been in continuous use throughout its history and, since the 7th century, the Pantheon has been in use as a church dedicated to \"St. Mary and the Martyrs\" (Latin: Sancta Maria ad Martyres) but informally known as \"Santa Maria Rotonda\".",
@@ -4815,7 +4815,7 @@
                 "score": 56.37625476888354
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Pantheon, Rome_121",
                 "text": "The height to the oculus and the diameter of the interior circle are the same, 43 metres (142 ft).It is one of the best-preserved of all Ancient Roman buildings, in large part because it has been in continuous use throughout its history and, since the 7th century, the Pantheon has been in use as a church dedicated to \"St. Mary and the Martyrs\" (Latin: Sancta Maria ad Martyres) but informally known as \"Santa Maria Rotonda\".",
@@ -4862,7 +4862,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "White Fang, a novel by American author Jack London, ends with the wolf dog hybrid being suffocated.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Sea Wolf_6631",
                 "text": "Jack London's novel has been adapted for motion pictures: The Sea Wolf (1913), a silent motion picture starring Hobart Bosworth, with author Jack London appearing as an unnamed sailor",
@@ -4879,7 +4879,7 @@
                 "score": 81.46645633231446
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Sea Wolf_6399",
                 "text": "Jack London's novel has been adapted for motion pictures: The Sea Wolf (1913), a silent motion picture starring Hobart Bosworth, with author Jack London appearing as an unnamed sailor",
@@ -4930,7 +4930,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Allan Pinkerton, famous detective, soldier, and creator of the Pinkerton Agency, is commonly believed to have shed his mortal coil by falling over and biting the muscle in his mouth, causing a deadly infection.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Allan Pinkerton_124",
                 "text": "It is usually said that Pinkerton slipped on the pavement and bit his tongue, resulting in gangrene.",
@@ -4947,7 +4947,7 @@
                 "score": 127.72041662265829
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Allan Pinkerton_125",
                 "text": "Allan Pinkerton died in Chicago on July 1, 1884.",
@@ -4988,7 +4988,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Bridge on the River Kwai was a smash at the box offices in 1956.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "As Good as It Gets_1125",
                 "text": "As Good as It Gets was a box office hit, opening at number three at the box office (behind Titanic and Tomorrow Never Dies) with $12.6 million, and eventually earning over $148 million domestically and $314 million worldwide.",
@@ -5005,7 +5005,7 @@
                 "score": 99.86810259311237
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Bridge on the River Kwai_1511",
                 "text": "The Bridge on the River Kwai is a 1957 adventure epic war film directed by David Lean and based on the 1952 novel written by Pierre Boulle.",
@@ -5052,7 +5052,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "A religious person named Hugh is a character in the play.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "House (TV series)_4851",
                 "text": "The series's main character is Dr. Gregory House (Hugh Laurie), an unconventional, misanthropic medical genius who, despite his dependence on pain medication, leads a team of diagnosticians at the fictional Princeton\u2013Plainsboro Teaching Hospital (PPTH) in New Jersey.",
@@ -5069,7 +5069,7 @@
                 "score": 71.04067675143503
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Jessica Lange_6053",
                 "text": "I've never been a religious person.",
@@ -5120,7 +5120,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Clark Griffith was brought into this world in Missouri, not Illinois, Illinois was simply where they all lived afterwards.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Clark Griffith_128",
                 "text": "Griffith was born in Clear Creek, Missouri, to Isaiah and Sarah Anne Griffith.",
@@ -5137,7 +5137,7 @@
                 "score": 72.59762509160683
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Clark Griffith_128",
                 "text": "Griffith was born in Clear Creek, Missouri, to Isaiah and Sarah Anne Griffith.",
@@ -5189,7 +5189,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Buck lived for only a decade more after his retirement from baseball.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Harry Hooper_12504",
                 "text": "Following his retirement from baseball, Hooper lived in Capitola and opened a real estate firm.",
@@ -5206,7 +5206,7 @@
                 "score": 118.30339530331403
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Buck Ewing_5210",
                 "text": "William \"Buck\" Ewing (October 17, 1859 \u2013 October 20, 1906) was an American Major League Baseball player and manager.",
@@ -5256,7 +5256,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The movie has been rated negatively.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Mad Max: Fury Road_11675",
                 "text": "Both a PG-13 and R-rated version had been shown separately in different test screenings.",
@@ -5273,7 +5273,7 @@
                 "score": 78.73137979901621
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Credit Mobilier of America scandal_14982",
                 "text": "The scandal negatively affected the careers of many politicians and nearly bankrupted Union Pacific.",
@@ -5321,7 +5321,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Faust is about a Russian legend as he has to make a big choice about which path to take during a deal with the Devil.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Faust_135",
                 "text": "The erudite Faust is highly successful yet dissatisfied with his life, which leads him to make a pact with the Devil at a crossroads, exchanging his soul for unlimited knowledge and worldly pleasures.",
@@ -5338,7 +5338,7 @@
                 "score": 145.12274484579956
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Faust_135",
                 "text": "The erudite Faust is highly successful yet dissatisfied with his life, which leads him to make a pact with the Devil at a crossroads, exchanging his soul for unlimited knowledge and worldly pleasures.",
@@ -5389,7 +5389,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Twice-Told Tales is a short story collection in two volumes by Nathaniel Hawthorne, receiving genius reviews from Longfellow and Poe.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Twice-Told Tales_31",
                 "text": "Hawthorne wrote to him, \"We were not, it is true, so well acquainted at college, that I can plead an absolute right to inflict my 'twice-told' tediousness upon you; but I have often regretted that we were not better known.\" In his 14-page critique in the April issue of the North American Review, Longfellow praised the book as a work of genius.",
@@ -5406,7 +5406,7 @@
                 "score": 120.25063369720715
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Twice-Told Tales_136",
                 "text": "Hawthorne wrote to him, \"We were not, it is true, so well acquainted at college, that I can plead an absolute right to inflict my 'twice-told' tediousness upon you; but I have often regretted that we were not better known.\" In his 14-page critique in the April issue of the North American Review, Longfellow praised the book as a work of genius.",
@@ -5457,7 +5457,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "There have been many mockeries of The Girl with the Dragon Tattoo.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Girl with the Dragon Tattoo_1287",
                 "text": "The Girl with the Dragon Tattoo (original title in Swedish: M\u00e4n som hatar kvinnor, lit. '",
@@ -5474,7 +5474,7 @@
                 "score": 44.478794460163826
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Girl with the Dragon Tattoo_139",
                 "text": "The Girl with the Sandwich Tattoo: A cruel parody (2013) \u2013 Dragon Stiegsson",
@@ -5521,7 +5521,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Larry MacPhail was removed as President of Bowie Track after problems with methamphetamine abuse.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Larry MacPhail_140",
                 "text": "He held the position for thirteen months, until he was removed from the position and barred entirely from the track; he was accused of \"using profanity to three horse owners\" and \"charged with being drunk and disorderly.",
@@ -5538,7 +5538,7 @@
                 "score": 116.21503577537877
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Larry MacPhail_140",
                 "text": "He held the position for thirteen months, until he was removed from the position and barred entirely from the track; he was accused of \"using profanity to three horse owners\" and \"charged with being drunk and disorderly.",
@@ -5583,7 +5583,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Bizet is native of Marseille, France.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Georges Bizet_388",
                 "text": "Georges Bizet (25 October 1838 \u2013 3 June 1875), registered at birth as Alexandre C\u00e9sar L\u00e9opold Bizet, was a French composer of the Romantic era.",
@@ -5600,7 +5600,7 @@
                 "score": 65.78237806933478
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "France_11258",
                 "text": "In 600 BC, Ionian Greeks from Phocaea founded the colony of Massalia (present-day Marseille), on the shores of the Mediterranean Sea.",
@@ -5650,7 +5650,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Ken Griffey Jr. played for two baseball teams in the Majors, the Mariners and Reds.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Ken Griffey Jr._868",
                 "text": "Griffey was born in Donora, Pennsylvania, on November 21, 1969. (He shares a birthday with another Donora native and Hall-of-Famer, Stan Musial.) His family moved to Cincinnati, Ohio, where his father, Ken Griffey Sr., played for the Cincinnati Reds, when Ken Jr. was six years old.",
@@ -5667,7 +5667,7 @@
                 "score": 160.15801879680325
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Ken Griffey Jr._1100",
                 "text": "George Kenneth Griffey Jr. (born November 21, 1969) nicknamed \"Junior\" and \"the Kid\", is an American former professional baseball outfielder who played 22 years in Major League Baseball (MLB).",
@@ -5712,7 +5712,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The book's name was inspired by a literary work.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Don Quixote_8974",
                 "text": "A founding work of Western literature, it is often labeled \"the first modern novel\" and many authors consider it to be the best literary work ever written.",
@@ -5729,7 +5729,7 @@
                 "score": 41.45446607931303
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Dances with Wolves_3651",
                 "text": "It is a film adaptation of the 1988 book of the same name by Michael Blake that tells the story of Union Army lieutenant John J. Dunbar (Costner) who travels to the American frontier to find a military post and of his dealings with a group of Lakota.",
@@ -5776,7 +5776,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Charles ll was found to have died of a heart attack.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Bill Klem_719",
                 "text": "He died of a heart attack after suffering from heart problems for two to three years.",
@@ -5793,7 +5793,7 @@
                 "score": 102.48582655959581
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Shelley Winters_5768",
                 "text": "Joplin never did. Winters died at the age of 85 on January 14, 2006, of heart failure at the Rehabilitation Center of Beverly Hills; she had suffered a heart attack on October 14, 2005.",
@@ -5839,7 +5839,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "It is majorly used in the \"dry method\" to make fertilizers.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Sulfuric acid_148",
                 "text": "The major use for sulfuric acid is in the \"wet method\" for the production of phosphoric acid, used for manufacture of phosphate fertilizers.",
@@ -5856,7 +5856,7 @@
                 "score": 108.16407411278911
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Sulfuric acid_148",
                 "text": "The major use for sulfuric acid is in the \"wet method\" for the production of phosphoric acid, used for manufacture of phosphate fertilizers.",
@@ -5906,7 +5906,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Enos Slaughter was in the Majors for over 18 seasons and a Hall of Famer.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Enos Slaughter_688",
                 "text": "Enos Bradsher Slaughter (April 27, 1916 \u2013 August 12, 2002), nicknamed \"Country\", was an American Major League Baseball (MLB) right fielder.",
@@ -5923,7 +5923,7 @@
                 "score": 153.7986609785956
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Enos Slaughter_924",
                 "text": "Enos Bradsher Slaughter (April 27, 1916 \u2013 August 12, 2002), nicknamed \"Country\", was an American Major League Baseball (MLB) right fielder.",
@@ -5971,7 +5971,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "James VI and I was King of Scotland as James VI from 24 July 1567 and King of England and Ireland as James I from the union of the Scottish and English crowns on 24 March 1603 until his death in 1625, in which he succeeded to the Scottish throne at the age of thirteen.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "James VI and I_1516",
                 "text": "James VI and I (James Charles Stuart; 19 June 1566 \u2013 27 March 1625) was King of Scotland as James VI from 24 July 1567 and King of England and Ireland as James I from the union of the Scottish and English crowns on 24 March 1603 until his death in 1625.",
@@ -5988,7 +5988,7 @@
                 "score": 135.46472175287025
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "James VI and I_1516",
                 "text": "James VI and I (James Charles Stuart; 19 June 1566 \u2013 27 March 1625) was King of Scotland as James VI from 24 July 1567 and King of England and Ireland as James I from the union of the Scottish and English crowns on 24 March 1603 until his death in 1625.",
@@ -6035,7 +6035,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Pope Gregory XIII had a kid.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Pope Gregory XIII_1150",
                 "text": "Pope Gregory XIII is best known for his commissioning of what is now known as the Gregorian calendar after being initially authored by the doctor/astronomer Aloysius Lilius and with the aid of Jesuit priest/astronomer Christopher Clavius who made the final modifications.",
@@ -6052,7 +6052,7 @@
                 "score": 109.91427743198004
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Pope Gregory XIII_925",
                 "text": "Pope Gregory XIII is best known for his commissioning of what is now known as the Gregorian calendar after being initially authored by the doctor/astronomer Aloysius Lilius and with the aid of Jesuit priest/astronomer Christopher Clavius who made the final modifications.",
@@ -6099,7 +6099,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Battle of Lepanto is a painting by Juan Luna.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Song of the Lark_2620",
                 "text": "The title comes from a painting of the same name by Jules Breton in 1884 and part of the collection of the Art Institute of Chicago.",
@@ -6116,7 +6116,7 @@
                 "score": 70.41862747882489
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Battle of Lepanto_891",
                 "text": "The Battle of Lepanto was a naval engagement that took place on 7 October 1571 when a fleet of the Holy League, a coalition of European Catholic states arranged by Pope Pius V, inflicted a major defeat on the fleet of the Ottoman Empire in the Gulf of Patras.",
@@ -6164,7 +6164,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Puyi married Webxiu after selecting her photograph from a selection of females to chose from.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Puyi_431",
                 "text": "In March 1922, the Dowager Consorts decided that Puyi should be married, and gave him a selection of photographs of aristocratic teenage girls to choose from.",
@@ -6181,7 +6181,7 @@
                 "score": 215.38674691068513
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Puyi_431",
                 "text": "In March 1922, the Dowager Consorts decided that Puyi should be married, and gave him a selection of photographs of aristocratic teenage girls to choose from.",
@@ -6227,7 +6227,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Sullivan composed 2 ballets.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Arthur Sullivan_120",
                 "text": "The son of a military bandmaster, Sullivan composed his first anthem at the age of eight and was later a soloist in the boys' choir of the Chapel Royal.",
@@ -6244,7 +6244,7 @@
                 "score": 51.07864300178728
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Arthur Sullivan_162",
                 "text": "His works include 24 operas, 11 major orchestral works, ten choral works and oratorios, two ballets, incidental music to several plays, and numerous church pieces, songs, and piano and chamber pieces.",
@@ -6290,7 +6290,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Goodbye, Mr. Chips is a soap opera about a professor named Mr. Chippendale.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Goodbye, Mr. Chips_163",
                 "text": "Goodbye, Mr. Chips is a novella about the life of a schoolteacher, Mr. Chipping, written by the English writer James Hilton and first published by Hodder & Stoughton on October 1934.",
@@ -6307,7 +6307,7 @@
                 "score": 97.03835664404352
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Goodbye, Mr. Chips_1381",
                 "text": "Goodbye, Mr. Chips is a novella about the life of a schoolteacher, Mr. Chipping, written by the English writer James Hilton and first published by Hodder & Stoughton on October 1934.",
@@ -6352,7 +6352,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "The Clouds is a dramatic play.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Clouds_1190",
                 "text": "There is a famous story, as reported for example by Aelian, according to which Socrates cheerfully rose from his seat during the performance of The Clouds and stood in silent answer to the whispers among foreigners in the festival audience: \"Who is Socrates?\" Plato appears to have considered The Clouds a contributing factor in Socrates' trial and execution in 399 BC.",
@@ -6369,7 +6369,7 @@
                 "score": 103.1266112508206
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Clouds_663",
                 "text": "The Clouds (Ancient Greek: \u039d\u03b5\u03c6\u03ad\u03bb\u03b1\u03b9 Nephelai) is a Greek comedy play written by the playwright Aristophanes.",
@@ -6416,7 +6416,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Undertaker did think about becoming a professional basketball player.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Undertaker_167",
                 "text": "In 1986, Calaway dropped out of university to focus on a career in sports and briefly considered playing professional basketball in Europe, before deciding to focus on professional wrestling.",
@@ -6433,7 +6433,7 @@
                 "score": 208.49453629481383
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Undertaker_167",
                 "text": "In 1986, Calaway dropped out of university to focus on a career in sports and briefly considered playing professional basketball in Europe, before deciding to focus on professional wrestling.",
@@ -6481,7 +6481,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Ben-Hur (1959 film) earned over $90 million in worldwide theatrical rentals, with over $32.5 million in rentals earned in North America (about $72.2 million at the box office) for a worldwide total of $66.1 million in rental earnings, roughly equivalent to $146.9 million in box office receipts..",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Ben-Hur (1959 film)_169",
                 "text": "By 1989, Ben-Hur had earned $90 million in worldwide theatrical rentals.",
@@ -6498,7 +6498,7 @@
                 "score": 244.18745663316326
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Ben-Hur (1959 film)_169",
                 "text": "By 1989, Ben-Hur had earned $90 million in worldwide theatrical rentals.",
@@ -6550,7 +6550,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Jurassic World: Fallen Kingdom was filmed in England and Hawaii.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Alexander Cartwright_11657",
                 "text": "In Hawaii, sons Bruce Cartwright (1853\u20131919) and Alexander Joy Cartwright III (1855\u20131921) were born.",
@@ -6567,7 +6567,7 @@
                 "score": 145.61610505812558
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Star Wars: The Rise of Skywalker_12050",
                 "text": "Filming also took place in Wadi Rum, Jordan.",
@@ -6613,7 +6613,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Pyrrhus of Epirus never took over Sicily.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Pyrrhus of Epirus_1703",
                 "text": "After the inconclusive Battle of Beneventum in 275 BC, Pyrrhus decided to end his campaign in Italy and return to Epirus which resulted in the loss of essentially all the gains he had made in Italy.",
@@ -6630,7 +6630,7 @@
                 "score": 54.26227484202748
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Pyrrhus of Epirus_1703",
                 "text": "After the inconclusive Battle of Beneventum in 275 BC, Pyrrhus decided to end his campaign in Italy and return to Epirus which resulted in the loss of essentially all the gains he had made in Italy.",
@@ -6682,7 +6682,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Remembrance of Things Past was first published in Italian.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Remembrance of Things Past_1510",
                 "text": "the Scotsman C. K. Scott Moncrieff  under the title Remembrance of Things Past, a phrase taken from Shakespeare's Sonnet 30; this was the first translation of the Recherche into another language.",
@@ -6699,7 +6699,7 @@
                 "score": 58.7544093586857
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Remembrance of Things Past_321",
                 "text": "In Search of Lost Time (French: \u00c0 la recherche du temps perdu), also translated as Remembrance of Things Past, is a novel in seven volumes by Marcel Proust (1871\u20131922).",
@@ -6745,7 +6745,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Lincoln released a heart felt remark regarding Roger B. Taney's passing.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Roger B. Taney_174",
                 "text": "President Lincoln made no public statement in response to Taney's death.",
@@ -6762,7 +6762,7 @@
                 "score": 71.17029828434191
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Roger B. Taney_174",
                 "text": "President Lincoln made no public statement in response to Taney's death.",
@@ -6808,7 +6808,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "There is no movie adapation of the novel.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Hunger Games_12221",
                 "text": "By the time the film adaptation of The Hunger Games was released in 2012, the publisher had reported over 26 million Hunger Games trilogy books in print, including movie tie-in books.",
@@ -6825,7 +6825,7 @@
                 "score": 28.419432526548608
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Girl with the Dragon Tattoo_258",
                 "text": "Men Who Hate Women') is a psychological thriller novel by Swedish author and journalist Stieg Larsson (1954\u20132004), which was published posthumously in 2005 to become an international bestseller.",
@@ -6872,7 +6872,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Faust legend has inspired many masterpieces.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Hector Berlioz_5891",
                 "text": "His output includes orchestral works such as the Symphonie fantastique and Harold in Italy, choral pieces including the Requiem and L'Enfance du Christ, his three operas Benvenuto Cellini, Les Troyens and B\u00e9atrice et B\u00e9n\u00e9dict, and works of hybrid genres such as the \"dramatic symphony\" Rom\u00e9o et Juliette and the \"dramatic legend\" La Damnation de Faust.",
@@ -6889,7 +6889,7 @@
                 "score": 207.9928227479763
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Faust_176",
                 "text": "The Faust legend has been the basis for many literary, artistic, cinematic, and musical works that have reinterpreted it through the ages.",
@@ -6936,7 +6936,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The 1861 novel Silas Marner: The Weaver of Raveloe has spawned five films.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Silas Marner_788",
                 "text": "At least five film adaptations of Silas Marner were released during the silent film era, including the following: Silas Marner (Thanhouser Film Corporation, USA; 31 March 1911) with Frank Hall Crane in the title role.",
@@ -6953,7 +6953,7 @@
                 "score": 102.96558679223949
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Silas Marner_177",
                 "text": "At least five film adaptations of Silas Marner were released during the silent film era, including the following: Silas Marner (Thanhouser Film Corporation, USA; 31 March 1911) with Frank Hall Crane in the title role.",
@@ -6998,7 +6998,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Johnny Depp's ancestry includes African-American.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Johnny Depp_242",
                 "text": "In interviews in 2002 and 2011, Depp claimed to have Native American ancestry, stating, \"I guess I have some Native American somewhere down the line.",
@@ -7015,7 +7015,7 @@
                 "score": 100.04870410953764
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Marcus Garvey_11562",
                 "text": "In the context of colonial Jamaican society, which had a colourist social hierarchy, Garvey was considered at the lowest end, being a black child who believed he was of full African ancestry; later genetic research nevertheless revealed that he had some Iberian ancestors.",
@@ -7062,7 +7062,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Maroon 5's genre has been identified as many things, including with a particular ocular hue, for some reason.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Maroon 5_179",
                 "text": "Maroon 5's musical style has generally been regarded as pop, pop rock, funk rock, dance-pop, blue-eyed soul, neo soul, R&B, and soft rock.",
@@ -7079,7 +7079,7 @@
                 "score": 196.46659225220253
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Maroon 5_179",
                 "text": "Maroon 5's musical style has generally been regarded as pop, pop rock, funk rock, dance-pop, blue-eyed soul, neo soul, R&B, and soft rock.",
@@ -7130,7 +7130,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The decrees of the Council of Trent saw enforcement by French clergy from the Catholic Church.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Council of Trent_909",
                 "text": "The Council of Trent (Latin: Concilium Tridentinum), held between 1545 and 1563 in Trent (or Trento, in northern Italy), was the 19th ecumenical council of the Catholic Church.",
@@ -7147,7 +7147,7 @@
                 "score": 94.91151982896535
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Council of Trent_816",
                 "text": "The Council of Trent (Latin: Concilium Tridentinum), held between 1545 and 1563 in Trent (or Trento, in northern Italy), was the 19th ecumenical council of the Catholic Church.",
@@ -7199,7 +7199,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Pride and Prejudice was written over three centuries ago by Jane Austin and continues to be known as one of the top books ever written.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Pride and Prejudice_183",
                 "text": "In a 2008 survey of more than 15,000 Australian readers, Pride and Prejudice came first in a list of the 101 best books ever written.",
@@ -7216,7 +7216,7 @@
                 "score": 212.09847069443506
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Pride and Prejudice_183",
                 "text": "In a 2008 survey of more than 15,000 Australian readers, Pride and Prejudice came first in a list of the 101 best books ever written.",
@@ -7262,7 +7262,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Naruto's manga came out in the 90s.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Naruto_184",
                 "text": "The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997).",
@@ -7279,7 +7279,7 @@
                 "score": 74.82885947182243
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Naruto_184",
                 "text": "The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997).",
@@ -7325,7 +7325,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Nichols died of a heart attack.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Biz Mackey_1009",
                 "text": "Through the 1990s, reference sources widely reported his death as having occurred in 1959; this seems to have resulted from Campanella's recollection in John B. Holway's 1988 book Blackball Stars that Mackey \"passed away right after\" the Coliseum event, an apparent error that Campanella repeated in other interviews.",
@@ -7342,7 +7342,7 @@
                 "score": 101.518273418728
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Cool Papa Bell_11128",
                 "text": "Bell was born May 17, 1903, in Starkville, Mississippi to Jonas Bell and Mary Nichols.",
@@ -7389,7 +7389,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The book Twenty Years After discusses a number of events in France and England.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Cymbeline_4564",
                 "text": "Cymbeline, the Roman Empire's vassal king of Britain, once had two sons, Guiderius and Arvirargus, but they were stolen twenty years earlier as infants by an exiled traitor named Belarius.",
@@ -7406,7 +7406,7 @@
                 "score": 82.72560297461861
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Twenty Years After_372",
                 "text": "D'Artagnan, who seemed to have a promising career ahead of him at the end of The Three Musketeers, has for twenty years remained a lieutenant, and seems unlikely to progress despite his ambition and the debt the queen owes him.",
@@ -7458,7 +7458,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Olmecs were located in the Northern part of America.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Olmec_189",
                 "text": "The Olmecs () were the earliest known major Mesoamerican civilization.",
@@ -7475,7 +7475,7 @@
                 "score": 58.675078658643514
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Olmec_189",
                 "text": "The Olmecs () were the earliest known major Mesoamerican civilization.",
@@ -7520,7 +7520,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Charlie Parker is an American musician.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Charlie Parker_584",
                 "text": "Charlie Parker Jr. was born in Kansas City, Kansas at 852 Freeman Avenue, and raised in Kansas City, Missouri near Westport and later \u2013 in high school \u2013 near 15th and Olive Street.",
@@ -7537,7 +7537,7 @@
                 "score": 60.64844778028368
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Charlie Parker_584",
                 "text": "Charlie Parker Jr. was born in Kansas City, Kansas at 852 Freeman Avenue, and raised in Kansas City, Missouri near Westport and later \u2013 in high school \u2013 near 15th and Olive Street.",
@@ -7585,7 +7585,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Peasants' Revolt was a major uprising across large parts of England in 1381 influenced by various causes, including the socio-economic and political tensions generated by the Black Death pandemic in the 1340s, the high taxes resulting from the conflict with France during the Hundred Years' War, and instability within the local leadership of London",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Peasants' Revolt_530",
                 "text": "The revolt had various causes, including the socio-economic and political tensions generated by the Black Death pandemic in the 1340s, the high taxes resulting from the conflict with France during the Hundred Years' War, and instability within the local leadership of London.",
@@ -7602,7 +7602,7 @@
                 "score": 69.5951995842363
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Peasants' Revolt_531",
                 "text": "The Peasants' Revolt, also named Wat Tyler's Rebellion or the Great Rising, was a major uprising across large parts of England in 1381.",
@@ -7648,7 +7648,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Richard II was a Spanish Monarch.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Richard II_196",
                 "text": "Richard II (6 January 1367 \u2013 c. 14 February 1400), also known as Richard of Bordeaux, was King of England from 1377 until he was deposed in 1399.",
@@ -7665,7 +7665,7 @@
                 "score": 85.12100608624908
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "AEthelred the Unready_1339",
                 "text": "\u00c6thelred married Emma of Normandy, sister of Richard II, Duke of Normandy.",
@@ -7716,7 +7716,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Silas Marner was a novel about a thief in a church.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Silas Marner_634",
                 "text": "At least five film adaptations of Silas Marner were released during the silent film era, including the following: Silas Marner (Thanhouser Film Corporation, USA; 31 March 1911) with Frank Hall Crane in the title role.",
@@ -7733,7 +7733,7 @@
                 "score": 90.98358771728783
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Silas Marner_883",
                 "text": "Silas Marner, a weaver, is a member of a small Calvinist congregation in Lantern Yard, a slum street in Northern England.",
@@ -7784,7 +7784,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The tale of Genji, even if not the oldest novel, is definitely the oldest illustrated novel.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Tale of Genji_1235",
                 "text": "The Tale of Genji (\u6e90\u6c0f\u7269\u8a9e, Genji monogatari, pronounced [\u0261e\u0272d\u0291i mono\u0261a\ua71cta\u027ei]) is a classic work of Japanese literature written in the early 11th century by the noblewoman and lady-in-waiting Murasaki Shikibu.",
@@ -7801,7 +7801,7 @@
                 "score": 76.52924073415966
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Tale of Genji_1235",
                 "text": "The Tale of Genji (\u6e90\u6c0f\u7269\u8a9e, Genji monogatari, pronounced [\u0261e\u0272d\u0291i mono\u0261a\ua71cta\u027ei]) is a classic work of Japanese literature written in the early 11th century by the noblewoman and lady-in-waiting Murasaki Shikibu.",
@@ -7846,7 +7846,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "There have been more than 50 translations of the Jabberwocky.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Kalevala_3291",
                 "text": "Of the few complete translations into English, it is only the older translations by John Martin Crawford (1888) and William Forsell Kirby (1907) which attempt to strictly follow the original (Kalevala metre) of the poems.",
@@ -7863,7 +7863,7 @@
                 "score": 44.11215913042909
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Jabberwocky_389",
                 "text": "Jabberwocky\" has been translated into numerous languages, as the novel has been translated into 65 languages.",
@@ -7912,7 +7912,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Iliad is dedicated to Zeus.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Statue of Zeus at Olympia_15378",
                 "text": "The statue of Zeus was commissioned by the Eleans, custodians of the Olympic Games, in the latter half of the fifth century BC for their newly constructed Temple of Zeus.",
@@ -7929,7 +7929,7 @@
                 "score": 37.019852918883835
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Iliad_681",
                 "text": "The Iliad (; Ancient Greek: \u1f38\u03bb\u03b9\u03ac\u03c2, Ili\u00e1s, Attic Greek pronunciation: [i\u02d0.li.\u00e1s]; sometimes referred to as the Song of Ilion or Song of Ilium) is an ancient Greek epic poem in dactylic hexameter, traditionally attributed to Homer.",
@@ -7976,7 +7976,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Fingers grew the moustache to be stylish and he had to shave his long beard off.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Rollie Fingers_207",
                 "text": "In addition to his pitching ability, Fingers was noted for his waxed handlebar moustache, which he originally grew to get a $300 bonus from Athletics owner Charles O. Finley.",
@@ -7993,7 +7993,7 @@
                 "score": 88.0418378590331
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Rollie Fingers_207",
                 "text": "In addition to his pitching ability, Fingers was noted for his waxed handlebar moustache, which he originally grew to get a $300 bonus from Athletics owner Charles O. Finley.",
@@ -8046,7 +8046,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Brooklyn Bridge planning began as early as 1800 to avoid having to use ferry lines.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Brooklyn Bridge_208",
                 "text": "Proposals for a bridge between the then-separate cities of Brooklyn and New York had been suggested as early as 1800.",
@@ -8063,7 +8063,7 @@
                 "score": 138.81539831730973
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Brooklyn Bridge_208",
                 "text": "Proposals for a bridge between the then-separate cities of Brooklyn and New York had been suggested as early as 1800.",
@@ -8108,7 +8108,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The origins of Elegy Written in a Country Churchyard are not known.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Elegy Written in a Country Churchyard_1625",
                 "text": "Elegy Written in a Country Churchyard is a poem by Thomas Gray, completed in 1750 and first published in 1751.",
@@ -8125,7 +8125,7 @@
                 "score": 52.058677564130086
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Elegy Written in a Country Churchyard_1625",
                 "text": "Elegy Written in a Country Churchyard is a poem by Thomas Gray, completed in 1750 and first published in 1751.",
@@ -8170,7 +8170,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "All's Well That Ends Well is about the countess Helena.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "All's Well That Ends Well_211",
                 "text": "Helena, the low-born ward of a French-Spanish countess, is in love with the countess's son Bertram, who is indifferent to her.",
@@ -8187,7 +8187,7 @@
                 "score": 87.42525370583057
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "All's Well That Ends Well_211",
                 "text": "Helena, the low-born ward of a French-Spanish countess, is in love with the countess's son Bertram, who is indifferent to her.",
@@ -8239,7 +8239,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "McCartney's now wife is much older than him.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Paul McCartney_212",
                 "text": "Shevell is about 18 years younger than McCartney.",
@@ -8256,7 +8256,7 @@
                 "score": 50.52593494183299
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Paul McCartney_212",
                 "text": "Shevell is about 18 years younger than McCartney.",
@@ -8302,7 +8302,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Boston is ranked as one of the richest towns in the world.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Phil Knight_8100",
                 "text": "As of July 23, 2020, Knight was ranked by Forbes as the 26th richest person in the world, with an estimated net worth of US$39.2 billion.",
@@ -8319,7 +8319,7 @@
                 "score": 163.13959510902623
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Phil Knight_8542",
                 "text": "As of October 2019, Knight was ranked by Forbes as the 21st richest person in the world, with an estimated net worth of US$37.6 billion.",
@@ -8366,7 +8366,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Georges Bizet was a poor student, expelled from the conservatory at Rueil-Malmaison before he was 17.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Charlie Chaplin_11800",
                 "text": "Chaplin's childhood in London was one of poverty and hardship, as his father was absent and his mother struggled financially, and he was sent to a workhouse twice before the age of nine.",
@@ -8383,7 +8383,7 @@
                 "score": 87.17059157361365
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Georges Bizet_1171",
                 "text": "Georges Bizet (25 October 1838 \u2013 3 June 1875), registered at birth as Alexandre C\u00e9sar L\u00e9opold Bizet, was a French composer of the Romantic era.",
@@ -8429,7 +8429,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Earl Weaver never played in the Majors but did end up coaching.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Earl Weaver_1574",
                 "text": "A slick fielder but never much of a hitter, he worked his way up to the Texas League Houston Buffaloes (two steps below the majors) in 1951, though never made it to the big league club.",
@@ -8446,7 +8446,7 @@
                 "score": 37.367480467122746
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Earl Weaver_1574",
                 "text": "A slick fielder but never much of a hitter, he worked his way up to the Texas League Houston Buffaloes (two steps below the majors) in 1951, though never made it to the big league club.",
@@ -8493,7 +8493,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "They participated in a series of ads for a popular game.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Mariah Carey_6400",
                 "text": "In 2008, Carey performed in a New Year's Eve concert for the family of Libyan dictator Muammar Gaddafi, something she later claimed to \"feel horrible and embarrassed to have participated in.\" In March 2011, Carey's representative Cindi Berger stated that royalties for the song \" Save The Day\", which was written for her fourteenth studio album, would be donated to charities that create awareness to human rights issues to make amends for the Gadaffi error.",
@@ -8510,7 +8510,7 @@
                 "score": 273.2575680296469
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Mariah Carey_6400",
                 "text": "In 2008, Carey performed in a New Year's Eve concert for the family of Libyan dictator Muammar Gaddafi, something she later claimed to \"feel horrible and embarrassed to have participated in.\" In March 2011, Carey's representative Cindi Berger stated that royalties for the song \" Save The Day\", which was written for her fourteenth studio album, would be donated to charities that create awareness to human rights issues to make amends for the Gadaffi error.",
@@ -8556,7 +8556,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Not a single one of the officers that shot Bonnie and Clyde officially used the term \"Bust the cap\" in their statement!",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Bonnie and Clyde_218",
                 "text": "Hamer stated: \"I hate to bust the cap on a woman, especially when she was sitting down, however if it wouldn't have been her, it would have been us.\" Word of the deaths quickly got around when Hamer, Jordan, Oakley, and Hinton drove into town to telephone their respective bosses.",
@@ -8573,7 +8573,7 @@
                 "score": 109.52155992157385
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Bonnie and Clyde_218",
                 "text": "Hamer stated: \"I hate to bust the cap on a woman, especially when she was sitting down, however if it wouldn't have been her, it would have been us.\" Word of the deaths quickly got around when Hamer, Jordan, Oakley, and Hinton drove into town to telephone their respective bosses.",
@@ -8620,7 +8620,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "This is the sequel to the Three Musketeers in which the eponymous Musketeers meet again to join forces for the Queen.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Twenty Years After_372",
                 "text": "D'Artagnan, who seemed to have a promising career ahead of him at the end of The Three Musketeers, has for twenty years remained a lieutenant, and seems unlikely to progress despite his ambition and the debt the queen owes him.",
@@ -8637,7 +8637,7 @@
                 "score": 125.16120186292653
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Twenty Years After_372",
                 "text": "D'Artagnan, who seemed to have a promising career ahead of him at the end of The Three Musketeers, has for twenty years remained a lieutenant, and seems unlikely to progress despite his ambition and the debt the queen owes him.",
@@ -8687,7 +8687,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "No events can be held at the Pantheon of Rome.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Pantheon, Rome_121",
                 "text": "The height to the oculus and the diameter of the interior circle are the same, 43 metres (142 ft).It is one of the best-preserved of all Ancient Roman buildings, in large part because it has been in continuous use throughout its history and, since the 7th century, the Pantheon has been in use as a church dedicated to \"St. Mary and the Martyrs\" (Latin: Sancta Maria ad Martyres) but informally known as \"Santa Maria Rotonda\".",
@@ -8704,7 +8704,7 @@
                 "score": 76.52677494294605
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Pantheon, Rome_221",
                 "text": "The Pantheon is in use as a Catholic church.",
@@ -8756,7 +8756,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Award winning British actress Helen Mirren is known for her role in  Gosford Park and 10 other British films or television series as one of four to play the role of a Queen.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Helen Mirren_224",
                 "text": "During her career, she has portrayed three British queens in different films and television series: Queen Elizabeth I in the television series",
@@ -8773,7 +8773,7 @@
                 "score": 97.88411373006385
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Gosford Park_6731",
                 "text": "In November 1932, wealthy English industrialist Sir William McCordle, his wife Lady Sylvia, and their daughter Isobel host a weekend shooting party at their country estate, Gosford Park.",
@@ -8818,7 +8818,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Puyi was the 11th Emperor of the Qing dynasty.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Puyi_961",
                 "text": "Puyi (Chinese: \u6ea5\u5100; 7 February 1906 \u2013 17 October 1967) was the last Emperor of China as the twelfth and final Emperor of the Qing dynasty, China's last imperial dynasty.",
@@ -8835,7 +8835,7 @@
                 "score": 89.95893468482282
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Puyi_961",
                 "text": "Puyi (Chinese: \u6ea5\u5100; 7 February 1906 \u2013 17 October 1967) was the last Emperor of China as the twelfth and final Emperor of the Qing dynasty, China's last imperial dynasty.",
@@ -8880,7 +8880,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Charlie Parker is known for his tenor saxophone improvisations.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Charlie Parker_226",
                 "text": "Primarily a player of the alto saxophone, Bird's tone ranged from clean and penetrating to sweet and somber.",
@@ -8897,7 +8897,7 @@
                 "score": 67.84435336181397
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Charlie Parker_584",
                 "text": "Charlie Parker Jr. was born in Kansas City, Kansas at 852 Freeman Avenue, and raised in Kansas City, Missouri near Westport and later \u2013 in high school \u2013 near 15th and Olive Street.",
@@ -8943,7 +8943,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "There is a version of Pride and Prejudice with undead, and shinobi assassins.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Pride and Prejudice_1618",
                 "text": "In March 2009, Seth Grahame-Smith's Pride and Prejudice and Zombies takes Austen's work and mashes it up with zombie hordes, cannibalism, ninja  and ultraviolent mayhem.",
@@ -8960,7 +8960,7 @@
                 "score": 59.583320237988495
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Pride and Prejudice_1618",
                 "text": "In March 2009, Seth Grahame-Smith's Pride and Prejudice and Zombies takes Austen's work and mashes it up with zombie hordes, cannibalism, ninja  and ultraviolent mayhem.",
@@ -9006,7 +9006,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Hugh Jennings was English descent.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Sergeant York_2723",
                 "text": "The York family is mainly of English ancestry, with Scots-Irish ancestry as well.",
@@ -9023,7 +9023,7 @@
                 "score": 88.63021465985692
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Zack Wheat_10726",
                 "text": "His father was of English descent, and his mother was a full-blooded Cherokee.",
@@ -9074,7 +9074,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "In Israel the day of relaxation is Saturday and most people work on Sundays.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Israel_230",
                 "text": "Days of working time in Israel are Sunday through Thursday (for a five-day workweek), or Friday (for a six-day workweek).",
@@ -9091,7 +9091,7 @@
                 "score": 92.89711093440195
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Israel_229",
                 "text": "Work and school holidays are determined by the Jewish holidays, and the official day of rest is Saturday, the Jewish Sabbath.",
@@ -9138,7 +9138,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Hugh Jennings was a baseball player who played for the Orioles.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Hugh Jennings_1404",
                 "text": "Hugh Ambrose Jennings (April 2, 1869 \u2013 February 1, 1928) was an American professional baseball player, coach and manager from 1891 to 1925.",
@@ -9155,7 +9155,7 @@
                 "score": 141.2057588089969
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Hugh Jennings_1404",
                 "text": "Hugh Ambrose Jennings (April 2, 1869 \u2013 February 1, 1928) was an American professional baseball player, coach and manager from 1891 to 1925.",
@@ -9200,7 +9200,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Argentina national football team has won two World Cups.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Spain national football team_7761",
                 "text": "Spain are one of the eight national teams to have been crowned worldwide champions, having participated in a total of 15 of 21 FIFA World Cups and qualifying consistently since 1978.",
@@ -9217,7 +9217,7 @@
                 "score": 124.75766782164698
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Argentina national football team_1689",
                 "text": "The Argentina national football team (Spanish: Selecci\u00f3n de f\u00fatbol de Argentina) represents Argentina in men's international football and is administered by the Argentine Football Association, the governing body for football in Argentina.",
@@ -9265,7 +9265,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Hannah and Her Sisters movie occurs during a two year period.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Hannah and Her Sisters_1681",
                 "text": "Hannah and Her Sisters is a 1986 American comedy-drama film which tells the intertwined stories of an extended family over two years that begins and ends with a family Thanksgiving dinner.",
@@ -9282,7 +9282,7 @@
                 "score": 40.95471261158563
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Hannah and Her Sisters_520",
                 "text": "Hannah and Her Sisters is a 1986 American comedy-drama film which tells the intertwined stories of an extended family over two years that begins and ends with a family Thanksgiving dinner.",
@@ -9332,7 +9332,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Faust is an uninterested and unhappy intellectual who tried to kill himself.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Faust_135",
                 "text": "The erudite Faust is highly successful yet dissatisfied with his life, which leads him to make a pact with the Devil at a crossroads, exchanging his soul for unlimited knowledge and worldly pleasures.",
@@ -9349,7 +9349,7 @@
                 "score": 121.49968231021893
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Faust_780",
                 "text": "He makes a bargain with Faust: Mephistopheles will serve Faust with his magic powers for a set number of years, but at the end of the term, the Devil will claim Faust's soul, and Faust will be eternally enslaved.",
@@ -9399,7 +9399,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Lord of the Flies is a novel influencing the stigma of unseen characters to appear as a normal event because of the book's Pulitzer prize win.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Lord of the Flies_550",
                 "text": "Lord of the Flies is a 1954 novel by Nobel Prize-winning British author William Golding.",
@@ -9416,7 +9416,7 @@
                 "score": 89.51230898987785
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Lord of the Flies_238",
                 "text": "Simon conducts an imaginary dialogue with the head, which he dubs the \"Lord of the Flies\".",
@@ -9461,7 +9461,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Meji Restoration did nor contribute to the improvement of the rising sun country.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Great Wall of China_6397",
                 "text": "He associated it with the legend of the wall mentioned in the Qur'an, which Dhul-Qarnayn (commonly associated with Alexander the Great) was said to have erected to protect people near the land of the rising sun from the savages of Gog and Magog.",
@@ -9478,7 +9478,7 @@
                 "score": 69.72321476711059
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Great Wall of China_6397",
                 "text": "He associated it with the legend of the wall mentioned in the Qur'an, which Dhul-Qarnayn (commonly associated with Alexander the Great) was said to have erected to protect people near the land of the rising sun from the savages of Gog and Magog.",
@@ -9525,7 +9525,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Johnny Depp claimed to have native Indian ancestry.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Johnny Depp_242",
                 "text": "In interviews in 2002 and 2011, Depp claimed to have Native American ancestry, stating, \"I guess I have some Native American somewhere down the line.",
@@ -9542,7 +9542,7 @@
                 "score": 106.19499732855857
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Johnny Depp_242",
                 "text": "In interviews in 2002 and 2011, Depp claimed to have Native American ancestry, stating, \"I guess I have some Native American somewhere down the line.",
@@ -9589,7 +9589,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Cat's Cradle is a satirical postmodern novel about the political climate after World War 2.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Cat's Cradle_1725",
                 "text": "Cat's Cradle is a satirical postmodern novel, with science fiction elements, by American writer Kurt Vonnegut.",
@@ -9606,7 +9606,7 @@
                 "score": 134.27041929100696
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Cat's Cradle_1725",
                 "text": "Cat's Cradle is a satirical postmodern novel, with science fiction elements, by American writer Kurt Vonnegut.",
@@ -9658,7 +9658,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Just after her father's death, Franklin was taught to read music from her grandmother.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Dave Brubeck_2585",
                 "text": "He could not read music during these early lessons, attributing this difficulty to poor eyesight, but \"faked\" his way through well enough that this deficiency went mostly unnoticed.",
@@ -9675,7 +9675,7 @@
                 "score": 100.4966548200859
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Dave Brubeck_2586",
                 "text": "Please go there. Stop wasting my time and yours.\" Later, Brubeck was nearly expelled when one of his professors discovered that he could not read music on sight.",
@@ -9722,7 +9722,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Dover beach is a novel.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Dover Beach_1066",
                 "text": "Dover Beach\" is a lyric poem by the English poet Matthew Arnold.",
@@ -9739,7 +9739,7 @@
                 "score": 102.39612061502112
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Dover Beach_247",
                 "text": "Dover Beach\" is a lyric poem by the English poet Matthew Arnold.",
@@ -9786,7 +9786,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "X-Men emerge in Marvel Comics.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "X-Men_1675",
                 "text": "Created by artist/co-writer Jack Kirby and writer Stan Lee, the characters first appeared in The X-Men #1 (September 1963) and formed one of the most recognizable and successful franchises of Marvel Comics, appearing in numerous books, television shows, films, and video games.",
@@ -9803,7 +9803,7 @@
                 "score": 168.08325614889387
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "X-Men_742",
                 "text": "The X-Men are a team of fictional mutant superheroes appearing in American comic books published by Marvel Comics.",
@@ -9849,7 +9849,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "The Tale of Genji was written by Shikibu and the orginal copy is in a safe.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Tale of Genji_1011",
                 "text": "The Tale of Genji (\u6e90\u6c0f\u7269\u8a9e, Genji monogatari, pronounced [\u0261e\u0272d\u0291i mono\u0261a\ua71cta\u027ei]) is a classic work of Japanese literature written in the early 11th century by the noblewoman and lady-in-waiting Murasaki Shikibu.",
@@ -9866,7 +9866,7 @@
                 "score": 77.82707261571707
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Tale of Genji_1617",
                 "text": "The original manuscript written by Murasaki Shikibu no longer exists.",
@@ -9912,7 +9912,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Duvall was in five of his own weddings.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Natalie Portman_4487",
                 "text": "The couple began dating in 2009, after having met while working together on the set of Black Swan, and wed in a Jewish ceremony held in Big Sur, California on August 4, 2012.",
@@ -9929,7 +9929,7 @@
                 "score": 54.20039757336741
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Robert Duvall_1055",
                 "text": "Duvall was born January 5, 1931, in San Diego, California, the son of Mildred Virginia (n\u00e9e Hart; 1901\u2013c. 1986), an amateur actress, and William Howard Duvall (1904\u20131984), a Virginia-born U.S. Navy rear admiral.",
@@ -9976,7 +9976,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Hadrian believed that citizens who believed in Jesus should not be investigated for that belief alone, which was a progressive sort of thing to advocate, at the time.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Adolf Hitler_8272",
                 "text": "According to Speer, Hitler believed that Japanese religious beliefs or Islam would have been a more suitable religion for Germans than Christianity, with its \"meekness and flabbiness\".",
@@ -9993,7 +9993,7 @@
                 "score": 63.463255412642546
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Berlin Wall_14102",
                 "text": "Most people believed that the Wall was mainly a means of preventing the citizens of East Germany from entering or fleeing to West Berlin.",
@@ -10044,7 +10044,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Cleisthenes, an ancient Athenian lawgiver, had a big sculpture made.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Cleisthenes_1569",
                 "text": "Cleisthenes (; Greek: \u039a\u03bb\u03b5\u03b9\u03c3\u03b8\u03ad\u03bd\u03b7\u03c2, Kleisth\u00e9n\u0113s) was an ancient Athenian lawgiver credited with reforming the constitution of ancient Athens and setting it on a democratic footing in 508 BC.",
@@ -10061,7 +10061,7 @@
                 "score": 278.77129608904215
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Cleisthenes_1569",
                 "text": "Cleisthenes (; Greek: \u039a\u03bb\u03b5\u03b9\u03c3\u03b8\u03ad\u03bd\u03b7\u03c2, Kleisth\u00e9n\u0113s) was an ancient Athenian lawgiver credited with reforming the constitution of ancient Athens and setting it on a democratic footing in 508 BC.",
@@ -10109,7 +10109,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Israel has mountains, desert, and coastal lands.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Israel_256",
                 "text": "The total area under Israeli law, including East Jerusalem and the Golan Heights, is 22,072 square kilometers (8,522 sq mi), and the total area under Israeli control, including the military-controlled and partially Palestinian-governed territory of the West Bank, is 27,799 square kilometers (10,733 sq mi).Despite its small size, Israel is home to a variety of geographic features, from the Negev desert in the south to the inland fertile Jezreel Valley, mountain ranges of the Galilee, Carmel and toward the Golan in the north.",
@@ -10126,7 +10126,7 @@
                 "score": 134.65829982664883
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Israel_256",
                 "text": "The total area under Israeli law, including East Jerusalem and the Golan Heights, is 22,072 square kilometers (8,522 sq mi), and the total area under Israeli control, including the military-controlled and partially Palestinian-governed territory of the West Bank, is 27,799 square kilometers (10,733 sq mi).Despite its small size, Israel is home to a variety of geographic features, from the Negev desert in the south to the inland fertile Jezreel Valley, mountain ranges of the Galilee, Carmel and toward the Golan in the north.",
@@ -10173,7 +10173,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Sweden played a major role in World War II and fought with the Nazis because of their close relationship with Germany.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Sweden_257",
                 "text": "During the last year of the war, Sweden began to play a role in humanitarian efforts, and many refugees, among them several thousand Jews from Nazi-occupied Europe, were rescued thanks to the Swedish rescue missions to internment camps and partly because Sweden served as a haven for refugees, primarily from the Nordic countries and the Baltic states.",
@@ -10190,7 +10190,7 @@
                 "score": 124.41969386161753
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Sweden_257",
                 "text": "During the last year of the war, Sweden began to play a role in humanitarian efforts, and many refugees, among them several thousand Jews from Nazi-occupied Europe, were rescued thanks to the Swedish rescue missions to internment camps and partly because Sweden served as a haven for refugees, primarily from the Nordic countries and the Baltic states.",
@@ -10237,7 +10237,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Girl with the Dragon Tattoo was made public a few years before its author's death.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Glenn Miller_3241",
                 "text": "Miller's disappearance was not made public until December 24, 1944, when the Associated Press announced Miller would not be conducting the scheduled BBC-broadcast \"AEF Christmas Show\" the following day; the band's deputy leader Tech.",
@@ -10254,7 +10254,7 @@
                 "score": 107.74367521896127
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Girl with the Dragon Tattoo_1287",
                 "text": "The Girl with the Dragon Tattoo (original title in Swedish: M\u00e4n som hatar kvinnor, lit. '",
@@ -10300,7 +10300,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Tottenham's Broxbourne Ladies started in 2016 and eventually changed their name to Tottenham Hotspur Women.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Tottenham Hotspur F.C._260",
                 "text": "Tottenham's women's team was founded in 1985 as Broxbourne Ladies.",
@@ -10317,7 +10317,7 @@
                 "score": 114.34145789331319
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Tottenham Hotspur F.C._260",
                 "text": "Tottenham's women's team was founded in 1985 as Broxbourne Ladies.",
@@ -10364,7 +10364,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Richard Nixon's daddy did change his religion.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Mariano Rivera_13484",
                 "text": "During his childhood, neither he nor his family attended church, but after a born-again experience around the age of 21, Rivera became religious and converted from Catholicism to a Pentecostal faith.",
@@ -10381,7 +10381,7 @@
                 "score": 101.00131946910221
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Richard Nixon_261",
                 "text": "His mother was a Quaker, and his father converted from Methodism to the Quaker faith.",
@@ -10427,7 +10427,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Charles Comiskey's father was a professional baseball player.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Charles Comiskey_262",
                 "text": "Comiskey was born on August 15, 1859, in Chicago, the son of Illinois politician John Comiskey.",
@@ -10444,7 +10444,7 @@
                 "score": 61.154460812868884
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Charles Comiskey_262",
                 "text": "Comiskey was born on August 15, 1859, in Chicago, the son of Illinois politician John Comiskey.",
@@ -10495,7 +10495,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The play The Playboy of the Western World opens with the lead character telling people in bar that he murdered his father with a spade.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Maureen Stapleton_3479",
                 "text": "Stapleton made her Broadway debut in 1946 in The Playboy of the Western World, and went on to win the 1951 Tony Award for Best Featured Actress in a Play for The Rose Tattoo and the 1971 Tony Award for Best Actress in a Play for The Gingerbread Lady.",
@@ -10512,7 +10512,7 @@
                 "score": 71.1910467893521
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Playboy of the Western World_268",
                 "text": "The Playboy of the Western World is a three-act play written by Irish playwright John Millington Synge and first performed at the Abbey Theatre, Dublin, on 26 January 1907.",
@@ -10558,7 +10558,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Westminster Abbey has a Gothic style facade.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Westminster Abbey_1508",
                 "text": "As the burial site of more than 3,300 persons, usually of prominence in British history (including at least sixteen monarchs, eight Prime Ministers, poets laureate, actors, scientists, military leaders, and the Unknown Warrior), Westminster Abbey is sometimes described as 'Britain's Valhalla', after the iconic hall of the chosen heroes in Norse mythology.",
@@ -10575,7 +10575,7 @@
                 "score": 121.03161164312422
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Palace of Westminster_9567",
                 "text": "The United Nations Educational, Scientific and Cultural Organization (UNESCO) classifies the Palace of Westminster, along with neighbouring Westminster Abbey and St Margaret's, as a World Heritage Site.",
@@ -10620,7 +10620,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The play is in 3 parts.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "A Midsummer Night's Dream_3871",
                 "text": "The play consists of multiple subplots that revolve around the marriage of Theseus and Hippolyta.",
@@ -10637,7 +10637,7 @@
                 "score": 58.18716899769738
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Godfather Part II_7779",
                 "text": "Partially based on Puzo's 1969 novel The Godfather, the film is both sequel and prequel to The Godfather, presenting parallel dramas: one picks up the 1958 story of Michael Corleone (Pacino), the new Don of the Corleone family, protecting the family business in the aftermath of an attempt on his life; the prequel covers the journey of his father, Vito Corleone (De Niro), from his Sicilian childhood to the founding of his family enterprise in New York City.",
@@ -10684,7 +10684,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Photon, an elementary particle, moves at the speed of light always.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Photon_113",
                 "text": "Photons are massless, and they always move at the speed of light in vacuum, 299792458 m/s.",
@@ -10701,7 +10701,7 @@
                 "score": 113.03981910531553
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Photon_113",
                 "text": "Photons are massless, and they always move at the speed of light in vacuum, 299792458 m/s.",
@@ -10750,7 +10750,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Tom Petty was in an all-star band called the Whistling Travelers.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Tom Petty_313",
                 "text": "The album debuted at number one on the Billboard 200, becoming the first Tom Petty and the Heartbreakers album to ever top the chart.",
@@ -10767,7 +10767,7 @@
                 "score": 60.344369823585836
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Tom Petty_314",
                 "text": "Thomas Earl Petty (October 20, 1950 \u2013 October 2, 2017) was an American singer-songwriter, multi-instrumentalist, record producer, and actor.",
@@ -10814,7 +10814,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "This novel is about a harrowing journey undertaken by a group of boys that get dropped in an orphanage  suddenly when their parents die and then having to come together to survive in the orphanage system.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Charlemagne_1450",
                 "text": "He became king in 768 following his father's death, initially as co-ruler with his brother Carloman I. Carloman's sudden death in December 771 under unexplained circumstances left Charlemagne the sole ruler of the Frankish Kingdom.",
@@ -10831,7 +10831,7 @@
                 "score": 60.953399581489535
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Apocalypse Now_1728",
                 "text": "The film follows a river journey from South Vietnam into Cambodia undertaken by Captain Benjamin L. Willard (a character based on Conrad's Marlow and played by Sheen), who is on a secret mission to assassinate Colonel Kurtz (Brando, with the character being based on Conrad's Mr. Kurtz), a renegade Army Special Forces officer accused of murder and who is presumed insane.",
@@ -10877,7 +10877,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Olmecs lived in the region that is now known as Florida.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Wade Boggs_6521",
                 "text": "The Boggs family lived in several different places (including Puerto Rico and Savannah, Georgia) before settling in Tampa, Florida when Wade was 11 years old.",
@@ -10894,7 +10894,7 @@
                 "score": 62.89369994447188
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Wade Boggs_6521",
                 "text": "The Boggs family lived in several different places (including Puerto Rico and Savannah, Georgia) before settling in Tampa, Florida when Wade was 11 years old.",
@@ -10941,7 +10941,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Roberto Alomar and his dad both played for the San Diego Padres.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Roberto Alomar_1694",
                 "text": "Roberto \"Robbie\" Alomar Vel\u00e1zquez (; Spanish pronunciation: [alo\u02c8ma\u027e]; born February 5, 1968) is a Puerto Rican former Major League Baseball (MLB) player who played for the San Diego Padres, Toronto Blue Jays, Baltimore Orioles, Cleveland Indians, New York Mets, Chicago White Sox, and Arizona Diamondbacks (1988\u20132004).",
@@ -10958,7 +10958,7 @@
                 "score": 264.90810243889456
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Roberto Alomar_1694",
                 "text": "Roberto \"Robbie\" Alomar Vel\u00e1zquez (; Spanish pronunciation: [alo\u02c8ma\u027e]; born February 5, 1968) is a Puerto Rican former Major League Baseball (MLB) player who played for the San Diego Padres, Toronto Blue Jays, Baltimore Orioles, Cleveland Indians, New York Mets, Chicago White Sox, and Arizona Diamondbacks (1988\u20132004).",
@@ -11004,7 +11004,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Cristiano Ronaldo has been described as 1 of the best soccer players of his era.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Cristiano Ronaldo_510",
                 "text": "Often considered the best player in the world and  widely regarded as one of the greatest players of all time, Ronaldo has won five Ballons d'Or and four European Golden Shoes, both of which are records for a European player.",
@@ -11021,7 +11021,7 @@
                 "score": 213.2566589717093
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Cristiano Ronaldo_510",
                 "text": "Often considered the best player in the world and  widely regarded as one of the greatest players of all time, Ronaldo has won five Ballons d'Or and four European Golden Shoes, both of which are records for a European player.",
@@ -11073,7 +11073,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "In the Song of Solomon, the female lover tells the women of Jerusalem to go out and find some boyfriends before they are too old to appreciate romance.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Song of Solomon_1014",
                 "text": "The Song of Songs is unique within the Hebrew Bible: it shows no interest in Law or Covenant or the God of Israel, nor does it teach or explore wisdom like Proverbs or Ecclesiastes (although it does have some affinities to wisdom literature, as the ascription to Solomon indicates); instead, it celebrates sexual love, giving \"the voices of two lovers, praising each other, yearning for each other, proffering invitations to enjoy\".",
@@ -11090,7 +11090,7 @@
                 "score": 102.12904321836399
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Song of Solomon_1014",
                 "text": "The Song of Songs is unique within the Hebrew Bible: it shows no interest in Law or Covenant or the God of Israel, nor does it teach or explore wisdom like Proverbs or Ecclesiastes (although it does have some affinities to wisdom literature, as the ascription to Solomon indicates); instead, it celebrates sexual love, giving \"the voices of two lovers, praising each other, yearning for each other, proffering invitations to enjoy\".",
@@ -11136,7 +11136,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Diana, Princess of Wales was found died from an overdose.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Wembley Stadium_11995",
                 "text": "In the first week of July 2007, two large charity concerts were held at the new Wembley stadium, the Concert for Diana, a memorial concert to commemorate ten years since the death of Princess Diana and celebrating what would have been her 46th birthday, and Live Earth, a concert hosted at Wembley as part of the Live Earth Foundation, committed to combating climate change.",
@@ -11153,7 +11153,7 @@
                 "score": 72.5742023428213
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Wembley Stadium_11995",
                 "text": "In the first week of July 2007, two large charity concerts were held at the new Wembley stadium, the Concert for Diana, a memorial concert to commemorate ten years since the death of Princess Diana and celebrating what would have been her 46th birthday, and Live Earth, a concert hosted at Wembley as part of the Live Earth Foundation, committed to combating climate change.",
@@ -11204,7 +11204,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Cristiano Ronaldo is the 2nd youngest of his 4 siblings.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Lionel Messi_5072",
                 "text": "The following two seasons, Messi finished second for the Ballon d'Or behind Cristiano Ronaldo (his perceived career rival), before regaining his best form during the 2014\u201315 campaign, becoming the all-time top scorer in La Liga and leading Barcelona to a historic second treble, after which he was awarded a fifth Ballon d'Or in 2015.",
@@ -11221,7 +11221,7 @@
                 "score": 68.27964542700204
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Cristiano Ronaldo_280",
                 "text": "Cristiano Ronaldo dos Santos Aveiro GOIH ComM (European Portuguese: [k\u027ei\u0283\u02c8tj\u0250nu \u0281\u0254\u02c8na\u026bdu]; born 5 February 1985) is a Portuguese professional footballer who plays as a forward for Serie A club Juventus and captains the Portugal national team.",
@@ -11272,7 +11272,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Skin of Our Teeth is a play where it gets it title from a bible.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Skin of Our Teeth_1059",
                 "text": "The Skin of Our Teeth is a play by Thornton Wilder that won the Pulitzer Prize for Drama.",
@@ -11289,7 +11289,7 @@
                 "score": 148.35610835402628
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "The Skin of Our Teeth_282",
                 "text": "The phrase used as the title comes from the King James Bible, Job 19:20: \"My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.\" The main characters of the play are George and Maggie Antrobus (from Greek: \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2 (anthropos), \"human\" or \"person\"), their two children, Henry and Gladys, and Sabina, who appears as the family's maid in the first and third acts, and as a beauty queen temptress in the second act.",
@@ -11336,7 +11336,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Shakira released her first album when she was 13, which was unsuccessful.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Shakira_286",
                 "text": "Shakira's debut album, Magia, was recorded with Sony Music Colombia in 1990 when she was only 13 years old.",
@@ -11353,7 +11353,7 @@
                 "score": 108.52454968405496
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Shakira_286",
                 "text": "Shakira's debut album, Magia, was recorded with Sony Music Colombia in 1990 when she was only 13 years old.",
@@ -11405,7 +11405,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Pink Floyd was an influential rock group named after the members of the band who were students at the time.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Pink Floyd_803",
                 "text": "Pink Floyd were founded by students Syd Barrett (guitar, lead vocals), Nick Mason (drums), Roger Waters (bass guitar, vocals), and Richard Wright (keyboards, vocals).",
@@ -11422,7 +11422,7 @@
                 "score": 177.6467103421955
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Pink Floyd_803",
                 "text": "Pink Floyd were founded by students Syd Barrett (guitar, lead vocals), Nick Mason (drums), Roger Waters (bass guitar, vocals), and Richard Wright (keyboards, vocals).",
@@ -11468,7 +11468,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Comiskey was often called \"Senor Key\"",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Naver_14969",
                 "text": "Naver is also frequently referred to as 'the Google of South Korea'.",
@@ -11485,7 +11485,7 @@
                 "score": 46.107586126797095
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Ted Lyons_6802",
                 "text": "Lyons succeeded Dykes as the White Sox manager in May 1946 after an apparent contract dispute between Dykes and Grace Comiskey.",
@@ -11526,7 +11526,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Beyonc\u00e9 Giselle Knowles-Carter is apparently known to some by the alias of \"Queen Bey\".",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Beyonce\u0301_878",
                 "text": "Beyonce Giselle Knowles was born in Houston, Texas, to Celestine \u201cTina\u201d Knowles (n\u00e9e Beyonce), a hairdresser and salon owner, and Mathew Knowles, a Xerox sales manager.",
@@ -11543,7 +11543,7 @@
                 "score": 192.88657888411723
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Beyonce\u0301_832",
                 "text": "Beyonc\u00e9 Giselle Knowles-Carter ( bee-YON-say; born September 4, 1981) is an American singer, songwriter, record producer, dancer, actress and filmmaker.",
@@ -11593,7 +11593,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Francis Bebey completed his higher education in Milan.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Francis Bebey_291",
                 "text": "Bebey attended college in Douala, where he studied mathematics, before going to study broadcasting at the University of Paris.",
@@ -11610,7 +11610,7 @@
                 "score": 90.15807349470066
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Francis Bebey_1304",
                 "text": "Bebey attended college in Douala, where he studied mathematics, before going to study broadcasting at the University of Paris.",
@@ -11655,7 +11655,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The date of the composition of All's Well That Ends Well is unknown.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Pope Gregory I_14071",
                 "text": "The exact date of Gregory's birth is uncertain but is usually estimated to be around the year 540, in the city of Rome, then recently reconquered by the Eastern Roman Empire from the Ostrogoths.",
@@ -11672,7 +11672,7 @@
                 "score": 86.84059925070466
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Cymbeline_15267",
                 "text": "While the precise date of composition remains unknown, the play was certainly produced as early as 1611.",
@@ -11719,7 +11719,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Earl Weaver never played in MLB.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Earl Weaver_1574",
                 "text": "A slick fielder but never much of a hitter, he worked his way up to the Texas League Houston Buffaloes (two steps below the majors) in 1951, though never made it to the big league club.",
@@ -11736,7 +11736,7 @@
                 "score": 63.99356405104413
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Earl Weaver_1574",
                 "text": "A slick fielder but never much of a hitter, he worked his way up to the Texas League Houston Buffaloes (two steps below the majors) in 1951, though never made it to the big league club.",
@@ -11783,7 +11783,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Israel has four metropolitan areas, with Jerusalem being the largest municipality, in population and area although Israeli sovereignty over East Jerusalem is internationally unrecognized.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Israel_296",
                 "text": "There are four major metropolitan areas: Gush Dan (Tel Aviv metropolitan area; population 3,854,000), Jerusalem metropolitan area (population 1,253,900), Haifa metropolitan area (population 924,400), and Beersheba metropolitan area (population 377,100).Israel's largest municipality, in population and area, is Jerusalem with 919,438 residents in an area of 125 square kilometres (48 sq mi).",
@@ -11800,7 +11800,7 @@
                 "score": 148.7869910263886
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Israel_296",
                 "text": "There are four major metropolitan areas: Gush Dan (Tel Aviv metropolitan area; population 3,854,000), Jerusalem metropolitan area (population 1,253,900), Haifa metropolitan area (population 924,400), and Beersheba metropolitan area (population 377,100).Israel's largest municipality, in population and area, is Jerusalem with 919,438 residents in an area of 125 square kilometres (48 sq mi).",
@@ -11845,7 +11845,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Rihanna has 5 siblings.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Rihanna_297",
                 "text": "Rihanna has two brothers, Rorrey and Rajad Fenty, and two half-sisters and a half-brother from her father's side, each born to different mothers from his previous relationships.",
@@ -11862,7 +11862,7 @@
                 "score": 55.8126133057848
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Rihanna_297",
                 "text": "Rihanna has two brothers, Rorrey and Rajad Fenty, and two half-sisters and a half-brother from her father's side, each born to different mothers from his previous relationships.",
@@ -11913,7 +11913,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Go Down, Moses is a very hold hymn.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Go Down, Moses_623",
                 "text": "Go Down Moses\" is a spiritual phrase that describes events in the Old Testament of the Bible, specifically Exodus 8:1: \" And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me\", in which God commands Moses to demand the release of the Israelites from bondage in Egypt.",
@@ -11930,7 +11930,7 @@
                 "score": 70.9821425962212
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Go Down, Moses_1661",
                 "text": "Go Down Moses\" is a spiritual phrase that describes events in the Old Testament of the Bible, specifically Exodus 8:1: \" And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me\", in which God commands Moses to demand the release of the Israelites from bondage in Egypt.",
@@ -11976,7 +11976,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The structure is located in Gemany's capital.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Brandenburg Gate_1096",
                 "text": "One of the best-known landmarks of Germany, it was built on the site of a former city gate that marked the start of the road from Berlin to the town of Brandenburg an der Havel, which used to be capital of the Margraviate of Brandenburg.",
@@ -11993,7 +11993,7 @@
                 "score": 67.26181526905025
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Brandenburg Gate_1669",
                 "text": "In the 1980s, decrying the existence of two German states and two Berlins, West Berlin mayor Richard von Weizs\u00e4cker said: \"The German question is open as long as the Brandenburg Gate is closed.\" On 12 June 1987, U.S. President Ronald Reagan spoke to the West Berlin populace at the Brandenburg Gate, demanding the razing of the Berlin Wall.",
@@ -12039,7 +12039,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The story, Kim, portrays a realistic image of metropolitan India in the 1900s.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Israel_296",
                 "text": "There are four major metropolitan areas: Gush Dan (Tel Aviv metropolitan area; population 3,854,000), Jerusalem metropolitan area (population 1,253,900), Haifa metropolitan area (population 924,400), and Beersheba metropolitan area (population 377,100).Israel's largest municipality, in population and area, is Jerusalem with 919,438 residents in an area of 125 square kilometres (48 sq mi).",
@@ -12056,7 +12056,7 @@
                 "score": 113.87847154925016
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Kim (novel)_259",
                 "text": "Huneefa \u2013 a sorceress who performs a devil invocation ritual to protect Kim E.23 \u2013 a spy for the British whom Kim helps avoid capture",
@@ -12103,7 +12103,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "\"To His Coy Mistress\" came out after the author died.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "To His Coy Mistress_1654",
                 "text": "To His Coy Mistress\" is a Cavalier poem written by the English author and politician Andrew Marvell (1621\u20131678) either during or just before the English Interregnum (1649\u201360).",
@@ -12120,7 +12120,7 @@
                 "score": 61.324971250822635
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "To His Coy Mistress_1654",
                 "text": "To His Coy Mistress\" is a Cavalier poem written by the English author and politician Andrew Marvell (1621\u20131678) either during or just before the English Interregnum (1649\u201360).",
@@ -12169,7 +12169,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The song \"Single Ladies\" was released on Beyonce's B'Day album.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Beyonce\u0301_306",
                 "text": "The album featured the number-one song \"Single Ladies (Put a Ring on It)\" and the top-five songs \" If I Were a Boy\" and \"Halo\".",
@@ -12186,7 +12186,7 @@
                 "score": 68.38111251794362
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Beyonce\u0301_306",
                 "text": "The album featured the number-one song \"Single Ladies (Put a Ring on It)\" and the top-five songs \" If I Were a Boy\" and \"Halo\".",
@@ -12239,7 +12239,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The 1945 film, A Bell for Adano inspires positive emotions as the main character follows his heart and does what is best for his town despite the danger.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "A Bell for Adano_1376",
                 "text": "A Bell for Adano (1945) is a film directed by Henry King and starring John Hodiak and Gene Tierney.",
@@ -12256,7 +12256,7 @@
                 "score": 62.68638676392691
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "A Bell for Adano_609",
                 "text": "The story concerns Italian-American U.S. Army Major Joppolo (John Hodiak), who is placed in charge of the fictional town of Adano during the invasion of Sicily.",
@@ -12308,7 +12308,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Brandenburg Gate is full of history and located in Berlin's western city center south of the German parliament and is known for demonstrators gathered on the west side, which became a border.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Brandenburg Gate_717",
                 "text": "Throughout its existence, the Brandenburg Gate was often a site for major historical events and is today considered not only as a symbol of the tumultuous history of Europe and Germany, but also of European unity and peace.",
@@ -12325,7 +12325,7 @@
                 "score": 244.27148039006016
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Brandenburg Gate_1669",
                 "text": "In the 1980s, decrying the existence of two German states and two Berlins, West Berlin mayor Richard von Weizs\u00e4cker said: \"The German question is open as long as the Brandenburg Gate is closed.\" On 12 June 1987, U.S. President Ronald Reagan spoke to the West Berlin populace at the Brandenburg Gate, demanding the razing of the Berlin Wall.",
@@ -12377,7 +12377,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Tom Petty died on his birthday after having a successful career.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Tom Petty_1454",
                 "text": "He was the lead singer and guitarist of Tom Petty and the Heartbreakers, formed in 1976.",
@@ -12394,7 +12394,7 @@
                 "score": 269.9252483292442
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Tom Petty_270",
                 "text": "On January 19, 2018, the Los Angeles County Medical Examiner announced that Petty had died accidentally from mixed drug toxicity, a combination of fentanyl, oxycodone, acetylfentanyl and despropionyl fentanyl (all opioids); temazepam and alprazolam (both sedatives); and citalopram (an antidepressant).In a statement on his official website , Petty's wife and daughter said he had multiple medical problems, including emphysema, knee difficulties \"and most significantly a fractured hip\".",
@@ -12441,7 +12441,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Budda is inspired the Chirstian Saint Josaphat.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Gautama Buddha_315",
                 "text": "The Christian Saint Josaphat is based on the Buddha.",
@@ -12458,7 +12458,7 @@
                 "score": 75.85484572278824
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Gautama Buddha_315",
                 "text": "The Christian Saint Josaphat is based on the Buddha.",
@@ -12505,7 +12505,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Emperor Puyi died shortly after he was captured by Soviets and taken to a prison in Russia.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "The Last Emperor_14557",
                 "text": "The Last Emperor (Italian: L'ultimo imperatore; Chinese: \u672b\u4ee3\u7687\u5e1d) is a 1987 epic biographical drama film, directed by Bernardo Bertolucci, about the life of Puyi, the last Emperor of China,",
@@ -12522,7 +12522,7 @@
                 "score": 65.52284024090336
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Puyi_1436",
                 "text": "Chosen by Empress Dowager Cixi, Puyi became emperor at the age of 2 years and 10 months in December 1908 after the Guangxu Emperor died on 14 November.",
@@ -12573,7 +12573,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Scottish football club Tottenham Hotspur Football Club started as a group of schoolboys playing together bu it now a company.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Tottenham Hotspur F.C._318",
                 "text": "On 2 March 1898, the club also became a limited company, the Tottenham Hotspur Football and Athletic Company.",
@@ -12590,7 +12590,7 @@
                 "score": 394.59627205620774
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Tottenham Hotspur F.C._1484",
                 "text": "Originally named Hotspur Football Club, the club was formed on 5 September 1882 by a group of schoolboys led by Bobby Buckle.",
@@ -12646,7 +12646,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Remembrance of Things Past is a multiple volume novel and has a tryst between two women.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Remembrance of Things Past_965",
                 "text": "In Search of Lost Time (French: \u00c0 la recherche du temps perdu), also translated as Remembrance of Things Past, is a novel in seven volumes by Marcel Proust (1871\u20131922).",
@@ -12663,7 +12663,7 @@
                 "score": 76.00620385092788
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Remembrance of Things Past_1510",
                 "text": "the Scotsman C. K. Scott Moncrieff  under the title Remembrance of Things Past, a phrase taken from Shakespeare's Sonnet 30; this was the first translation of the Recherche into another language.",
@@ -12709,7 +12709,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Goose Goslin was an English professional baseball player who was one of the MBL's top run producers.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Goose Goslin_1469",
                 "text": "Goslin's difficulty in judging fly balls contributed to his nickname \"Goose.\" Opposing players said Goslin resembled a bird flapping its wings when he ran after a ball with his arms waving.",
@@ -12726,7 +12726,7 @@
                 "score": 124.25577288065745
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Goose Goslin_322",
                 "text": "Leon Allen \"Goose\" Goslin (October 16, 1900 - May 15, 1971) was an American professional baseball left fielder.",
@@ -12771,7 +12771,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Margaret Thatcher's daddy was the owner of a convenience store.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Margaret Thatcher_323",
                 "text": "Thatcher spent her childhood in Grantham, where her father owned a tobacconist's and a grocery shop.",
@@ -12788,7 +12788,7 @@
                 "score": 62.81054461465837
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Margaret Thatcher_323",
                 "text": "Thatcher spent her childhood in Grantham, where her father owned a tobacconist's and a grocery shop.",
@@ -12834,7 +12834,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Wolfgang Amadeus Mozart had six older siblings that all learned how to play an instrument.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Wolfgang Amadeus Mozart_461",
                 "text": "Wolfgang Amadeus Mozart (27 January 1756 \u2013 5 December 1791), baptised as Johannes Chrysostomus Wolfgangus Theophilus Mozart, was a prolific and influential composer of the Classical period.",
@@ -12851,7 +12851,7 @@
                 "score": 45.084719926814174
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Joseph Haydn_15352",
                 "text": "He was a friend and mentor of Mozart, a tutor of Beethoven, and the older brother of composer Michael Haydn.",
@@ -12896,7 +12896,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "The Hull House founded in 1889 in Chicago, Illinois closed in 2020.",
-        "Step 2 top 3 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "Hull House_1696",
                 "text": "That invitation to the community, written during the first year of Hull House's existence, suggests that the inner core of what Addams labeled \"The Hull House Neighborhood\" was overwhelmingly Italian at that time.",
@@ -12913,7 +12913,7 @@
                 "score": 78.96201249705295
             }
         ],
-        "Step 1 top 3 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "Hull House_535",
                 "text": "Hull House was a settlement house in the United States that was co-founded in 1889 by Jane Addams and Ellen Gates Starr.",

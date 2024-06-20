@@ -32,7 +32,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Natural is a book about Roy Hobbs a natural southpaw boxer who goes on to win the heavyweight title from Boom Boom Mancini.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1",
                 "title": "The Natural",
@@ -94,7 +94,7 @@
                 "score": "0.88873005"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "454",
                 "title": "The Natural",
@@ -186,7 +186,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Ken Griffey Jr. was not at his dad's champion games because he had to stay home with a babysitter instead.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "5",
                 "title": "Ken Griffey Jr.",
@@ -248,7 +248,7 @@
                 "score": "1.1122286"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "5",
                 "title": "Ken Griffey Jr.",
@@ -339,7 +339,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The film High Noon subverts gender norms of the time by having the woman rescue the man.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "7",
                 "title": "High Noon",
@@ -401,7 +401,7 @@
                 "score": "0.8498033"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "6",
                 "title": "High Noon",
@@ -456,7 +456,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Pedro Alvares Cabral was a nobleman and awarded Knight in the King's Council.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "9",
                 "title": "Pedro Alvares Cabral",
@@ -518,7 +518,7 @@
                 "score": "0.7800938"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "9",
                 "title": "Pedro Alvares Cabral",
@@ -567,7 +567,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Goodbye, Mr. Chips' story happens in Canada.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "12",
                 "title": "Goodbye, Mr. Chips",
@@ -629,7 +629,7 @@
                 "score": "1.0468109"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1073",
                 "title": "Goodbye, Mr. Chips",
@@ -721,7 +721,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Katy Perry's debut album was not successful.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "13",
                 "title": "Katy Perry",
@@ -783,7 +783,7 @@
                 "score": "0.93769443"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1415",
                 "title": "Katy Perry",
@@ -875,7 +875,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Roger Taney was the 10th Supreme Court Justice.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "712",
                 "title": "Roger B. Taney",
@@ -937,7 +937,7 @@
                 "score": "0.8823223"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "14",
                 "title": "Roger B. Taney",
@@ -1029,7 +1029,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Don Sutton's parents were teenagers when they had him.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "15",
                 "title": "Don Sutton",
@@ -1091,7 +1091,7 @@
                 "score": "0.8327675"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "15",
                 "title": "Don Sutton",
@@ -1129,7 +1129,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Toronto, the largest city in Canada, has 100,000 immigrants to the area every year.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "881",
                 "title": "Toronto",
@@ -1191,7 +1191,7 @@
                 "score": "0.9279389"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "882",
                 "title": "Toronto",
@@ -1283,7 +1283,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "As a child, Alkan changed his name along with his brothers and sister.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "18",
                 "title": "Valentin Alkan",
@@ -1345,7 +1345,7 @@
                 "score": "0.8340642"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "18",
                 "title": "Valentin Alkan",
@@ -1407,7 +1407,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The company manufactures around forty percents of all the electronic goods from all around the world.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "15495",
                 "title": "Sony",
@@ -1469,7 +1469,7 @@
                 "score": "0.9526611"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "15495",
                 "title": "Sony",
@@ -1561,7 +1561,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Gordon was listed 7th in MLB history in double plays.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "20",
                 "title": "Joe Gordon",
@@ -1623,7 +1623,7 @@
                 "score": "1.0587926"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "20",
                 "title": "Joe Gordon",
@@ -1672,7 +1672,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "The novel Sons and Lovers was not received very highly until later and was the third novel by the author.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1392",
                 "title": "Sons and Lovers",
@@ -1734,7 +1734,7 @@
                 "score": "1.0486262"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1392",
                 "title": "Sons and Lovers",
@@ -1795,7 +1795,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The First Crusade objective was at times supported by the church and became a campaign to take hold of the ancient spiritual city where Christ set up his church even by violent means.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "364",
                 "title": "First Crusade",
@@ -1857,7 +1857,7 @@
                 "score": "1.0389167"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "364",
                 "title": "First Crusade",
@@ -1949,7 +1949,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Katy comes as the last born in her family.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1498",
                 "title": "Katy Perry",
@@ -2011,7 +2011,7 @@
                 "score": "1.0784509"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1498",
                 "title": "Katy Perry",
@@ -2061,7 +2061,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Pope Gregory XIII was an math teacher before becoming pope.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1558",
                 "title": "Pope Gregory XIII",
@@ -2123,7 +2123,7 @@
                 "score": "1.1215644"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1150",
                 "title": "Pope Gregory XIII",
@@ -2167,7 +2167,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Of Hawthorne's Twice-Told Tales, Henry Wadsworth Longfellow wrote that the short story form had rarely been so ill-used.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "136",
                 "title": "Twice-Told Tales",
@@ -2229,7 +2229,7 @@
                 "score": "1.0206112"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "136",
                 "title": "Twice-Told Tales",
@@ -2321,7 +2321,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Dover Beach is a poem about a populated beach.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "32",
                 "title": "Dover Beach",
@@ -2383,7 +2383,7 @@
                 "score": "0.8959752"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "32",
                 "title": "Dover Beach",
@@ -2443,7 +2443,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "ADX Florence has various types of security cells and cell phones are typically prohibited.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "33",
                 "title": "ADX Florence",
@@ -2505,7 +2505,7 @@
                 "score": "0.8475473"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "34",
                 "title": "ADX Florence",
@@ -2555,7 +2555,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Song of Solomon is a passage from the Bible detailing some \"laws\" in the Christian faith.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "800",
                 "title": "Song of Solomon",
@@ -2617,7 +2617,7 @@
                 "score": "0.81435144"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "800",
                 "title": "Song of Solomon",
@@ -2709,7 +2709,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Brandenburg Gate was built  at a previous city gate that John F. Kennedy visited and has symbolized freedom.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1096",
                 "title": "Brandenburg Gate",
@@ -2771,7 +2771,7 @@
                 "score": "1.2054642"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1096",
                 "title": "Brandenburg Gate",
@@ -2864,7 +2864,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The tower is located in Italy.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "739",
                 "title": "Leaning Tower of Pisa",
@@ -2926,7 +2926,7 @@
                 "score": "0.9457347"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1022",
                 "title": "Leaning Tower of Pisa",
@@ -3018,7 +3018,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 0,
         "ori text": "The film is a suspenseful drama about a man and his husband.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "6414",
                 "title": "The Crying Game",
@@ -3080,7 +3080,7 @@
                 "score": "0.9254818"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "12451",
                 "title": "Kramer vs. Kramer",
@@ -3172,7 +3172,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "King Kelly worked in the textile industry before he played baseball professionally.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "40",
                 "title": "King Kelly",
@@ -3234,7 +3234,7 @@
                 "score": "0.95547426"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "40",
                 "title": "King Kelly",
@@ -3331,7 +3331,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Phantom Thread occurs  in London in the 1950s but was filmed in 2017.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "42",
                 "title": "Phantom Thread",
@@ -3393,7 +3393,7 @@
                 "score": "0.90382534"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "42",
                 "title": "Phantom Thread",
@@ -3461,7 +3461,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Grover Cleveland Alexander birthplace is Ukiah, California and he won a Worlds Series with the Phillies.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1031",
                 "title": "Grover Cleveland Alexander",
@@ -3523,7 +3523,7 @@
                 "score": "1.0075827"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "457",
                 "title": "Grover Cleveland Alexander",
@@ -3591,7 +3591,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Only one kneeling moai has visible legs.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "104",
                 "title": "Moai",
@@ -3653,7 +3653,7 @@
                 "score": "1.1918769"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "104",
                 "title": "Moai",
@@ -3751,7 +3751,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Amino acids are being researched as possible components of the garments that prevent infants soiling the floor.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "45",
                 "title": "Amino acid",
@@ -3813,7 +3813,7 @@
                 "score": "0.81886494"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "45",
                 "title": "Amino acid",
@@ -3887,7 +3887,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "English actor Kate Winslet is apart of an elite group of actors that have won at least 3 awards out of the 4 popular U.S. award show.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "47",
                 "title": "Kate Winslet",
@@ -3949,7 +3949,7 @@
                 "score": "0.9797442"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "47",
                 "title": "Kate Winslet",
@@ -4013,7 +4013,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The poem by Leo McCarey \"The Bells of St. Mary's\" has become associated with Christmas and was referenced in the movie It's a Wonderful Life.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "636",
                 "title": "The Bells of St. Mary's",
@@ -4075,7 +4075,7 @@
                 "score": "0.91796553"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "48",
                 "title": "The Bells of St. Mary's",
@@ -4167,7 +4167,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "For the release of Inglourious Basterds in Germany, the cover art had to be altered in order to hide a symbol of hate but not the symbol in the actual movie itself. .",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "49",
                 "title": "Inglourious Basterds",
@@ -4229,7 +4229,7 @@
                 "score": "0.981851"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "49",
                 "title": "Inglourious Basterds",
@@ -4321,7 +4321,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "During Trajan's years as ruler, Hadrian become elder consul.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "53",
                 "title": "Hadrian",
@@ -4383,7 +4383,7 @@
                 "score": "1.0729892"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1264",
                 "title": "Hadrian",
@@ -4445,7 +4445,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Battle of Hastings was fought between two parties.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "54",
                 "title": "Battle of Hastings",
@@ -4507,7 +4507,7 @@
                 "score": "0.95162296"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "54",
                 "title": "Battle of Hastings",
@@ -4568,7 +4568,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Brooklyn Bridge's title was changed in 1916 to avoid confusion with another bridge with a similar name.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "56",
                 "title": "Brooklyn Bridge",
@@ -4630,7 +4630,7 @@
                 "score": "1.2187287"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "56",
                 "title": "Brooklyn Bridge",
@@ -4722,7 +4722,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Moai have really big heads carved into them and many carvings have been moved over time. .",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1554",
                 "title": "Moai",
@@ -4784,7 +4784,7 @@
                 "score": "1.2320462"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "522",
                 "title": "Moai",
@@ -4881,7 +4881,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "There is no troubling string of self-terminations carried out by Foxconn's well-treated workers.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "58",
                 "title": "Foxconn",
@@ -4943,7 +4943,7 @@
                 "score": "0.8583114"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "58",
                 "title": "Foxconn",
@@ -5034,7 +5034,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Lee MacPhail passed away at his home at the age of 92.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "61",
                 "title": "Lee MacPhail",
@@ -5096,7 +5096,7 @@
                 "score": "0.9648366"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "61",
                 "title": "Lee MacPhail",
@@ -5188,7 +5188,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Roger Connor's parents were from England.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "405",
                 "title": "Roger Connor",
@@ -5250,7 +5250,7 @@
                 "score": "1.0421377"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "405",
                 "title": "Roger Connor",
@@ -5294,7 +5294,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Rollie Fingers did go to university for a year.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "64",
                 "title": "Rollie Fingers",
@@ -5356,7 +5356,7 @@
                 "score": "0.99745584"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "354",
                 "title": "Rollie Fingers",
@@ -5405,7 +5405,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Edgar Martinez is of Puerto Rican decent, but has never visited his family that lives there.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "65",
                 "title": "Edgar Mart\u00ednez",
@@ -5467,7 +5467,7 @@
                 "score": "0.9700829"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "65",
                 "title": "Edgar Mart\u00ednez",
@@ -5523,7 +5523,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "In the film Nicholas and Alexandra, the peasant Rasputin is killed because he wields influence over the Tsarina.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "68",
                 "title": "Nicholas and Alexandra",
@@ -5585,7 +5585,7 @@
                 "score": "0.92639196"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "68",
                 "title": "Nicholas and Alexandra",
@@ -5638,7 +5638,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The first word in Homer's the Iliad translates to mean fame.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "71",
                 "title": "Iliad",
@@ -5700,7 +5700,7 @@
                 "score": "0.95660996"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "70",
                 "title": "Iliad",
@@ -5797,7 +5797,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Tom Connolly played cricket in his youth in Manchester until he moved to Massachusetts, where eventually becoming the preeminent authority for umpiring.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "75",
                 "title": "Tom Connolly",
@@ -5859,7 +5859,7 @@
                 "score": "1.0101092"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "75",
                 "title": "Tom Connolly",
@@ -5915,7 +5915,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The movie, A Bell for Adano is an adaptation of a play.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "499",
                 "title": "A Bell for Adano",
@@ -5977,7 +5977,7 @@
                 "score": "1.0653234"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "499",
                 "title": "A Bell for Adano",
@@ -6050,7 +6050,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Separate Tables plays went by different names.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "78",
                 "title": "Separate Tables",
@@ -6112,7 +6112,7 @@
                 "score": "0.9180855"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "805",
                 "title": "Separate Tables",
@@ -6173,7 +6173,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Deng Xiaoping had 5 kids with his last wife.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "80",
                 "title": "Deng Xiaoping",
@@ -6235,7 +6235,7 @@
                 "score": "0.95594925"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "81",
                 "title": "Deng Xiaoping",
@@ -6297,7 +6297,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The actor that played Farmer Hoggett in Babe was so effected by the role that he stopped eating meat or animal products.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "83",
                 "title": "Babe (film)",
@@ -6359,7 +6359,7 @@
                 "score": "0.9411384"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "83",
                 "title": "Babe (film)",
@@ -6455,7 +6455,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 0,
         "ori text": "Within the last 5 years, Cooper had a child with a Russian model.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "85",
                 "title": "Bradley Cooper",
@@ -6517,7 +6517,7 @@
                 "score": "0.84682775"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "920",
                 "title": "Bradley Cooper",
@@ -6580,7 +6580,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Willie Mays ended his career playing for New York.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "895",
                 "title": "Willie Mays",
@@ -6642,7 +6642,7 @@
                 "score": "1.0264101"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "895",
                 "title": "Willie Mays",
@@ -6704,7 +6704,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Nicholas and Alexandra is a novel by Robert Massie",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "87",
                 "title": "Nicholas and Alexandra",
@@ -6766,7 +6766,7 @@
                 "score": "0.89716756"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "87",
                 "title": "Nicholas and Alexandra",
@@ -6856,7 +6856,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "There are two entrances on the bridge for pedestritians on each side.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "90",
                 "title": "Brooklyn Bridge",
@@ -6918,7 +6918,7 @@
                 "score": "0.8907123"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "90",
                 "title": "Brooklyn Bridge",
@@ -7010,7 +7010,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Alexandre C\u00e9sar L\u00e9opold Bizet is from the southern coastal town of France, Marseilles.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "141",
                 "title": "Georges Bizet",
@@ -7072,7 +7072,7 @@
                 "score": "0.9110006"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1171",
                 "title": "Georges Bizet",
@@ -7168,7 +7168,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "American baseball player Grover Cleveland Alexander suffered from PTSD from his involvement in the Vietnam War.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "92",
                 "title": "Grover Cleveland Alexander",
@@ -7230,7 +7230,7 @@
                 "score": "0.8241855"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "92",
                 "title": "Grover Cleveland Alexander",
@@ -7296,7 +7296,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Alexander was referred to as \"Old Pete\".",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "94",
                 "title": "Grover Cleveland Alexander",
@@ -7358,7 +7358,7 @@
                 "score": "0.97873545"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "94",
                 "title": "Grover Cleveland Alexander",
@@ -7426,7 +7426,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "\"The Open Boat\" is non-fiction written by Crane.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "506",
                 "title": "The Open Boat",
@@ -7488,7 +7488,7 @@
                 "score": "0.98752475"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1399",
                 "title": "The Open Boat",
@@ -7550,7 +7550,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 0,
         "ori text": "The novel is about a well liked school teacher and set at Brookfield School, a real English boarding school in Derbyshire.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "12",
                 "title": "Goodbye, Mr. Chips",
@@ -7612,7 +7612,7 @@
                 "score": "1.0667956"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "12",
                 "title": "Goodbye, Mr. Chips",
@@ -7704,7 +7704,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "John Keats's work was so influential that it affected many famous poets and writers after him.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "13668",
                 "title": "Ode on a Grecian Urn",
@@ -7766,7 +7766,7 @@
                 "score": "0.8953327"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "97",
                 "title": "On First Looking into Chapman's Homer",
@@ -7858,7 +7858,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Black Hawk War dates to the early 1800s",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "814",
                 "title": "Black Hawk War",
@@ -7920,7 +7920,7 @@
                 "score": "0.89400864"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "814",
                 "title": "Black Hawk War",
@@ -7988,7 +7988,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Gautama Buddha lived in Ancient India and Egypt.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1478",
                 "title": "Gautama Buddha",
@@ -8050,7 +8050,7 @@
                 "score": "1.0774606"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "772",
                 "title": "Gautama Buddha",
@@ -8142,7 +8142,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Inglorious Basterds was released in the summer of 2009.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "101",
                 "title": "Inglourious Basterds",
@@ -8204,7 +8204,7 @@
                 "score": "0.9441333"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "101",
                 "title": "Inglourious Basterds",
@@ -8296,7 +8296,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Wuthering Heights is probably not actually meant to be read as a romantic story.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "429",
                 "title": "Wuthering Heights",
@@ -8358,7 +8358,7 @@
                 "score": "1.1228455"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "103",
                 "title": "Wuthering Heights",
@@ -8451,7 +8451,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Most Moai have feet, which are just hard to see because they're buried.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "104",
                 "title": "Moai",
@@ -8513,7 +8513,7 @@
                 "score": "1.1331294"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "522",
                 "title": "Moai",
@@ -8606,7 +8606,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Thomas Gray wanted Elegy Written in a Country Churchyard to be first published in Harper's Bazaar.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1626",
                 "title": "Elegy Written in a Country Churchyard",
@@ -8668,7 +8668,7 @@
                 "score": "1.0418073"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1625",
                 "title": "Elegy Written in a Country Churchyard",
@@ -8760,7 +8760,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Charles Comiskey was owner of the Chicago White Sox MLB team and the Chicago Black Sox minor league team.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "107",
                 "title": "Charles Comiskey",
@@ -8822,7 +8822,7 @@
                 "score": "1.0182841"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "107",
                 "title": "Charles Comiskey",
@@ -8914,7 +8914,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Twice-Told Tales has been adapted into a movie.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "366",
                 "title": "Twice-Told Tales",
@@ -8976,7 +8976,7 @@
                 "score": "0.99941254"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "109",
                 "title": "Twice-Told Tales",
@@ -9032,7 +9032,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Black Hawk War was a war between the Black Hawk Tribe with the Sauks, Meskwakis and the Cherokee against the United States.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "110",
                 "title": "Black Hawk War",
@@ -9094,7 +9094,7 @@
                 "score": "0.9483534"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "814",
                 "title": "Black Hawk War",
@@ -9186,7 +9186,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Rebecca's body was buried in a cave when she died.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "111",
                 "title": "Rebecca",
@@ -9248,7 +9248,7 @@
                 "score": "1.137258"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "111",
                 "title": "Rebecca",
@@ -9340,7 +9340,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Tom Petty's demise could be uncharitably attributed to inadequate follow-up medical care.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "270",
                 "title": "Tom Petty",
@@ -9402,7 +9402,7 @@
                 "score": "0.8683567"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "270",
                 "title": "Tom Petty",
@@ -9464,7 +9464,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The photon has no mass.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "113",
                 "title": "Photon",
@@ -9526,7 +9526,7 @@
                 "score": "0.93374085"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "959",
                 "title": "Photon",
@@ -9618,7 +9618,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Sons and Lovers is described as one of D.H Lawrence's best work.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1392",
                 "title": "Sons and Lovers",
@@ -9680,7 +9680,7 @@
                 "score": "1.0084195"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1392",
                 "title": "Sons and Lovers",
@@ -9772,7 +9772,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Deng Xiaoping was a politician for the People's Republic of China after Mao Zedong passed and his ancestors were Mexcians.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "116",
                 "title": "Deng Xiaoping",
@@ -9834,7 +9834,7 @@
                 "score": "0.88939166"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "116",
                 "title": "Deng Xiaoping",
@@ -9885,7 +9885,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "American baseball player Derek Jeter has been nicknamed \"Captain Clutch\" and is a consistent player.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "117",
                 "title": "Derek Jeter",
@@ -9947,7 +9947,7 @@
                 "score": "0.926899"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "117",
                 "title": "Derek Jeter",
@@ -10039,7 +10039,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Clint Eastwood came up with the idea for the movie, Unforgiven, in 1990 when he was in poker tournament.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1324",
                 "title": "Unforgiven",
@@ -10101,7 +10101,7 @@
                 "score": "0.8583839"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1324",
                 "title": "Unforgiven",
@@ -10198,7 +10198,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Sir Arthur Seymour Sullivan's father was a bandmaster in the military.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "672",
                 "title": "Arthur Sullivan",
@@ -10260,7 +10260,7 @@
                 "score": "0.9991674"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "672",
                 "title": "Arthur Sullivan",
@@ -10311,7 +10311,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Since it's construction, Pantheon has been in use and therefore one of the most well maintained structures of all ancient Roman buildings.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "121",
                 "title": "Pantheon, Rome",
@@ -10373,7 +10373,7 @@
                 "score": "0.97082543"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1410",
                 "title": "Pantheon, Rome",
@@ -10466,7 +10466,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "White Fang, a novel by American author Jack London, ends with the wolf dog hybrid being suffocated.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "122",
                 "title": "White Fang",
@@ -10528,7 +10528,7 @@
                 "score": "0.8662911"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "122",
                 "title": "White Fang",
@@ -10624,7 +10624,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Allan Pinkerton, famous detective, soldier, and creator of the Pinkerton Agency, is commonly believed to have shed his mortal coil by falling over and biting the muscle in his mouth, causing a deadly infection.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "124",
                 "title": "Allan Pinkerton",
@@ -10686,7 +10686,7 @@
                 "score": "0.7958555"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "124",
                 "title": "Allan Pinkerton",
@@ -10779,7 +10779,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Bridge on the River Kwai was a smash at the box offices in 1956.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "126",
                 "title": "The Bridge on the River Kwai",
@@ -10841,7 +10841,7 @@
                 "score": "0.9983278"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "126",
                 "title": "The Bridge on the River Kwai",
@@ -10933,7 +10933,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "A religious person named Hugh is a character in the play.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "7328",
                 "title": "Hugh Capet",
@@ -10995,7 +10995,7 @@
                 "score": "0.99047697"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "7328",
                 "title": "Hugh Capet",
@@ -11044,7 +11044,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Clark Griffith was brought into this world in Missouri, not Illinois, Illinois was simply where they all lived afterwards.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "129",
                 "title": "Clark Griffith",
@@ -11106,7 +11106,7 @@
                 "score": "0.8627327"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "128",
                 "title": "Clark Griffith",
@@ -11197,7 +11197,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Buck lived for only a decade more after his retirement from baseball.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "132",
                 "title": "Buck Leonard",
@@ -11259,7 +11259,7 @@
                 "score": "0.90667284"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "595",
                 "title": "Buck Leonard",
@@ -11338,7 +11338,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The movie has been rated negatively.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "9577",
                 "title": "The Bostonians",
@@ -11400,7 +11400,7 @@
                 "score": "0.8600747"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "14817",
                 "title": "JFK (film)",
@@ -11492,7 +11492,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Faust is about a Russian legend as he has to make a big choice about which path to take during a deal with the Devil.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "135",
                 "title": "Faust",
@@ -11554,7 +11554,7 @@
                 "score": "0.96186924"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "135",
                 "title": "Faust",
@@ -11627,7 +11627,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Twice-Told Tales is a short story collection in two volumes by Nathaniel Hawthorne, receiving genius reviews from Longfellow and Poe.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "136",
                 "title": "Twice-Told Tales",
@@ -11689,7 +11689,7 @@
                 "score": "0.92924404"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "137",
                 "title": "Twice-Told Tales",
@@ -11787,7 +11787,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "There have been many mockeries of The Girl with the Dragon Tattoo.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1359",
                 "title": "The Girl with the Dragon Tattoo",
@@ -11849,7 +11849,7 @@
                 "score": "0.9845489"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1177",
                 "title": "The Girl with the Dragon Tattoo",
@@ -11940,7 +11940,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Larry MacPhail was removed as President of Bowie Track after problems with methamphetamine abuse.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "140",
                 "title": "Larry MacPhail",
@@ -12002,7 +12002,7 @@
                 "score": "0.8807975"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "140",
                 "title": "Larry MacPhail",
@@ -12038,7 +12038,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Bizet is native of Marseille, France.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "141",
                 "title": "Georges Bizet",
@@ -12100,7 +12100,7 @@
                 "score": "0.9802449"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1171",
                 "title": "Georges Bizet",
@@ -12190,7 +12190,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Ken Griffey Jr. played for two baseball teams in the Majors, the Mariners and Reds.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "142",
                 "title": "Ken Griffey Jr.",
@@ -12252,7 +12252,7 @@
                 "score": "1.1278412"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "142",
                 "title": "Ken Griffey Jr.",
@@ -12346,7 +12346,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The book's name was inspired by a literary work.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "3191",
                 "title": "The Moon and Sixpence",
@@ -12408,7 +12408,7 @@
                 "score": "1.0228016"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "8765",
                 "title": "Charlotte's Web",
@@ -12501,7 +12501,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Charles ll was found to have died of a heart attack.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "147",
                 "title": "Charles II of England",
@@ -12563,7 +12563,7 @@
                 "score": "0.7945101"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "13865",
                 "title": "Geraldine Page",
@@ -12655,7 +12655,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "It is majorly used in the \"dry method\" to make fertilizers.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "148",
                 "title": "Sulfuric acid",
@@ -12717,7 +12717,7 @@
                 "score": "0.8921265"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "148",
                 "title": "Sulfuric acid",
@@ -12813,7 +12813,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Enos Slaughter was in the Majors for over 18 seasons and a Hall of Famer.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "152",
                 "title": "Enos Slaughter",
@@ -12875,7 +12875,7 @@
                 "score": "1.0239614"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "152",
                 "title": "Enos Slaughter",
@@ -12969,7 +12969,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "James VI and I was King of Scotland as James VI from 24 July 1567 and King of England and Ireland as James I from the union of the Scottish and English crowns on 24 March 1603 until his death in 1625, in which he succeeded to the Scottish throne at the age of thirteen.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "154",
                 "title": "James VI and I",
@@ -13031,7 +13031,7 @@
                 "score": "0.9767095"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1516",
                 "title": "James VI and I",
@@ -13123,7 +13123,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Pope Gregory XIII had a kid.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1150",
                 "title": "Pope Gregory XIII",
@@ -13185,7 +13185,7 @@
                 "score": "1.0220214"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1150",
                 "title": "Pope Gregory XIII",
@@ -13242,7 +13242,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Battle of Lepanto is a painting by Juan Luna.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "890",
                 "title": "Battle of Lepanto",
@@ -13304,7 +13304,7 @@
                 "score": "0.7946147"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "890",
                 "title": "Battle of Lepanto",
@@ -13356,7 +13356,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Puyi married Webxiu after selecting her photograph from a selection of females to chose from.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "431",
                 "title": "Puyi",
@@ -13418,7 +13418,7 @@
                 "score": "1.1312677"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1390",
                 "title": "Puyi",
@@ -13511,7 +13511,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Sullivan composed 2 ballets.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "529",
                 "title": "Arthur Sullivan",
@@ -13573,7 +13573,7 @@
                 "score": "1.0150155"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1474",
                 "title": "Arthur Sullivan",
@@ -13629,7 +13629,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Goodbye, Mr. Chips is a soap opera about a professor named Mr. Chippendale.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "12",
                 "title": "Goodbye, Mr. Chips",
@@ -13691,7 +13691,7 @@
                 "score": "1.038161"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1073",
                 "title": "Goodbye, Mr. Chips",
@@ -13763,7 +13763,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Clouds is a dramatic play.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "166",
                 "title": "The Clouds",
@@ -13825,7 +13825,7 @@
                 "score": "1.1300541"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "557",
                 "title": "The Clouds",
@@ -13916,7 +13916,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Undertaker did think about becoming a professional basketball player.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "167",
                 "title": "The Undertaker",
@@ -13978,7 +13978,7 @@
                 "score": "0.92631996"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "167",
                 "title": "The Undertaker",
@@ -14065,7 +14065,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Ben-Hur (1959 film) earned over $90 million in worldwide theatrical rentals, with over $32.5 million in rentals earned in North America (about $72.2 million at the box office) for a worldwide total of $66.1 million in rental earnings, roughly equivalent to $146.9 million in box office receipts..",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "169",
                 "title": "Ben-Hur (1959 film)",
@@ -14127,7 +14127,7 @@
                 "score": "1.0158705"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "169",
                 "title": "Ben-Hur (1959 film)",
@@ -14208,7 +14208,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Jurassic World: Fallen Kingdom was filmed in England and Hawaii.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "171",
                 "title": "Jurassic World: Fallen Kingdom",
@@ -14270,7 +14270,7 @@
                 "score": "1.179882"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "171",
                 "title": "Jurassic World: Fallen Kingdom",
@@ -14313,7 +14313,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Pyrrhus of Epirus never took over Sicily.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "172",
                 "title": "Pyrrhus of Epirus",
@@ -14375,7 +14375,7 @@
                 "score": "1.0553665"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "172",
                 "title": "Pyrrhus of Epirus",
@@ -14472,7 +14472,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Remembrance of Things Past was first published in Italian.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "321",
                 "title": "Remembrance of Things Past",
@@ -14534,7 +14534,7 @@
                 "score": "0.98231864"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1509",
                 "title": "Remembrance of Things Past",
@@ -14602,7 +14602,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Lincoln released a heart felt remark regarding Roger B. Taney's passing.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "174",
                 "title": "Roger B. Taney",
@@ -14664,7 +14664,7 @@
                 "score": "0.95122075"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "14",
                 "title": "Roger B. Taney",
@@ -14757,7 +14757,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "There is no movie adapation of the novel.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "237",
                 "title": "Lord of the Flies",
@@ -14819,7 +14819,7 @@
                 "score": "0.97076046"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "2792",
                 "title": "No Country for Old Men",
@@ -14870,7 +14870,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Faust legend has inspired many masterpieces.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "176",
                 "title": "Faust",
@@ -14932,7 +14932,7 @@
                 "score": "0.9857427"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "176",
                 "title": "Faust",
@@ -15018,7 +15018,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The 1861 novel Silas Marner: The Weaver of Raveloe has spawned five films.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "177",
                 "title": "Silas Marner",
@@ -15080,7 +15080,7 @@
                 "score": "0.96174264"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "788",
                 "title": "Silas Marner",
@@ -15166,7 +15166,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Johnny Depp's ancestry includes African-American.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "178",
                 "title": "Johnny Depp",
@@ -15228,7 +15228,7 @@
                 "score": "0.9653297"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "178",
                 "title": "Johnny Depp",
@@ -15272,7 +15272,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Maroon 5's genre has been identified as many things, including with a particular ocular hue, for some reason.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "179",
                 "title": "Maroon 5",
@@ -15334,7 +15334,7 @@
                 "score": "0.9092332"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "179",
                 "title": "Maroon 5",
@@ -15431,7 +15431,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "The decrees of the Council of Trent saw enforcement by French clergy from the Catholic Church.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "909",
                 "title": "Council of Trent",
@@ -15493,7 +15493,7 @@
                 "score": "0.9111897"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "180",
                 "title": "Council of Trent",
@@ -15573,7 +15573,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Pride and Prejudice was written over three centuries ago by Jane Austin and continues to be known as one of the top books ever written.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "10435",
                 "title": "Jane Eyre",
@@ -15635,7 +15635,7 @@
                 "score": "0.9875988"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "183",
                 "title": "Pride and Prejudice",
@@ -15716,7 +15716,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Naruto's manga came out in the 90s.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "184",
                 "title": "Naruto",
@@ -15778,7 +15778,7 @@
                 "score": "1.0226088"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "184",
                 "title": "Naruto",
@@ -15870,7 +15870,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Nichols died of a heart attack.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "10792",
                 "title": "Ted Williams",
@@ -15932,7 +15932,7 @@
                 "score": "0.8531672"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "630",
                 "title": "Kid Nichols",
@@ -16022,7 +16022,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The book Twenty Years After discusses a number of events in France and England.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "824",
                 "title": "Twenty Years After",
@@ -16084,7 +16084,7 @@
                 "score": "0.98628366"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "186",
                 "title": "Twenty Years After",
@@ -16145,7 +16145,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Olmecs were located in the Northern part of America.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "484",
                 "title": "Olmec",
@@ -16207,7 +16207,7 @@
                 "score": "0.9825785"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "189",
                 "title": "Olmec",
@@ -16299,7 +16299,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Charlie Parker is an American musician.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "194",
                 "title": "Charlie Parker",
@@ -16361,7 +16361,7 @@
                 "score": "0.95089644"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "194",
                 "title": "Charlie Parker",
@@ -16453,7 +16453,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Peasants' Revolt was a major uprising across large parts of England in 1381 influenced by various causes, including the socio-economic and political tensions generated by the Black Death pandemic in the 1340s, the high taxes resulting from the conflict with France during the Hundred Years' War, and instability within the local leadership of London",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "530",
                 "title": "Peasants' Revolt",
@@ -16515,7 +16515,7 @@
                 "score": "0.9950398"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "195",
                 "title": "Peasants' Revolt",
@@ -16607,7 +16607,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Richard II was a Spanish Monarch.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "196",
                 "title": "Richard II",
@@ -16669,7 +16669,7 @@
                 "score": "0.95527637"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1342",
                 "title": "Richard II",
@@ -16766,7 +16766,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Silas Marner was a novel about a thief in a church.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "199",
                 "title": "Silas Marner",
@@ -16828,7 +16828,7 @@
                 "score": "0.98832774"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "883",
                 "title": "Silas Marner",
@@ -16924,7 +16924,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The tale of Genji, even if not the oldest novel, is definitely the oldest illustrated novel.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "201",
                 "title": "The Tale of Genji",
@@ -16986,7 +16986,7 @@
                 "score": "0.9905137"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "766",
                 "title": "The Tale of Genji",
@@ -17076,7 +17076,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "There have been more than 50 translations of the Jabberwocky.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1191",
                 "title": "Jabberwocky",
@@ -17138,7 +17138,7 @@
                 "score": "0.9140687"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "389",
                 "title": "Jabberwocky",
@@ -17208,7 +17208,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Iliad is dedicated to Zeus.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1256",
                 "title": "Iliad",
@@ -17270,7 +17270,7 @@
                 "score": "0.95418537"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "71",
                 "title": "Iliad",
@@ -17362,7 +17362,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Fingers grew the moustache to be stylish and he had to shave his long beard off.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "207",
                 "title": "Rollie Fingers",
@@ -17424,7 +17424,7 @@
                 "score": "1.027389"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "207",
                 "title": "Rollie Fingers",
@@ -17475,7 +17475,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Brooklyn Bridge planning began as early as 1800 to avoid having to use ferry lines.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1148",
                 "title": "Brooklyn Bridge",
@@ -17537,7 +17537,7 @@
                 "score": "1.2045884"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "208",
                 "title": "Brooklyn Bridge",
@@ -17629,7 +17629,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The origins of Elegy Written in a Country Churchyard are not known.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "910",
                 "title": "Elegy Written in a Country Churchyard",
@@ -17691,7 +17691,7 @@
                 "score": "1.0147133"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "210",
                 "title": "Elegy Written in a Country Churchyard",
@@ -17781,7 +17781,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "All's Well That Ends Well is about the countess Helena.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1446",
                 "title": "All's Well That Ends Well",
@@ -17843,7 +17843,7 @@
                 "score": "0.8839216"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "211",
                 "title": "All's Well That Ends Well",
@@ -17916,7 +17916,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "McCartney's now wife is much older than him.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "212",
                 "title": "Paul McCartney",
@@ -17978,7 +17978,7 @@
                 "score": "0.92030585"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "212",
                 "title": "Paul McCartney",
@@ -18022,7 +18022,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Boston is ranked as one of the richest towns in the world.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "214",
                 "title": "Boston",
@@ -18084,7 +18084,7 @@
                 "score": "0.93652165"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "214",
                 "title": "Boston",
@@ -18152,7 +18152,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Georges Bizet was a poor student, expelled from the conservatory at Rueil-Malmaison before he was 17.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1142",
                 "title": "Georges Bizet",
@@ -18214,7 +18214,7 @@
                 "score": "1.0485872"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1142",
                 "title": "Georges Bizet",
@@ -18306,7 +18306,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Earl Weaver never played in the Majors but did end up coaching.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1423",
                 "title": "Earl Weaver",
@@ -18368,7 +18368,7 @@
                 "score": "0.97898144"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "295",
                 "title": "Earl Weaver",
@@ -18418,7 +18418,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "They participated in a series of ads for a popular game.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "217",
                 "title": "One Direction",
@@ -18480,7 +18480,7 @@
                 "score": "0.93143904"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "217",
                 "title": "One Direction",
@@ -18572,7 +18572,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Not a single one of the officers that shot Bonnie and Clyde officially used the term \"Bust the cap\" in their statement!",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "218",
                 "title": "Bonnie and Clyde",
@@ -18634,7 +18634,7 @@
                 "score": "0.81807923"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "218",
                 "title": "Bonnie and Clyde",
@@ -18726,7 +18726,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "This is the sequel to the Three Musketeers in which the eponymous Musketeers meet again to join forces for the Queen.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "5243",
                 "title": "The Last of the Mohicans",
@@ -18788,7 +18788,7 @@
                 "score": "0.99043715"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "4012",
                 "title": "The Three Musketeers",
@@ -18883,7 +18883,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "No events can be held at the Pantheon of Rome.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "222",
                 "title": "Pantheon, Rome",
@@ -18945,7 +18945,7 @@
                 "score": "1.02166"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "222",
                 "title": "Pantheon, Rome",
@@ -19042,7 +19042,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Award winning British actress Helen Mirren is known for her role in  Gosford Park and 10 other British films or television series as one of four to play the role of a Queen.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "223",
                 "title": "Helen Mirren",
@@ -19104,7 +19104,7 @@
                 "score": "1.0451654"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "223",
                 "title": "Helen Mirren",
@@ -19166,7 +19166,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Puyi was the 11th Emperor of the Qing dynasty.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "400",
                 "title": "Puyi",
@@ -19228,7 +19228,7 @@
                 "score": "1.1257181"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1705",
                 "title": "Puyi",
@@ -19320,7 +19320,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Charlie Parker is known for his tenor saxophone improvisations.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1354",
                 "title": "Charlie Parker",
@@ -19382,7 +19382,7 @@
                 "score": "0.9819004"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "679",
                 "title": "Charlie Parker",
@@ -19468,7 +19468,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "There is a version of Pride and Prejudice with undead, and shinobi assassins.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "227",
                 "title": "Pride and Prejudice",
@@ -19530,7 +19530,7 @@
                 "score": "0.90330476"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "227",
                 "title": "Pride and Prejudice",
@@ -19568,7 +19568,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Hugh Jennings was English descent.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1152",
                 "title": "Hugh Jennings",
@@ -19630,7 +19630,7 @@
                 "score": "1.0667212"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1152",
                 "title": "Hugh Jennings",
@@ -19726,7 +19726,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "In Israel the day of relaxation is Saturday and most people work on Sundays.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "229",
                 "title": "Israel",
@@ -19788,7 +19788,7 @@
                 "score": "0.7837011"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "229",
                 "title": "Israel",
@@ -19880,7 +19880,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Hugh Jennings was a baseball player who played for the Orioles.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "231",
                 "title": "Hugh Jennings",
@@ -19942,7 +19942,7 @@
                 "score": "1.1836455"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "231",
                 "title": "Hugh Jennings",
@@ -20034,7 +20034,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Argentina national football team has won two World Cups.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1319",
                 "title": "Argentina national football team",
@@ -20096,7 +20096,7 @@
                 "score": "1.0228165"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "232",
                 "title": "Argentina national football team",
@@ -20191,7 +20191,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Hannah and Her Sisters movie occurs during a two year period.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1163",
                 "title": "Hannah and Her Sisters",
@@ -20253,7 +20253,7 @@
                 "score": "0.96626174"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "378",
                 "title": "Hannah and Her Sisters",
@@ -20349,7 +20349,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Faust is an uninterested and unhappy intellectual who tried to kill himself.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "135",
                 "title": "Faust",
@@ -20411,7 +20411,7 @@
                 "score": "0.9904526"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "779",
                 "title": "Faust",
@@ -20489,7 +20489,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Lord of the Flies is a novel influencing the stigma of unseen characters to appear as a normal event because of the book's Pulitzer prize win.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1255",
                 "title": "Lord of the Flies",
@@ -20551,7 +20551,7 @@
                 "score": "0.9596963"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1001",
                 "title": "Lord of the Flies",
@@ -20643,7 +20643,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Meji Restoration did nor contribute to the improvement of the rising sun country.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1290",
                 "title": "Meiji Restoration",
@@ -20705,7 +20705,7 @@
                 "score": "0.96116674"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1289",
                 "title": "Meiji Restoration",
@@ -20797,7 +20797,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Johnny Depp claimed to have native Indian ancestry.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "242",
                 "title": "Johnny Depp",
@@ -20859,7 +20859,7 @@
                 "score": "0.90468"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "242",
                 "title": "Johnny Depp",
@@ -20951,7 +20951,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Cat's Cradle is a satirical postmodern novel about the political climate after World War 2.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1725",
                 "title": "Cat's Cradle",
@@ -21013,7 +21013,7 @@
                 "score": "1.004403"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1725",
                 "title": "Cat's Cradle",
@@ -21074,7 +21074,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Just after her father's death, Franklin was taught to read music from her grandmother.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "244",
                 "title": "Aretha Franklin",
@@ -21136,7 +21136,7 @@
                 "score": "0.8731348"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "245",
                 "title": "Aretha Franklin",
@@ -21227,7 +21227,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Dover beach is a novel.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1470",
                 "title": "Dover Beach",
@@ -21289,7 +21289,7 @@
                 "score": "0.8770137"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "32",
                 "title": "Dover Beach",
@@ -21338,7 +21338,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "X-Men emerge in Marvel Comics.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "742",
                 "title": "X-Men",
@@ -21400,7 +21400,7 @@
                 "score": "0.77157724"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "742",
                 "title": "X-Men",
@@ -21492,7 +21492,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Tale of Genji was written by Shikibu and the orginal copy is in a safe.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "251",
                 "title": "The Tale of Genji",
@@ -21554,7 +21554,7 @@
                 "score": "0.8454654"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1011",
                 "title": "The Tale of Genji",
@@ -21622,7 +21622,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Duvall was in five of his own weddings.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "252",
                 "title": "Robert Duvall",
@@ -21684,7 +21684,7 @@
                 "score": "0.8621191"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "252",
                 "title": "Robert Duvall",
@@ -21776,7 +21776,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Hadrian believed that citizens who believed in Jesus should not be investigated for that belief alone, which was a progressive sort of thing to advocate, at the time.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "253",
                 "title": "Hadrian",
@@ -21838,7 +21838,7 @@
                 "score": "0.99884033"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "253",
                 "title": "Hadrian",
@@ -21934,7 +21934,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Cleisthenes, an ancient Athenian lawgiver, had a big sculpture made.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "254",
                 "title": "Cleisthenes",
@@ -21996,7 +21996,7 @@
                 "score": "0.98277164"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "7332",
                 "title": "Statue of Zeus at Olympia",
@@ -22089,7 +22089,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Israel has mountains, desert, and coastal lands.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "256",
                 "title": "Israel",
@@ -22151,7 +22151,7 @@
                 "score": "0.98884726"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "256",
                 "title": "Israel",
@@ -22195,7 +22195,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Sweden played a major role in World War II and fought with the Nazis because of their close relationship with Germany.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "257",
                 "title": "Sweden",
@@ -22257,7 +22257,7 @@
                 "score": "0.8814594"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "257",
                 "title": "Sweden",
@@ -22301,7 +22301,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Girl with the Dragon Tattoo was made public a few years before its author's death.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1359",
                 "title": "The Girl with the Dragon Tattoo",
@@ -22363,7 +22363,7 @@
                 "score": "0.95926625"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1359",
                 "title": "The Girl with the Dragon Tattoo",
@@ -22455,7 +22455,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Tottenham's Broxbourne Ladies started in 2016 and eventually changed their name to Tottenham Hotspur Women.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "260",
                 "title": "Tottenham Hotspur F.C.",
@@ -22517,7 +22517,7 @@
                 "score": "0.97212094"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "260",
                 "title": "Tottenham Hotspur F.C.",
@@ -22609,7 +22609,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Richard Nixon's daddy did change his religion.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "261",
                 "title": "Richard Nixon",
@@ -22671,7 +22671,7 @@
                 "score": "0.93266535"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "261",
                 "title": "Richard Nixon",
@@ -22715,7 +22715,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Charles Comiskey's father was a professional baseball player.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "262",
                 "title": "Charles Comiskey",
@@ -22777,7 +22777,7 @@
                 "score": "0.9735296"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1495",
                 "title": "Charles Comiskey",
@@ -22832,7 +22832,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "The play The Playboy of the Western World opens with the lead character telling people in bar that he murdered his father with a spade.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "264",
                 "title": "The Playboy of the Western World",
@@ -22894,7 +22894,7 @@
                 "score": "0.9128994"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "264",
                 "title": "The Playboy of the Western World",
@@ -22944,7 +22944,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Westminster Abbey has a Gothic style facade.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1508",
                 "title": "Westminster Abbey",
@@ -23006,7 +23006,7 @@
                 "score": "1.0128024"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1508",
                 "title": "Westminster Abbey",
@@ -23050,7 +23050,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The play is in 3 parts.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "13029",
                 "title": "No Exit",
@@ -23112,7 +23112,7 @@
                 "score": "1.096868"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "13029",
                 "title": "No Exit",
@@ -23167,7 +23167,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Photon, an elementary particle, moves at the speed of light always.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "113",
                 "title": "Photon",
@@ -23229,7 +23229,7 @@
                 "score": "1.0110648"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "113",
                 "title": "Photon",
@@ -23325,7 +23325,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Tom Petty was in an all-star band called the Whistling Travelers.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "271",
                 "title": "Tom Petty",
@@ -23387,7 +23387,7 @@
                 "score": "0.94413984"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "271",
                 "title": "Tom Petty",
@@ -23473,7 +23473,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "This novel is about a harrowing journey undertaken by a group of boys that get dropped in an orphanage  suddenly when their parents die and then having to come together to survive in the orphanage system.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1255",
                 "title": "Lord of the Flies",
@@ -23535,7 +23535,7 @@
                 "score": "0.9208821"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1255",
                 "title": "Lord of the Flies",
@@ -23626,7 +23626,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Olmecs lived in the region that is now known as Florida.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "273",
                 "title": "Olmec",
@@ -23688,7 +23688,7 @@
                 "score": "0.97616243"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "484",
                 "title": "Olmec",
@@ -23774,7 +23774,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Roberto Alomar and his dad both played for the San Diego Padres.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "274",
                 "title": "Roberto Alomar",
@@ -23836,7 +23836,7 @@
                 "score": "0.9453566"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "274",
                 "title": "Roberto Alomar",
@@ -23928,7 +23928,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Cristiano Ronaldo has been described as 1 of the best soccer players of his era.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "275",
                 "title": "Cristiano Ronaldo",
@@ -23990,7 +23990,7 @@
                 "score": "0.99033046"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "275",
                 "title": "Cristiano Ronaldo",
@@ -24086,7 +24086,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "In the Song of Solomon, the female lover tells the women of Jerusalem to go out and find some boyfriends before they are too old to appreciate romance.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "277",
                 "title": "Song of Solomon",
@@ -24148,7 +24148,7 @@
                 "score": "0.83098805"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "276",
                 "title": "Song of Solomon",
@@ -24239,7 +24239,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Diana, Princess of Wales was found died from an overdose.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "278",
                 "title": "Diana, Princess of Wales",
@@ -24301,7 +24301,7 @@
                 "score": "0.81090915"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "278",
                 "title": "Diana, Princess of Wales",
@@ -24399,7 +24399,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Cristiano Ronaldo is the 2nd youngest of his 4 siblings.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "281",
                 "title": "Cristiano Ronaldo",
@@ -24461,7 +24461,7 @@
                 "score": "0.9620341"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "281",
                 "title": "Cristiano Ronaldo",
@@ -24510,7 +24510,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The Skin of Our Teeth is a play where it gets it title from a bible.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "282",
                 "title": "The Skin of Our Teeth",
@@ -24572,7 +24572,7 @@
                 "score": "0.944674"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "282",
                 "title": "The Skin of Our Teeth",
@@ -24627,7 +24627,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Shakira released her first album when she was 13, which was unsuccessful.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "286",
                 "title": "Shakira",
@@ -24689,7 +24689,7 @@
                 "score": "0.8931968"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "286",
                 "title": "Shakira",
@@ -24768,7 +24768,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Pink Floyd was an influential rock group named after the members of the band who were students at the time.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1314",
                 "title": "Pink Floyd",
@@ -24830,7 +24830,7 @@
                 "score": "0.9299159"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "803",
                 "title": "Pink Floyd",
@@ -24902,7 +24902,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Comiskey was often called \"Senor Key\"",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "107",
                 "title": "Charles Comiskey",
@@ -24964,7 +24964,7 @@
                 "score": "0.92644763"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "107",
                 "title": "Charles Comiskey",
@@ -25032,7 +25032,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Beyonc\u00e9 Giselle Knowles-Carter is apparently known to some by the alias of \"Queen Bey\".",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1069",
                 "title": "Beyonc\u00e9",
@@ -25094,7 +25094,7 @@
                 "score": "0.92058563"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1069",
                 "title": "Beyonc\u00e9",
@@ -25190,7 +25190,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Francis Bebey completed his higher education in Milan.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "291",
                 "title": "Francis Bebey",
@@ -25252,7 +25252,7 @@
                 "score": "0.79059756"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "291",
                 "title": "Francis Bebey",
@@ -25344,7 +25344,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The date of the composition of All's Well That Ends Well is unknown.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "293",
                 "title": "All's Well That Ends Well",
@@ -25406,7 +25406,7 @@
                 "score": "1.0228152"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "293",
                 "title": "All's Well That Ends Well",
@@ -25482,7 +25482,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Earl Weaver never played in MLB.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1574",
                 "title": "Earl Weaver",
@@ -25544,7 +25544,7 @@
                 "score": "1.0320557"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "295",
                 "title": "Earl Weaver",
@@ -25600,7 +25600,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Israel has four metropolitan areas, with Jerusalem being the largest municipality, in population and area although Israeli sovereignty over East Jerusalem is internationally unrecognized.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "296",
                 "title": "Israel",
@@ -25662,7 +25662,7 @@
                 "score": "1.0040584"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "296",
                 "title": "Israel",
@@ -25736,7 +25736,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Rihanna has 5 siblings.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "297",
                 "title": "Rihanna",
@@ -25798,7 +25798,7 @@
                 "score": "1.02907"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "297",
                 "title": "Rihanna",
@@ -25857,7 +25857,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "Go Down, Moses is a very hold hymn.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "298",
                 "title": "Go Down, Moses",
@@ -25919,7 +25919,7 @@
                 "score": "0.97179794"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "298",
                 "title": "Go Down, Moses",
@@ -26011,7 +26011,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "The structure is located in Gemany's capital.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1096",
                 "title": "Brandenburg Gate",
@@ -26073,7 +26073,7 @@
                 "score": "1.1426234"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "311",
                 "title": "Brandenburg Gate",
@@ -26165,7 +26165,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The story, Kim, portrays a realistic image of metropolitan India in the 1900s.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "301",
                 "title": "Kim (novel)",
@@ -26227,7 +26227,7 @@
                 "score": "0.9845929"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1077",
                 "title": "Kim (novel)",
@@ -26313,7 +26313,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "\"To His Coy Mistress\" came out after the author died.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "304",
                 "title": "To His Coy Mistress",
@@ -26375,7 +26375,7 @@
                 "score": "0.97136736"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "304",
                 "title": "To His Coy Mistress",
@@ -26421,7 +26421,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 0,
         "ori text": "The song \"Single Ladies\" was released on Beyonce's B'Day album.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "833",
                 "title": "Beyonc\u00e9",
@@ -26483,7 +26483,7 @@
                 "score": "0.97541046"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "306",
                 "title": "Beyonc\u00e9",
@@ -26581,7 +26581,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The 1945 film, A Bell for Adano inspires positive emotions as the main character follows his heart and does what is best for his town despite the danger.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "821",
                 "title": "A Bell for Adano",
@@ -26643,7 +26643,7 @@
                 "score": "0.9296932"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "499",
                 "title": "A Bell for Adano",
@@ -26711,7 +26711,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "The Brandenburg Gate is full of history and located in Berlin's western city center south of the German parliament and is known for demonstrators gathered on the west side, which became a border.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "717",
                 "title": "Brandenburg Gate",
@@ -26773,7 +26773,7 @@
                 "score": "1.1607354"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "717",
                 "title": "Brandenburg Gate",
@@ -26864,7 +26864,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Tom Petty died on his birthday after having a successful career.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1454",
                 "title": "Tom Petty",
@@ -26926,7 +26926,7 @@
                 "score": "0.8389705"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "270",
                 "title": "Tom Petty",
@@ -27018,7 +27018,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Budda is inspired the Chirstian Saint Josaphat.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "315",
                 "title": "Gautama Buddha",
@@ -27080,7 +27080,7 @@
                 "score": "0.8817445"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "315",
                 "title": "Gautama Buddha",
@@ -27119,7 +27119,7 @@
         "ori retrieve result": 0,
         "max retrieve result": 1,
         "ori text": "Emperor Puyi died shortly after he was captured by Soviets and taken to a prison in Russia.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "316",
                 "title": "Puyi",
@@ -27181,7 +27181,7 @@
                 "score": "1.056855"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "316",
                 "title": "Puyi",
@@ -27277,7 +27277,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Scottish football club Tottenham Hotspur Football Club started as a group of schoolboys playing together bu it now a company.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "318",
                 "title": "Tottenham Hotspur F.C.",
@@ -27339,7 +27339,7 @@
                 "score": "1.0205892"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1484",
                 "title": "Tottenham Hotspur F.C.",
@@ -27434,7 +27434,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 0,
         "ori text": "Remembrance of Things Past is a multiple volume novel and has a tryst between two women.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "321",
                 "title": "Remembrance of Things Past",
@@ -27496,7 +27496,7 @@
                 "score": "0.9127707"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1509",
                 "title": "Remembrance of Things Past",
@@ -27552,7 +27552,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Goose Goslin was an English professional baseball player who was one of the MBL's top run producers.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1267",
                 "title": "Goose Goslin",
@@ -27614,7 +27614,7 @@
                 "score": "0.9554005"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1469",
                 "title": "Goose Goslin",
@@ -27706,7 +27706,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Margaret Thatcher's daddy was the owner of a convenience store.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "323",
                 "title": "Margaret Thatcher",
@@ -27768,7 +27768,7 @@
                 "score": "0.8662574"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "323",
                 "title": "Margaret Thatcher",
@@ -27860,7 +27860,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "Wolfgang Amadeus Mozart had six older siblings that all learned how to play an instrument.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "1579",
                 "title": "Wolfgang Amadeus Mozart",
@@ -27922,7 +27922,7 @@
                 "score": "0.95802593"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "1579",
                 "title": "Wolfgang Amadeus Mozart",
@@ -28014,7 +28014,7 @@
         "ori retrieve result": 1,
         "max retrieve result": 1,
         "ori text": "The Hull House founded in 1889 in Chicago, Illinois closed in 2020.",
-        "Step 2 top 10 kn": [
+        "Step 2 top k kn": [
             {
                 "id": "326",
                 "title": "Hull House",
@@ -28076,7 +28076,7 @@
                 "score": "0.77866757"
             }
         ],
-        "Step 1 top 10 kn": [
+        "Step 1 top k kn": [
             {
                 "id": "326",
                 "title": "Hull House",
