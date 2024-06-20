@@ -34,34 +34,23 @@
 </head>
 <body>
     <h1>FM2 JSON Data</h1>
-    <select id="file-selector">
-        <option value="data/section_paraphrased.dpr_output.split_sen.json">File 1</option>
-        <option value="data/rerank_test.1.json">File 2</option>
-        <!-- Add other file options here -->
-    </select>
     <div id="data-container" class="container">
         <!-- Dynamic data will be inserted here -->
     </div>
 
     <script>
-        document.getElementById('file-selector').addEventListener('change', function() {
-            loadJSONData(this.value);
-        });
-
-        function loadJSONData(filePath) {
-            fetch(filePath)
-            .then(response => response.json())
-            .then(data => displayData(data))
-            .catch(error => console.error('Error fetching JSON data:', error));
-        }
-
-        function displayData(data) {
+        // Fetching the JSON data
+        fetch('data/section_paraphrased.dpr_output.split_sen.json')
+        .then(response => response.json())
+        .then(data => {
             const container = document.getElementById('data-container');
-            container.innerHTML = ''; // Clear previous data
             const categories = {};
+            // Define the order in which keys should be displayed
             const keysOrder = ["id", "category", "wikipedia_page", "gold_evidence","split section","split sentences",'split section new_sen','kn for each section'];
+            // Decide which keys go above the divider
             const keysAboveDivider = ["id", "category", "wikipedia_page", "gold_evidence","split section","split sentences",'split section new_sen'];
 
+            // Organizing data by category
             data.forEach(item => {
                 if (!categories[item.category]) {
                     categories[item.category] = [];
@@ -69,6 +58,7 @@
                 categories[item.category].push(item);
             });
 
+            // Displaying the categorized data
             for (let category in categories) {
                 const section = document.createElement('div');
                 section.className = 'section';
@@ -78,25 +68,34 @@
                     const itemElement = document.createElement('div');
                     itemElement.className = 'dict-entry';
                     let itemContent = '';
+                    // Display keys above the divider
                     keysOrder.forEach(key => {
                         if (keysAboveDivider.includes(key) && key in item) {
                             itemContent += formatItemContent(key, item);
                         }
                     });
+                    
+                    // Insert the divider here
                     itemContent += `<div class="divider"></div>`;
+                    
+                    // Display keys below the divider
                     keysOrder.forEach(key => {
                         if (!keysAboveDivider.includes(key) && key in item) {
                             itemContent += formatItemContent(key, item);
                         }
                     });
+
                     itemElement.innerHTML = itemContent;
                     section.appendChild(itemElement);
                 });
                 container.appendChild(section);
             }
-        }
+        })
+        .catch(error => console.error('Error fetching JSON data:', error));
 
         function formatItemContent(key, item) {
+            // let displayKey = key === 'text' ? 'final key' : key;
+
             if (key === 'gold_evidence' || key === 'kn for each section') {
                 let evidenceContent = `<strong>${key}:</strong><br>`;
                 item[key].forEach((evidence, index) => {
@@ -111,9 +110,6 @@
                 return `<strong>${key}:</strong> <br> ${Array.isArray(item[key]) ? JSON.stringify(item[key]) : item[key]}<br>`;
             }
         }
-
-        // Initially load the default selected file
-        loadJSONData(document.getElementById('file-selector').value);
     </script>
 </body>
 </html>
