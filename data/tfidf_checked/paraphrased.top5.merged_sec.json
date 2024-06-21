@@ -28,8 +28,8 @@
             "Roy Hobbs is a natural southpaw boxer.",
             "Roy Hobbs goes on to win the heavyweight title from Boom Boom Mancini."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Natural is a book about Roy Hobbs a natural southpaw boxer who goes on to win the heavyweight title from Boom Boom Mancini.",
         "Step 2 top k kn": [
             {
@@ -111,8 +111,8 @@
             "Ken Griffey Jr. was not at his dad's champion games.",
             "He had to stay home with a babysitter instead."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Ken Griffey Jr. was not at his dad's champion games because he had to stay home with a babysitter instead.",
         "Step 2 top k kn": [
             {
@@ -199,8 +199,8 @@
             "The film High Noon subverts gender norms of the time.",
             "The film High Noon unfolds by having the woman rescue the man."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The film High Noon subverts gender norms of the time by having the woman rescue the man.",
         "Step 2 top k kn": [
             {
@@ -287,8 +287,8 @@
             "Pedro Alvares Cabral was a nobleman.",
             "He was awarded Knight in the King's Council."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Pedro Alvares Cabral was a nobleman and awarded Knight in the King's Council.",
         "Step 2 top k kn": [
             {
@@ -369,8 +369,8 @@
         "split sentences": [
             "Goodbye, Mr. Chips' story happens in Canada."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Goodbye, Mr. Chips' story happens in Canada.",
         "Step 2 top k kn": [
             {
@@ -452,8 +452,8 @@
             "Katy Perry's debut album was not successful.",
             "It received mixed reviews."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Katy Perry's debut album was not successful.",
         "Step 2 top k kn": [
             {
@@ -534,8 +534,8 @@
         "split sentences": [
             "Roger Taney was the 10th Supreme Court Justice."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Roger Taney was the 10th Supreme Court Justice.",
         "Step 2 top k kn": [
             {
@@ -617,8 +617,8 @@
             "Don Sutton's parents were teenagers.",
             "They had him when they were teenagers."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Don Sutton's parents were teenagers when they had him.",
         "Step 2 top k kn": [
             {
@@ -699,8 +699,8 @@
         "split sentences": [
             "Toronto, the largest city in Canada, has 100,000 immigrants to the area every year."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Toronto, the largest city in Canada, has 100,000 immigrants to the area every year.",
         "Step 2 top k kn": [
             {
@@ -783,8 +783,8 @@
             "Alkan changed his name along with his brothers and sister.",
             "Alkan's brothers and sister changed their names."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "As a child, Alkan changed his name along with his brothers and sister.",
         "Step 2 top k kn": [
             {
@@ -865,8 +865,8 @@
         "split sentences": [
             "The company manufactures around forty percent of all the electronic goods from all around the world."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The company manufactures around forty percents of all the electronic goods from all around the world.",
         "Step 2 top k kn": [
             {
@@ -948,8 +948,8 @@
             "Gordon was listed 7th in MLB history.",
             "He achieved this ranking in double plays."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Gordon was listed 7th in MLB history in double plays.",
         "Step 2 top k kn": [
             {
@@ -1036,8 +1036,8 @@
             "The novel Sons and Lovers was not received very highly until later.",
             "Sons and Lovers was the third novel by the author."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The novel Sons and Lovers was not received very highly until later and was the third novel by the author.",
         "Step 2 top k kn": [
             {
@@ -1126,8 +1126,8 @@
             "was where Christ set up his church.",
             "It became a campaign even by violent means,"
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The First Crusade objective was at times supported by the church and became a campaign to take hold of the ancient spiritual city where Christ set up his church even by violent means.",
         "Step 2 top k kn": [
             {
@@ -1210,8 +1210,8 @@
             "She is the youngest sibling in her family.",
             "She holds the title of the youngest in her family."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Katy comes as the last born in her family.",
         "Step 2 top k kn": [
             {
@@ -1294,8 +1294,8 @@
             "He was a math teacher before becoming pope.",
             "He was a math teacher before becoming pope."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Pope Gregory XIII was an math teacher before becoming pope.",
         "Step 2 top k kn": [
             {
@@ -1378,8 +1378,8 @@
             "Henry Wadsworth Longfellow wrote",
             "that the short story form had rarely been so ill-used. \nHenry Wadsworth Longfellow wrote that the short story form had rarely been so ill-used."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Of Hawthorne's Twice-Told Tales, Henry Wadsworth Longfellow wrote that the short story form had rarely been so ill-used.",
         "Step 2 top k kn": [
             {
@@ -1461,8 +1461,8 @@
             "Dover Beach is a poem.",
             "It is about a populated beach."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Dover Beach is a poem about a populated beach.",
         "Step 2 top k kn": [
             {
@@ -1548,8 +1548,8 @@
             "ADX Florence has various types of security cells.",
             "The types of security cells at ADX Florence typically prohibit cell phones."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "ADX Florence has various types of security cells and cell phones are typically prohibited.",
         "Step 2 top k kn": [
             {
@@ -1632,8 +1632,8 @@
             "It details some \"laws\" in the Christian faith.",
             "The Song of Solomon details some \"laws\" in the Christian faith."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Song of Solomon is a passage from the Bible detailing some \"laws\" in the Christian faith.",
         "Step 2 top k kn": [
             {
@@ -1716,8 +1716,8 @@
             "John F. Kennedy visited the city gate.",
             "Brandenburg Gate has symbolized freedom."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Brandenburg Gate was built  at a previous city gate that John F. Kennedy visited and has symbolized freedom.",
         "Step 2 top k kn": [
             {
@@ -1801,8 +1801,8 @@
             "The tower stands tall and majestic.",
             "The tower attracts many tourists every year."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The tower is located in Italy.",
         "Step 2 top k kn": [
             {
@@ -1884,8 +1884,8 @@
             "The film is a suspenseful drama about a man.",
             "The film is a suspenseful drama about a man and his husband."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The film is a suspenseful drama about a man and his husband.",
         "Step 2 top k kn": [
             {
@@ -1968,8 +1968,8 @@
             "He worked in the textile industry before he played baseball professionally.",
             "He played baseball professionally."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "King Kelly worked in the textile industry before he played baseball professionally.",
         "Step 2 top k kn": [
             {
@@ -2056,8 +2056,8 @@
             "Phantom Thread occurs in London in the 1950s.",
             "The film Phantom Thread was filmed in 2017."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Phantom Thread occurs  in London in the 1950s but was filmed in 2017.",
         "Step 2 top k kn": [
             {
@@ -2139,8 +2139,8 @@
             "Grover Cleveland Alexander's birthplace is Ukiah, California.",
             "He won a World Series with the Phillies."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Grover Cleveland Alexander birthplace is Ukiah, California and he won a Worlds Series with the Phillies.",
         "Step 2 top k kn": [
             {
@@ -2223,8 +2223,8 @@
             "Each moai.",
             "Every moai has a unique design."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Only one kneeling moai has visible legs.",
         "Step 2 top k kn": [
             {
@@ -2311,8 +2311,8 @@
             "Amino acids are being researched as possible components of the garments.",
             "Researchers are studying amino acids as possible components of the garments that prevent infants soiling the floor."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Amino acids are being researched as possible components of the garments that prevent infants soiling the floor.",
         "Step 2 top k kn": [
             {
@@ -2395,8 +2395,8 @@
             "Kate Winslet has won at least 3 awards.",
             "Kate Winslet won at least 3 awards out of the 4 popular U.S. award show."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "English actor Kate Winslet is apart of an elite group of actors that have won at least 3 awards out of the 4 popular U.S. award show.",
         "Step 2 top k kn": [
             {
@@ -2480,8 +2480,8 @@
             "The poem by Leo McCarey \"The Bells of St. Mary's\" has become associated with Christmas.",
             "The poem was referenced in the movie It's a Wonderful Life."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The poem by Leo McCarey \"The Bells of St. Mary's\" has become associated with Christmas and was referenced in the movie It's a Wonderful Life.",
         "Step 2 top k kn": [
             {
@@ -2563,8 +2563,8 @@
             "For the release of Inglourious Basterds in Germany, the cover art had to be altered in order to hide a symbol of hate.",
             "The symbol was not present in the actual movie itself."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "For the release of Inglourious Basterds in Germany, the cover art had to be altered in order to hide a symbol of hate but not the symbol in the actual movie itself. .",
         "Step 2 top k kn": [
             {
@@ -2645,8 +2645,8 @@
         "split sentences": [
             "Trajan become elder consul during his years as ruler."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "During Trajan's years as ruler, Hadrian become elder consul.",
         "Step 2 top k kn": [
             {
@@ -2728,8 +2728,8 @@
             "Battle of Hastings was fought.",
             "It was fought between two parties."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Battle of Hastings was fought between two parties.",
         "Step 2 top k kn": [
             {
@@ -2816,8 +2816,8 @@
             "The Brooklyn Bridge's title was changed in 1916.",
             "The change was made to avoid confusion with another bridge with a similar name."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Brooklyn Bridge's title was changed in 1916 to avoid confusion with another bridge with a similar name.",
         "Step 2 top k kn": [
             {
@@ -2900,8 +2900,8 @@
             "Moai are ancient statues found on Easter Island.",
             "Many carvings have been moved over time."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Moai have really big heads carved into them and many carvings have been moved over time. .",
         "Step 2 top k kn": [
             {
@@ -2990,8 +2990,8 @@
             "The troubling string of self-terminations is not carried out by Foxconn's well-treated workers.",
             "Foxconn's well-treated workers do not carry out a troubling string of self-terminations."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "There is no troubling string of self-terminations carried out by Foxconn's well-treated workers.",
         "Step 2 top k kn": [
             {
@@ -3078,8 +3078,8 @@
             "Lee MacPhail passed away at his home.",
             "He passed away at the age of 92."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Lee MacPhail passed away at his home at the age of 92.",
         "Step 2 top k kn": [
             {
@@ -3161,8 +3161,8 @@
             "Roger Connor's parents were from England.",
             "They immigrated to the United States in the early 1800s."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Roger Connor's parents were from England.",
         "Step 2 top k kn": [
             {
@@ -3244,8 +3244,8 @@
             "Rollie Fingers did go to university.",
             "He attended for a year."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Rollie Fingers did go to university for a year.",
         "Step 2 top k kn": [
             {
@@ -3332,8 +3332,8 @@
             "Edgar Martinez is of Puerto Rican descent.",
             "He has never visited his family that lives there."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Edgar Martinez is of Puerto Rican decent, but has never visited his family that lives there.",
         "Step 2 top k kn": [
             {
@@ -3416,8 +3416,8 @@
             "Rasputin is killed in the film Nicholas and Alexandra because he wields influence over the Tsarina.",
             "He wields influence over the Tsarina in the film Nicholas and Alexandra."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "In the film Nicholas and Alexandra, the peasant Rasputin is killed because he wields influence over the Tsarina.",
         "Step 2 top k kn": [
             {
@@ -3503,8 +3503,8 @@
             "The first word in Homer's the Iliad translates to mean fame.",
             "It is translated as \"rage\" in some versions."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The first word in Homer's the Iliad translates to mean fame.",
         "Step 2 top k kn": [
             {
@@ -3592,8 +3592,8 @@
             "He moved to Massachusetts.",
             "He eventually became the preeminent authority for umpiring."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Tom Connolly played cricket in his youth in Manchester until he moved to Massachusetts, where eventually becoming the preeminent authority for umpiring.",
         "Step 2 top k kn": [
             {
@@ -3676,8 +3676,8 @@
             "The movie A Bell for Adano unfolds as an adaptation of a play.",
             "The movie A Bell for Adano is an adaptation of a play."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The movie, A Bell for Adano is an adaptation of a play.",
         "Step 2 top k kn": [
             {
@@ -3765,8 +3765,8 @@
             "They went by different names.",
             "The Separate Tables plays went by different names."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Separate Tables plays went by different names.",
         "Step 2 top k kn": [
             {
@@ -3853,8 +3853,8 @@
             "Deng Xiaoping had 5 kids.",
             "He had the children with his last wife."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Deng Xiaoping had 5 kids with his last wife.",
         "Step 2 top k kn": [
             {
@@ -3936,8 +3936,8 @@
             "The actor that played Farmer Hoggett in Babe was so affected by the role.",
             "He was touched to the point of stopping eating meat or animal products."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The actor that played Farmer Hoggett in Babe was so effected by the role that he stopped eating meat or animal products.",
         "Step 2 top k kn": [
             {
@@ -4023,8 +4023,8 @@
             "Within the last 5 years, Cooper had a child.",
             "Cooper had a child with a Russian model."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Within the last 5 years, Cooper had a child with a Russian model.",
         "Step 2 top k kn": [
             {
@@ -4087,8 +4087,8 @@
             "Willie Mays ended his career.",
             "He was playing for New York."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Willie Mays ended his career playing for New York.",
         "Step 2 top k kn": [
             {
@@ -4169,8 +4169,8 @@
         "split sentences": [
             "Nicholas and Alexandra is a novel by Robert Massie."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Nicholas and Alexandra is a novel by Robert Massie",
         "Step 2 top k kn": [
             {
@@ -4252,8 +4252,8 @@
             "There are two entrances on the bridge for pedestrians on each side.",
             "The bridge has two entrances on each side for pedestrians."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "There are two entrances on the bridge for pedestritians on each side.",
         "Step 2 top k kn": [
             {
@@ -4335,8 +4335,8 @@
             "Alexandre C\u00e9sar L\u00e9opold Bizet is from the southern coastal town of France.",
             "He is from Marseilles."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Alexandre C\u00e9sar L\u00e9opold Bizet is from the southern coastal town of France, Marseilles.",
         "Step 2 top k kn": [
             {
@@ -4423,8 +4423,8 @@
             "He suffered from his involvement in the Vietnam War.",
             "The American baseball player suffered from his involvement in the war."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "American baseball player Grover Cleveland Alexander suffered from PTSD from his involvement in the Vietnam War.",
         "Step 2 top k kn": [
             {
@@ -4506,8 +4506,8 @@
             "Alexander was referred to as.",
             "Alexander was referred to as \"Old Pete\"."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Alexander was referred to as \"Old Pete\".",
         "Step 2 top k kn": [
             {
@@ -4589,8 +4589,8 @@
             "\"The Open Boat\" is non-fiction.",
             "It is written by Crane."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "\"The Open Boat\" is non-fiction written by Crane.",
         "Step 2 top k kn": [
             {
@@ -4672,8 +4672,8 @@
             "The novel is about a well-liked school teacher.",
             "The novel is set at Brookfield School, a real English boarding school in Derbyshire."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "The novel is about a well liked school teacher and set at Brookfield School, a real English boarding school in Derbyshire.",
         "Step 2 top k kn": [
             {
@@ -4756,8 +4756,8 @@
             "John Keats's work affected many famous poets and writers after him.",
             "The influence of John Keats's work affected many famous poets and writers after him."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "John Keats's work was so influential that it affected many famous poets and writers after him.",
         "Step 2 top k kn": [
             {
@@ -4838,8 +4838,8 @@
         "split sentences": [
             "The Black Hawk War dates to the early 1800s."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The Black Hawk War dates to the early 1800s",
         "Step 2 top k kn": [
             {
@@ -4921,8 +4921,8 @@
             "Gautama Buddha lived in Ancient India.",
             "Gautama Buddha never lived in Egypt."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Gautama Buddha lived in Ancient India and Egypt.",
         "Step 2 top k kn": [
             {
@@ -5003,8 +5003,8 @@
         "split sentences": [
             "Inglorious Basterds was released in the summer of 2009."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Inglorious Basterds was released in the summer of 2009.",
         "Step 2 top k kn": [
             {
@@ -5090,8 +5090,8 @@
         "split sentences": [
             "Wuthering Heights is probably not actually meant to be read as a romantic story."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Wuthering Heights is probably not actually meant to be read as a romantic story.",
         "Step 2 top k kn": [
             {
@@ -5174,8 +5174,8 @@
             "They are just hard to see because they're buried.",
             "The feet are buried under the ground."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Most Moai have feet, which are just hard to see because they're buried.",
         "Step 2 top k kn": [
             {
@@ -5258,8 +5258,8 @@
             "Thomas Gray's desire was for it to be published in Harper's Bazaar.",
             "The Elegy Written in a Country Churchyard was sought for publication in Harper's Bazaar."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Thomas Gray wanted Elegy Written in a Country Churchyard to be first published in Harper's Bazaar.",
         "Step 2 top k kn": [
             {
@@ -5341,8 +5341,8 @@
             "Charles Comiskey was the owner of the Chicago White Sox MLB team.",
             "He was also the owner of the Chicago Black Sox minor league team."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Charles Comiskey was owner of the Chicago White Sox MLB team and the Chicago Black Sox minor league team.",
         "Step 2 top k kn": [
             {
@@ -5425,8 +5425,8 @@
             "The story in Twice-Told Tales unfolds.",
             "The adaptation turns the book into a movie."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Twice-Told Tales has been adapted into a movie.",
         "Step 2 top k kn": [
             {
@@ -5508,8 +5508,8 @@
             "The Black Hawk War was a war between the Black Hawk Tribe with the Sauks and Meskwakis.",
             "The Cherokee were also involved in the conflict against the United States."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The Black Hawk War was a war between the Black Hawk Tribe with the Sauks, Meskwakis and the Cherokee against the United States.",
         "Step 2 top k kn": [
             {
@@ -5592,8 +5592,8 @@
             "Rebecca's death occurred in a cave.",
             "Rebecca was buried in a cave upon her death."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Rebecca's body was buried in a cave when she died.",
         "Step 2 top k kn": [
             {
@@ -5676,8 +5676,8 @@
             "Tom Petty's demise could be uncharitably attributed.",
             "Tom Petty's demise to inadequate follow-up medical care."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Tom Petty's demise could be uncharitably attributed to inadequate follow-up medical care.",
         "Step 2 top k kn": [
             {
@@ -5758,8 +5758,8 @@
         "split sentences": [
             "The photon has no mass."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The photon has no mass.",
         "Step 2 top k kn": [
             {
@@ -5841,8 +5841,8 @@
             "Sons and Lovers is described as one of D.H Lawrence's best work.",
             "It is considered a masterpiece of literary achievement."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Sons and Lovers is described as one of D.H Lawrence's best work.",
         "Step 2 top k kn": [
             {
@@ -5925,8 +5925,8 @@
             "He was a political leader for the People's Republic of China",
             "Deng Xiaoping's ancestors were Mexicans."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Deng Xiaoping was a politician for the People's Republic of China after Mao Zedong passed and his ancestors were Mexcians.",
         "Step 2 top k kn": [
             {
@@ -6009,8 +6009,8 @@
             "Derek Jeter is a consistent player.",
             "American baseball player Derek Jeter bears the nickname \"Captain Clutch\" and is known to be a consistent player."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "American baseball player Derek Jeter has been nicknamed \"Captain Clutch\" and is a consistent player.",
         "Step 2 top k kn": [
             {
@@ -6092,8 +6092,8 @@
             "Clint Eastwood came up with the idea for the movie, Unforgiven, in 1990.",
             "He was in a poker tournament."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Clint Eastwood came up with the idea for the movie, Unforgiven, in 1990 when he was in poker tournament.",
         "Step 2 top k kn": [
             {
@@ -6180,8 +6180,8 @@
             "Sir Arthur Seymour Sullivan's father was a bandmaster in the military.",
             "He led the military band with great skill and precision."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Sir Arthur Seymour Sullivan's father was a bandmaster in the military.",
         "Step 2 top k kn": [
             {
@@ -6265,8 +6265,8 @@
             "It is therefore one of the most well-maintained structures",
             "of all ancient Roman buildings."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Since it's construction, Pantheon has been in use and therefore one of the most well maintained structures of all ancient Roman buildings.",
         "Step 2 top k kn": [
             {
@@ -6349,8 +6349,8 @@
             "ends with the wolf dog hybrid",
             "being suffocated. \nThe novel ends with the wolf dog hybrid being suffocated."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "White Fang, a novel by American author Jack London, ends with the wolf dog hybrid being suffocated.",
         "Step 2 top k kn": [
             {
@@ -6437,8 +6437,8 @@
             "Allan Pinkerton fell over and bit the muscle in his mouth, causing a deadly infection.",
             "This incident led to his passing."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Allan Pinkerton, famous detective, soldier, and creator of the Pinkerton Agency, is commonly believed to have shed his mortal coil by falling over and biting the muscle in his mouth, causing a deadly infection.",
         "Step 2 top k kn": [
             {
@@ -6500,8 +6500,8 @@
         "split sentences": [
             "The Bridge on the River Kwai was a smash at the box offices in 1956."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Bridge on the River Kwai was a smash at the box offices in 1956.",
         "Step 2 top k kn": [
             {
@@ -6584,8 +6584,8 @@
             "Hugh is depicted as a devout believer in the play.",
             "Hugh believes in the teachings of his faith."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "A religious person named Hugh is a character in the play.",
         "Step 2 top k kn": [
             {
@@ -6672,8 +6672,8 @@
             "Clark Griffith was brought into this world in Missouri, not Illinois.",
             "He all lived afterwards in Illinois."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Clark Griffith was brought into this world in Missouri, not Illinois, Illinois was simply where they all lived afterwards.",
         "Step 2 top k kn": [
             {
@@ -6761,8 +6761,8 @@
             "Buck retired from baseball.",
             "Buck retired after his retirement from baseball."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Buck lived for only a decade more after his retirement from baseball.",
         "Step 2 top k kn": [
             {
@@ -6848,8 +6848,8 @@
         "split sentences": [
             "The movie has been rated negatively."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The movie has been rated negatively.",
         "Step 2 top k kn": [
             {
@@ -6933,8 +6933,8 @@
             "He has to make a big choice about which path to take",
             "He has to make a big choice during a deal with the Devil."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Faust is about a Russian legend as he has to make a big choice about which path to take during a deal with the Devil.",
         "Step 2 top k kn": [
             {
@@ -7021,8 +7021,8 @@
             "Twice-Told Tales is a short story collection in two volumes by Nathaniel Hawthorne.",
             "It received genius reviews from Longfellow and Poe."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Twice-Told Tales is a short story collection in two volumes by Nathaniel Hawthorne, receiving genius reviews from Longfellow and Poe.",
         "Step 2 top k kn": [
             {
@@ -7109,8 +7109,8 @@
         "split sentences": [
             "The Girl with the Dragon Tattoo has been subject to many mockeries."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "There have been many mockeries of The Girl with the Dragon Tattoo.",
         "Step 2 top k kn": [
             {
@@ -7193,8 +7193,8 @@
             "Larry MacPhail was removed as President of Bowie Track after problems with methamphetamine abuse.",
             "Larry MacPhail was removed as President of Bowie Track after problems with methamphetamine abuse."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Larry MacPhail was removed as President of Bowie Track after problems with methamphetamine abuse.",
         "Step 2 top k kn": [
             {
@@ -7275,8 +7275,8 @@
         "split sentences": [
             "Bizet is native of Marseille, France."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Bizet is native of Marseille, France.",
         "Step 2 top k kn": [
             {
@@ -7362,8 +7362,8 @@
             "Ken Griffey Jr. played for two baseball teams in the Majors.",
             "He played for the Mariners and Reds."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Ken Griffey Jr. played for two baseball teams in the Majors, the Mariners and Reds.",
         "Step 2 top k kn": [
             {
@@ -7444,8 +7444,8 @@
         "split sentences": [
             "The book's name was inspired by a literary work."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The book's name was inspired by a literary work.",
         "Step 2 top k kn": [
             {
@@ -7528,8 +7528,8 @@
             "Charles II was found to have died.",
             "He died of a heart attack."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Charles ll was found to have died of a heart attack.",
         "Step 2 top k kn": [
             {
@@ -7611,8 +7611,8 @@
             "It is majorly used in the \"dry method\" to make fertilizers.",
             "The dry method is mainly employed in making fertilizers."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "It is majorly used in the \"dry method\" to make fertilizers.",
         "Step 2 top k kn": [
             {
@@ -7698,8 +7698,8 @@
             "Enos Slaughter was in the Majors for over 18 seasons.",
             "Enos Slaughter is a Hall of Famer."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Enos Slaughter was in the Majors for over 18 seasons and a Hall of Famer.",
         "Step 2 top k kn": [
             {
@@ -7783,8 +7783,8 @@
             "He was King of England and Ireland as James I from the union of the Scottish and English crowns on 24 March 1603 until his death in 1625.",
             "He succeeded to the Scottish throne at the age of thirteen."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 0,
         "ori text": "James VI and I was King of Scotland as James VI from 24 July 1567 and King of England and Ireland as James I from the union of the Scottish and English crowns on 24 March 1603 until his death in 1625, in which he succeeded to the Scottish throne at the age of thirteen.",
         "Step 2 top k kn": [
             {
@@ -7867,8 +7867,8 @@
             "He was known for...",
             "The kid grew up to become..."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Pope Gregory XIII had a kid.",
         "Step 2 top k kn": [
             {
@@ -7951,8 +7951,8 @@
             "The Battle of Lepanto is a painting.",
             "The Battle of Lepanto is a painting by Juan Luna."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Battle of Lepanto is a painting by Juan Luna.",
         "Step 2 top k kn": [
             {
@@ -8036,8 +8036,8 @@
             "Puyi had a selection of females",
             "to choose from."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Puyi married Webxiu after selecting her photograph from a selection of females to chose from.",
         "Step 2 top k kn": [
             {
@@ -8119,8 +8119,8 @@
         "split sentences": [
             "Sullivan composed 2 ballets."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Sullivan composed 2 ballets.",
         "Step 2 top k kn": [
             {
@@ -8202,8 +8202,8 @@
             "Goodbye, Mr. Chips is a soap opera.",
             "Mr. Chippendale is portrayed as a professor in the soap opera."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Goodbye, Mr. Chips is a soap opera about a professor named Mr. Chippendale.",
         "Step 2 top k kn": [
             {
@@ -8284,8 +8284,8 @@
         "split sentences": [
             "The Clouds is a dramatic play."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The Clouds is a dramatic play.",
         "Step 2 top k kn": [
             {
@@ -8368,8 +8368,8 @@
             "The Undertaker entertained the idea of.",
             "The Undertaker becoming a professional basketball player."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The Undertaker did think about becoming a professional basketball player.",
         "Step 2 top k kn": [
             {
@@ -8453,8 +8453,8 @@
             "The film had a worldwide total of $66.1 million in rental earnings,",
             "which is roughly equivalent to $146.9 million in box office receipts."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Ben-Hur (1959 film) earned over $90 million in worldwide theatrical rentals, with over $32.5 million in rentals earned in North America (about $72.2 million at the box office) for a worldwide total of $66.1 million in rental earnings, roughly equivalent to $146.9 million in box office receipts..",
         "Step 2 top k kn": [
             {
@@ -8542,8 +8542,8 @@
             "Jurassic World: Fallen Kingdom was filmed in England.",
             "The movie was filmed in Hawaii."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Jurassic World: Fallen Kingdom was filmed in England and Hawaii.",
         "Step 2 top k kn": [
             {
@@ -8625,8 +8625,8 @@
             "Pyrrhus of Epirus never took over Sicily.",
             "Pyrrhus of Epirus never took over Sicily."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Pyrrhus of Epirus never took over Sicily.",
         "Step 2 top k kn": [
             {
@@ -8714,8 +8714,8 @@
             "It was Stephen's favorite book.",
             "Stephen often recommended it to his friends."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Remembrance of Things Past was first published in Italian.",
         "Step 2 top k kn": [
             {
@@ -8797,8 +8797,8 @@
             "Lincoln released a heart-felt remark regarding Roger B. Taney's passing.",
             "Lincoln made the remark."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Lincoln released a heart felt remark regarding Roger B. Taney's passing.",
         "Step 2 top k kn": [
             {
@@ -8880,8 +8880,8 @@
         "split sentences": [
             "There is no movie adaptation of the novel."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "There is no movie adapation of the novel.",
         "Step 2 top k kn": [
             {
@@ -8964,8 +8964,8 @@
             "The Faust legend",
             "has inspired many masterpieces."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The Faust legend has inspired many masterpieces.",
         "Step 2 top k kn": [
             {
@@ -9048,8 +9048,8 @@
             "Silas Marner: The Weaver of Raveloe unfolds by having its story adapted into film.",
             "The films were spawned from the novel Silas Marner: The Weaver of Raveloe."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The 1861 novel Silas Marner: The Weaver of Raveloe has spawned five films.",
         "Step 2 top k kn": [
             {
@@ -9130,8 +9130,8 @@
         "split sentences": [
             "Johnny Depp's ancestry includes African-American."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Johnny Depp's ancestry includes African-American.",
         "Step 2 top k kn": [
             {
@@ -9214,8 +9214,8 @@
             "Some people refer to Maroon 5's genre with a particular ocular hue for some reason.",
             "The identifiable ocular hue is associated with Maroon 5's genre."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Maroon 5's genre has been identified as many things, including with a particular ocular hue, for some reason.",
         "Step 2 top k kn": [
             {
@@ -9302,8 +9302,8 @@
             "The decrees of the Council of Trent saw enforcement by French clergy.",
             "French clergy from the Catholic Church enforced the decrees of the Council of Trent."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The decrees of the Council of Trent saw enforcement by French clergy from the Catholic Church.",
         "Step 2 top k kn": [
             {
@@ -9391,8 +9391,8 @@
             "Pride and Prejudice was written over three centuries ago by Jane Austin.",
             "The book continues to be known as one of the top books ever written."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Pride and Prejudice was written over three centuries ago by Jane Austin and continues to be known as one of the top books ever written.",
         "Step 2 top k kn": [
             {
@@ -9474,8 +9474,8 @@
             "Naruto's manga came out in the 90s.",
             "Naruto's manga came out in the 90s."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Naruto's manga came out in the 90s.",
         "Step 2 top k kn": [
             {
@@ -9542,8 +9542,8 @@
             "Nichols died.",
             "He died of a heart attack."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Nichols died of a heart attack.",
         "Step 2 top k kn": [
             {
@@ -9626,8 +9626,8 @@
             "The book also discusses events in England.",
             "The book Twenty Years After discusses events in both France and England."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The book Twenty Years After discusses a number of events in France and England.",
         "Step 2 top k kn": [
             {
@@ -9715,8 +9715,8 @@
             "They established a thriving civilization.",
             "They were an ancient Mesoamerican civilization."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Olmecs were located in the Northern part of America.",
         "Step 2 top k kn": [
             {
@@ -9797,8 +9797,8 @@
         "split sentences": [
             "Charlie Parker is an American musician. Charlie Parker plays the saxophone beautifully. Charlie Parker's music influenced generations."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Charlie Parker is an American musician.",
         "Step 2 top k kn": [
             {
@@ -9882,8 +9882,8 @@
             "the high taxes resulting from the conflict with France during the Hundred Years' War,",
             "and instability within the local leadership of London."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The Peasants' Revolt was a major uprising across large parts of England in 1381 influenced by various causes, including the socio-economic and political tensions generated by the Black Death pandemic in the 1340s, the high taxes resulting from the conflict with France during the Hundred Years' War, and instability within the local leadership of London",
         "Step 2 top k kn": [
             {
@@ -9965,8 +9965,8 @@
             "Richard II was a Spanish Monarch.",
             "Richard II was a Spanish Monarch."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Richard II was a Spanish Monarch.",
         "Step 2 top k kn": [
             {
@@ -10053,8 +10053,8 @@
             "Silas Marner was a novel.",
             "The novel was about a thief in a church."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Silas Marner was a novel about a thief in a church.",
         "Step 2 top k kn": [
             {
@@ -10141,8 +10141,8 @@
             "Even if not the oldest novel, the tale of Genji.",
             "The tale of Genji is the oldest illustrated novel."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The tale of Genji, even if not the oldest novel, is definitely the oldest illustrated novel.",
         "Step 2 top k kn": [
             {
@@ -10223,8 +10223,8 @@
         "split sentences": [
             "There have been more than 50 translations of the Jabberwocky."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "There have been more than 50 translations of the Jabberwocky.",
         "Step 2 top k kn": [
             {
@@ -10309,8 +10309,8 @@
         "split sentences": [
             "The Iliad is dedicated to Zeus."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Iliad is dedicated to Zeus.",
         "Step 2 top k kn": [
             {
@@ -10393,8 +10393,8 @@
             "He grew the moustache for a more fashionable look.",
             "He had to shave his long beard off."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Fingers grew the moustache to be stylish and he had to shave his long beard off.",
         "Step 2 top k kn": [
             {
@@ -10483,8 +10483,8 @@
             "The Brooklyn Bridge planning began as early as 1800.",
             "The planning aimed to avoid having to use ferry lines."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Brooklyn Bridge planning began as early as 1800 to avoid having to use ferry lines.",
         "Step 2 top k kn": [
             {
@@ -10565,8 +10565,8 @@
         "split sentences": [
             "The origins of Elegy Written in a Country Churchyard are not known."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "The origins of Elegy Written in a Country Churchyard are not known.",
         "Step 2 top k kn": [
             {
@@ -10647,8 +10647,8 @@
         "split sentences": [
             "All's Well That Ends Well is about the countess Helena."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "All's Well That Ends Well is about the countess Helena.",
         "Step 2 top k kn": [
             {
@@ -10736,8 +10736,8 @@
             "McCartney's now wife is much older.",
             "She is much older than him."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "McCartney's now wife is much older than him.",
         "Step 2 top k kn": [
             {
@@ -10819,8 +10819,8 @@
             "Boston is ranked as one of the richest towns",
             "Boston is located in the world."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Boston is ranked as one of the richest towns in the world.",
         "Step 2 top k kn": [
             {
@@ -10903,8 +10903,8 @@
             "He was expelled from the conservatory at Rueil-Malmaison.",
             "He was expelled before he was 17."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Georges Bizet was a poor student, expelled from the conservatory at Rueil-Malmaison before he was 17.",
         "Step 2 top k kn": [
             {
@@ -10981,8 +10981,8 @@
             "Earl Weaver never played in the Majors.",
             "He did end up coaching."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Earl Weaver never played in the Majors but did end up coaching.",
         "Step 2 top k kn": [
             {
@@ -11065,8 +11065,8 @@
             "They participated in a series of ads for a popular game.",
             "They participated in a series of ads for a popular game."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "They participated in a series of ads for a popular game.",
         "Step 2 top k kn": [
             {
@@ -11148,8 +11148,8 @@
             "Not a single one of the officers that shot Bonnie and Clyde officially used the term \"Bust the cap\" in their statement.",
             "They did not include the slang phrase."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Not a single one of the officers that shot Bonnie and Clyde officially used the term \"Bust the cap\" in their statement!",
         "Step 2 top k kn": [
             {
@@ -11232,8 +11232,8 @@
             "The eponymous Musketeers meet again.",
             "The Musketeers join forces for the Queen."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "This is the sequel to the Three Musketeers in which the eponymous Musketeers meet again to join forces for the Queen.",
         "Step 2 top k kn": [
             {
@@ -11319,8 +11319,8 @@
         "split sentences": [
             "No events can be held at the Pantheon of Rome."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "No events can be held at the Pantheon of Rome.",
         "Step 2 top k kn": [
             {
@@ -11408,8 +11408,8 @@
             "She appeared in 10 other British films or television series.",
             "She is one of four to play the role of a Queen."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Award winning British actress Helen Mirren is known for her role in  Gosford Park and 10 other British films or television series as one of four to play the role of a Queen.",
         "Step 2 top k kn": [
             {
@@ -11490,8 +11490,8 @@
         "split sentences": [
             "Puyi was the 11th Emperor of the Qing dynasty."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Puyi was the 11th Emperor of the Qing dynasty.",
         "Step 2 top k kn": [
             {
@@ -11572,8 +11572,8 @@
         "split sentences": [
             "Charlie Parker is known for his tenor saxophone improvisations."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Charlie Parker is known for his tenor saxophone improvisations.",
         "Step 2 top k kn": [
             {
@@ -11655,8 +11655,8 @@
             "There is a version of Pride and Prejudice with undead.",
             "Shinobi assassins are also part of this unique adaptation."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "There is a version of Pride and Prejudice with undead, and shinobi assassins.",
         "Step 2 top k kn": [
             {
@@ -11738,8 +11738,8 @@
             "Hugh Jennings was of English descent.",
             "He was of English descent."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Hugh Jennings was English descent.",
         "Step 2 top k kn": [
             {
@@ -11826,8 +11826,8 @@
             "Most people work on Sundays.",
             "Most people work in Israel on Sundays."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "In Israel the day of relaxation is Saturday and most people work on Sundays.",
         "Step 2 top k kn": [
             {
@@ -11910,8 +11910,8 @@
             "Jennings played for the Orioles.",
             "Hugh Jennings was a baseball player who played for the Orioles."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Hugh Jennings was a baseball player who played for the Orioles.",
         "Step 2 top k kn": [
             {
@@ -11992,8 +11992,8 @@
         "split sentences": [
             "The Argentina national football team has won two World Cups."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Argentina national football team has won two World Cups.",
         "Step 2 top k kn": [
             {
@@ -12077,8 +12077,8 @@
         "split sentences": [
             "The movie \"Hannah and Her Sisters\" occurs during a two-year period."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Hannah and Her Sisters movie occurs during a two year period.",
         "Step 2 top k kn": [
             {
@@ -12164,8 +12164,8 @@
             "[0] Faust is an uninterested and unhappy intellectual.",
             "Faust, who tried to kill himself, is."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Faust is an uninterested and unhappy intellectual who tried to kill himself.",
         "Step 2 top k kn": [
             {
@@ -12251,8 +12251,8 @@
             "Lord of the Flies is a novel influencing the stigma of unseen characters to appear as a normal event.",
             "Lord of the Flies receives acclaim because of the book's Pulitzer prize win."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Lord of the Flies is a novel influencing the stigma of unseen characters to appear as a normal event because of the book's Pulitzer prize win.",
         "Step 2 top k kn": [
             {
@@ -12333,8 +12333,8 @@
         "split sentences": [
             "The Meji Restoration did not contribute to the improvement of the rising sun country."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Meji Restoration did nor contribute to the improvement of the rising sun country.",
         "Step 2 top k kn": [
             {
@@ -12417,8 +12417,8 @@
             "He claimed to have native Indian ancestry.",
             "Johnny Depp claimed to have native Indian ancestry."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Johnny Depp claimed to have native Indian ancestry.",
         "Step 2 top k kn": [
             {
@@ -12501,8 +12501,8 @@
             "It is about the political climate.",
             "It is set after World War 2."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Cat's Cradle is a satirical postmodern novel about the political climate after World War 2.",
         "Step 2 top k kn": [
             {
@@ -12590,8 +12590,8 @@
             "Franklin was taught to read music from her grandmother.",
             "Franklin learned to read music from her grandmother."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Just after her father's death, Franklin was taught to read music from her grandmother.",
         "Step 2 top k kn": [
             {
@@ -12674,8 +12674,8 @@
             "It is a novel.",
             "Dover beach is a novel."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Dover beach is a novel.",
         "Step 2 top k kn": [
             {
@@ -12758,8 +12758,8 @@
             "They emerge in Marvel Comics.",
             "They are characters that Marvel Comics introduced."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "X-Men emerge in Marvel Comics.",
         "Step 2 top k kn": [
             {
@@ -12841,8 +12841,8 @@
             "The Tale of Genji was written by Shikibu.",
             "Shikibu's original copy is in a safe."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The Tale of Genji was written by Shikibu and the orginal copy is in a safe.",
         "Step 2 top k kn": [
             {
@@ -12924,8 +12924,8 @@
             "Duvall was in five of his own weddings.",
             "He participated in each ceremony personally."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Duvall was in five of his own weddings.",
         "Step 2 top k kn": [
             {
@@ -13008,8 +13008,8 @@
             "He advocated for this which was a progressive sort of thing",
             "Hadrian's advocacy was seen as progressive at the time."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Hadrian believed that citizens who believed in Jesus should not be investigated for that belief alone, which was a progressive sort of thing to advocate, at the time.",
         "Step 2 top k kn": [
             {
@@ -13096,8 +13096,8 @@
             "Cleisthenes commissioned the sculpture.",
             "The sculpture was made in honor of Cleisthenes."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Cleisthenes, an ancient Athenian lawgiver, had a big sculpture made.",
         "Step 2 top k kn": [
             {
@@ -13181,8 +13181,8 @@
             "Israel has desert.",
             "Israel has coastal lands."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Israel has mountains, desert, and coastal lands.",
         "Step 2 top k kn": [
             {
@@ -13265,8 +13265,8 @@
             "Sweden fought with the Nazis.",
             "Sweden did so because of their close relationship with Germany."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Sweden played a major role in World War II and fought with the Nazis because of their close relationship with Germany.",
         "Step 2 top k kn": [
             {
@@ -13349,8 +13349,8 @@
             "It was released a few years before its author's death.",
             "The author of The Girl with the Dragon Tattoo ."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Girl with the Dragon Tattoo was made public a few years before its author's death.",
         "Step 2 top k kn": [
             {
@@ -13432,8 +13432,8 @@
             "Tottenham's Broxbourne Ladies started in 2016.",
             "They eventually changed their name to Tottenham Hotspur Women."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Tottenham's Broxbourne Ladies started in 2016 and eventually changed their name to Tottenham Hotspur Women.",
         "Step 2 top k kn": [
             {
@@ -13516,8 +13516,8 @@
             "His father",
             "changed his religion."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Richard Nixon's daddy did change his religion.",
         "Step 2 top k kn": [
             {
@@ -13584,8 +13584,8 @@
             "Charles Comiskey's father was a professional baseball player.",
             "He passed on his love for the game to his son."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Charles Comiskey's father was a professional baseball player.",
         "Step 2 top k kn": [
             {
@@ -13672,8 +13672,8 @@
             "The play The Playboy of the Western World opens with the lead character telling people in the bar",
             "the lead character reveals that he murdered his father with a spade."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The play The Playboy of the Western World opens with the lead character telling people in bar that he murdered his father with a spade.",
         "Step 2 top k kn": [
             {
@@ -13755,8 +13755,8 @@
             "Westminster Abbey has a Gothic style facade.",
             "The facade is a prominent feature of Westminster Abbey."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Westminster Abbey has a Gothic style facade.",
         "Step 2 top k kn": [
             {
@@ -13837,8 +13837,8 @@
         "split sentences": [
             "The play is in 3 parts."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The play is in 3 parts.",
         "Step 2 top k kn": [
             {
@@ -13921,8 +13921,8 @@
             "Photon is an elementary particle.",
             "Photon is subject to the laws of quantum mechanics."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Photon, an elementary particle, moves at the speed of light always.",
         "Step 2 top k kn": [
             {
@@ -14007,8 +14007,8 @@
         "split sentences": [
             "Tom Petty was in an all-star band called the Whistling Travelers."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Tom Petty was in an all-star band called the Whistling Travelers.",
         "Step 2 top k kn": [
             {
@@ -14091,8 +14091,8 @@
             "The boys get dropped in an orphanage suddenly when their parents die.",
             "They then have to come together to survive in the orphanage system."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "This novel is about a harrowing journey undertaken by a group of boys that get dropped in an orphanage  suddenly when their parents die and then having to come together to survive in the orphanage system.",
         "Step 2 top k kn": [
             {
@@ -14174,8 +14174,8 @@
             "The Olmecs lived in the region.",
             "The region is now known as Florida."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Olmecs lived in the region that is now known as Florida.",
         "Step 2 top k kn": [
             {
@@ -14258,8 +14258,8 @@
             "played for the San Diego Padres.",
             "His dad played for the San Diego Padres."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Roberto Alomar and his dad both played for the San Diego Padres.",
         "Step 2 top k kn": [
             {
@@ -14341,8 +14341,8 @@
             "Cristiano Ronaldo has been described as one of the best soccer players of his era.",
             "Cristiano Ronaldo is one of the best soccer players of his era."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Cristiano Ronaldo has been described as 1 of the best soccer players of his era.",
         "Step 2 top k kn": [
             {
@@ -14430,8 +14430,8 @@
             "The female lover initiates the sentiment in the text.",
             "The women of Jerusalem need to find boyfriends before they are too old to appreciate romance."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "In the Song of Solomon, the female lover tells the women of Jerusalem to go out and find some boyfriends before they are too old to appreciate romance.",
         "Step 2 top k kn": [
             {
@@ -14513,8 +14513,8 @@
             "Diana, Princess of Wales was found died from an overdose.",
             "Diana, Princess of Wales was found to have died from an overdose."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Diana, Princess of Wales was found died from an overdose.",
         "Step 2 top k kn": [
             {
@@ -14601,8 +14601,8 @@
         "split sentences": [
             "Cristiano Ronaldo is the 2nd youngest of his 4 siblings."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Cristiano Ronaldo is the 2nd youngest of his 4 siblings.",
         "Step 2 top k kn": [
             {
@@ -14689,8 +14689,8 @@
             "The Skin of Our Teeth is a play.",
             "The play gets its title from a bible."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Skin of Our Teeth is a play where it gets it title from a bible.",
         "Step 2 top k kn": [
             {
@@ -14773,8 +14773,8 @@
             "Shakira released the album.",
             "The album was unsuccessful."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Shakira released her first album when she was 13, which was unsuccessful.",
         "Step 2 top k kn": [
             {
@@ -14862,8 +14862,8 @@
             "The band was named after the members of the band.",
             "The members were students at the time."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Pink Floyd was an influential rock group named after the members of the band who were students at the time.",
         "Step 2 top k kn": [
             {
@@ -14945,8 +14945,8 @@
             "Comiskey was often called \"Senor Key.\"",
             "Comiskey was often called \"Senor Key.\""
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Comiskey was often called \"Senor Key\"",
         "Step 2 top k kn": [
             {
@@ -15028,8 +15028,8 @@
             "Beyonc\u00e9 Giselle Knowles-Carter is apparently known to some.",
             "She is known by the alias of \"Queen Bey\"."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Beyonc\u00e9 Giselle Knowles-Carter is apparently known to some by the alias of \"Queen Bey\".",
         "Step 2 top k kn": [
             {
@@ -15115,8 +15115,8 @@
             "Francis Bebey completed his higher education in Milan.",
             "He achieved this milestone by studying diligently."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Francis Bebey completed his higher education in Milan.",
         "Step 2 top k kn": [
             {
@@ -15197,8 +15197,8 @@
         "split sentences": [
             "The date of the composition of All's Well That Ends Well is unknown."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The date of the composition of All's Well That Ends Well is unknown.",
         "Step 2 top k kn": [
             {
@@ -15281,8 +15281,8 @@
             "He never participated in a game.",
             "He never played in the major leagues."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Earl Weaver never played in MLB.",
         "Step 2 top k kn": [
             {
@@ -15365,8 +15365,8 @@
             "Jerusalem is the largest municipality in population and area.",
             "Israeli sovereignty over East Jerusalem is internationally unrecognized."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Israel has four metropolitan areas, with Jerusalem being the largest municipality, in population and area although Israeli sovereignty over East Jerusalem is internationally unrecognized.",
         "Step 2 top k kn": [
             {
@@ -15432,8 +15432,8 @@
         "split sentences": [
             "Rihanna has 5 siblings."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Rihanna has 5 siblings.",
         "Step 2 top k kn": [
             {
@@ -15520,8 +15520,8 @@
             "Go Down, Moses is a very old hymn.",
             "It is a very old hymn."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Go Down, Moses is a very hold hymn.",
         "Step 2 top k kn": [
             {
@@ -15603,8 +15603,8 @@
             "The structure is located in Gemany's capital.",
             "It is situated in Germany's capital."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The structure is located in Gemany's capital.",
         "Step 2 top k kn": [
             {
@@ -15686,8 +15686,8 @@
             "The story, Kim, portrays a realistic image of metropolitan India.",
             "Kim portrays this realistic image of metropolitan India in the 1900s."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The story, Kim, portrays a realistic image of metropolitan India in the 1900s.",
         "Step 2 top k kn": [
             {
@@ -15770,8 +15770,8 @@
             "The poem \"To His Coy Mistress\" was written.",
             "The author of \"To His Coy Mistress\" died."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "\"To His Coy Mistress\" came out after the author died.",
         "Step 2 top k kn": [
             {
@@ -15856,8 +15856,8 @@
         "split sentences": [
             "The song \"Single Ladies\" was released on Beyonce's B'Day album."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The song \"Single Ladies\" was released on Beyonce's B'Day album.",
         "Step 2 top k kn": [
             {
@@ -15946,8 +15946,8 @@
             "The main character does what is best for his town.",
             "The main character does this despite the danger."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The 1945 film, A Bell for Adano inspires positive emotions as the main character follows his heart and does what is best for his town despite the danger.",
         "Step 2 top k kn": [
             {
@@ -16030,8 +16030,8 @@
             "It is located in Berlin's western city center south of the German parliament.",
             "The gate is known for demonstrators gathered on the west side, which became a border."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "The Brandenburg Gate is full of history and located in Berlin's western city center south of the German parliament and is known for demonstrators gathered on the west side, which became a border.",
         "Step 2 top k kn": [
             {
@@ -16119,8 +16119,8 @@
             "Tom Petty had a successful career.",
             "Tom Petty died after having a successful career."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Tom Petty died on his birthday after having a successful career.",
         "Step 2 top k kn": [
             {
@@ -16203,8 +16203,8 @@
             "Buddha is inspired.",
             "Buddha inspires the Christian Saint Josaphat."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Budda is inspired the Chirstian Saint Josaphat.",
         "Step 2 top k kn": [
             {
@@ -16287,8 +16287,8 @@
             "Emperor Puyi died shortly after he was captured by Soviets.",
             "[1] He was then taken to a prison in Russia."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Emperor Puyi died shortly after he was captured by Soviets and taken to a prison in Russia.",
         "Step 2 top k kn": [
             {
@@ -16375,8 +16375,8 @@
             "The Scottish football club Tottenham Hotspur Football Club started as a group of schoolboys playing together",
             "Tottenham Hotspur Football Club now is a company."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The Scottish football club Tottenham Hotspur Football Club started as a group of schoolboys playing together bu it now a company.",
         "Step 2 top k kn": [
             {
@@ -16468,8 +16468,8 @@
             "It unfolds by having a tryst between two women.",
             "The novel includes a tryst between two women."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Remembrance of Things Past is a multiple volume novel and has a tryst between two women.",
         "Step 2 top k kn": [
             {
@@ -16551,8 +16551,8 @@
             "Goose Goslin was an English professional baseball player.",
             "He was one of the MLB's top run producers."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "Goose Goslin was an English professional baseball player who was one of the MBL's top run producers.",
         "Step 2 top k kn": [
             {
@@ -16633,8 +16633,8 @@
         "split sentences": [
             "Margaret Thatcher's daddy was the owner of a convenience store."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 1,
         "ori text": "Margaret Thatcher's daddy was the owner of a convenience store.",
         "Step 2 top k kn": [
             {
@@ -16716,8 +16716,8 @@
             "Wolfgang Amadeus Mozart had six older siblings.",
             "They all learned how to play an instrument."
         ],
-        "ori retrieve result": 0,
-        "max retrieve result": 0,
+        "Step1 retrieve result": 0,
+        "Step2 retrieve result": 0,
         "ori text": "Wolfgang Amadeus Mozart had six older siblings that all learned how to play an instrument.",
         "Step 2 top k kn": [
             {
@@ -16798,8 +16798,8 @@
         "split sentences": [
             "The Hull House, founded in 1889 in Chicago, Illinois, closed in 2020."
         ],
-        "ori retrieve result": 1,
-        "max retrieve result": 1,
+        "Step1 retrieve result": 1,
+        "Step2 retrieve result": 1,
         "ori text": "The Hull House founded in 1889 in Chicago, Illinois closed in 2020.",
         "Step 2 top k kn": [
             {
