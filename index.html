@@ -35,12 +35,12 @@
 <body>
     <h1>FM2 JSON Data</h1>
     <select id="file-selector">
-        <option value="data/tfidf_checked/paraphrased.top3.merged_sec.json">TFIDF R@3</option>
-        <option value="data/tfidf_checked/paraphrased.top5.merged_sec.json">TFIDF R@5</option>
-        <option value="data/tfidf_checked/paraphrased.top10.merged_sec.json">TFIDF R@10</option>
-        <option value="data/contriever_checked/paraphrased.top3.merged_sec.json">Contriever R@3</option>
-        <option value="data/contriever_checked/paraphrased.top5.merged_sec.json">Contriever R@5</option>
-        <option value="data/contriever_checked/paraphrased.top10.merged_sec.json">Contriever R@10</option>
+        <option value="data/tfidf_checked/paraphrased.per_section.top3.merged_sec.json">TFIDF R@3</option>
+        <option value="data/tfidf_checked/paraphrased.per_section.top5.merged_sec.json">TFIDF R@5</option>
+        <option value="data/tfidf_checked/paraphrased.per_section.top10.merged_sec.json">TFIDF R@10</option>
+        <option value="data/contriever_checked/paraphrased.per_section.top3.merged_sec.json">Contriever R@3</option>
+        <option value="data/contriever_checked/paraphrased.per_section.top5.merged_sec.json">Contriever R@5</option>
+        <option value="data/contriever_checked/paraphrased.per_section.top10.merged_sec.json">Contriever R@10</option>
         <!-- Add other file options here -->
     </select>
     <div id="data-container" class="container">
@@ -63,10 +63,10 @@
             const container = document.getElementById('data-container');
             container.innerHTML = ''; // Clear previous data
             const categories = {};
-            const keysOrder = ["id", "category", "gold_evidence", "Step1 retrieve result", "ori text", 'Step 1 top k kn', "Step2 retrieve result", "text", 'Step 2 top k kn'];
+            const keysOrder = ["id", "category", "gold_evidence", "Step1 retrieve result", "ori text", 'Step 1 top k kn', 'selected_i_th',"Step2 retrieve result", "text", 'Step 2 top k kn'];
             const keysAboveDivider = ["id", "category", "gold_evidence"];
             const keysAboveDivider2 = ["Step1 retrieve result", "ori text", 'Step 1 top k kn'];
-            const keysBelowDivider2 = ["Step2 retrieve result", "text", 'Step 2 top k kn'];
+            const keysBelowDivider2 = ['selected_i_th',"Step2 retrieve result", "text", 'Step 2 top k kn'];
 
             data.forEach(item => {
                 if (!categories[item.category]) {
