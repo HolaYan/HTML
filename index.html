@@ -118,7 +118,7 @@
         }
 
         function formatItemContent(key, item) {
-            if (key === 'gold_evidence' || key === 'Step 1 top k kn' || key === 'Step 2 top k kn' || key === 'generate path') {
+            if (key === 'gold_evidence' || key === 'Step 1 top k kn' || key === 'Step 2 top k kn' || key === 'generate path' || key === 'split sentences') {
                 let evidenceContent = `<strong>${key}:</strong><br>`;
                 item[key].forEach((evidence, index) => {
                     evidenceContent += `<div><u>Items ${index + 1}:</u><br>`;
