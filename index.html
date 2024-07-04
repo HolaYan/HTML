@@ -63,10 +63,10 @@
             const container = document.getElementById('data-container');
             container.innerHTML = ''; // Clear previous data
             const categories = {};
-            const keysOrder = ["id", "category", "gold_evidence",'split section', "Step1 retrieve result", "ori text", 'Step 1 top k kn', 'selected_i_th',"Step2 retrieve result", "text", 'Step 2 top k kn'];
-            const keysAboveDivider = ["id", "category", "gold_evidence",'split section'];
+            const keysOrder = ["id", "category", "gold_evidence",'split section','split sentences', "Step1 retrieve result", "ori text", 'Step 1 top k kn', 'generate path',"Step2 retrieve result", "text", 'Step 2 top k kn'];
+            const keysAboveDivider = ["id", "category", "gold_evidence",'split section','split sentences'];
             const keysAboveDivider2 = ["Step1 retrieve result", "ori text", 'Step 1 top k kn'];
-            const keysBelowDivider2 = ['selected_i_th',"Step2 retrieve result", "text", 'Step 2 top k kn'];
+            const keysBelowDivider2 = ['generate path',"Step2 retrieve result", "text", 'Step 2 top k kn'];
 
             data.forEach(item => {
                 if (!categories[item.category]) {
